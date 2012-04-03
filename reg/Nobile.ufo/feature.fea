@@ -198,7 +198,7 @@ lookup kernHorizontalKerninginLatinloo {
     pos @kc1_first_14 @kc1_second_24 -22;
     pos @kc1_first_14 @kc1_second_25 -31;
     pos @kc1_first_15 @kc1_second_11 -48;
-    pos @kc1_first_16 @kc1_second_9 -9;
+    pos @kc1_first_16 @kc1_second_9 -40;
     pos @kc1_first_16 @kc1_second_22 -16;
     pos @kc1_first_16 @kc1_second_23 -20;
     pos @kc1_first_16 @kc1_second_25 -18;
