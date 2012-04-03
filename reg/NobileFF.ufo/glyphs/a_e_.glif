@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1805"/>
+  <unicode hex="00c6"/>
+  <outline>
+    <contour>
+      <point x="928" y="1459" type="line" smooth="no"/>
+      <point x="438" y="493" type="line" smooth="no"/>
+      <point x="928" y="493" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="1769" y="0" type="line" smooth="no"/>
+      <point x="930" y="0" type="line" smooth="no"/>
+      <point x="930" y="371" type="line" smooth="no"/>
+      <point x="378" y="371" type="line" smooth="no"/>
+      <point x="186" y="0" type="line" smooth="no"/>
+      <point x="-23" y="0" type="line" smooth="no"/>
+      <point x="803" y="1579" type="line" smooth="no"/>
+      <point x="1741" y="1579" type="line" smooth="no"/>
+      <point x="1741" y="1436" type="line" smooth="no"/>
+      <point x="1093" y="1436" type="line" smooth="no"/>
+      <point x="1093" y="891" type="line" smooth="no"/>
+      <point x="1698" y="891" type="line" smooth="no"/>
+      <point x="1698" y="764" type="line" smooth="no"/>
+      <point x="1095" y="764" type="line" smooth="no"/>
+      <point x="1095" y="143" type="line" smooth="no"/>
+      <point x="1769" y="143" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>
