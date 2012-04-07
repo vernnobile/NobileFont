@@ -1,0 +1,40 @@
+FONTLOG for Nobile fonts
+
+This file provides detailed information on the Nobile 
+Font Software.
+
+This information should be distributed along with the 
+Nobile fonts and any derivative works. 
+
+
+Basic Font Information
+
+"Nobile" is designed to work with the technologies of digital screens and handheld devices without losing the distinctive look more usually found in fonts designed for printing. Going back to William Morris's baseline "Have nothing in your house that you do not know to be useful, or believe to be beautiful", the aim was to design a font that could function well, have good legibility on screen yet also be good looking, not only at larger display sizes but also right down to small text sizes.
+
+This release supports the following 
+Unicode ranges: Latin, Latin-Extended
+
+There are 4 Source files:
+
+1. src/Nobile.sfd Original Source Files in postscript curves.
+2. src/Nobile.ufo Source Files in UFO format.
+3. src/Nobile.otf OpenType font format.
+
+To contribute to the project contact Vernon Adams
+at vern@newtypography.co.uk and use the gitHub repository at https://github.com/vernnobile/NobileFont
+
+ChangeLog
+
+27 March 2012 (Vernon Adams) Nobile v1.001
+- Initial release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: Vernon Adams
+E: vern@newtypography.co.uk
+W: code.newtypography.co.uk
+D: Original Type Designer

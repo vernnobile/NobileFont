@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="1">
+  <advance width="1336"/>
+  <unicode hex="00dd"/>
+  <outline>
+    <component base="acute" xOffset="130" yOffset="406"/>
+    <component base="Y"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

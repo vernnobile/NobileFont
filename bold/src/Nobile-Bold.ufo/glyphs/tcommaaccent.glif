@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcommaaccent" format="1">
+  <advance width="909"/>
+  <unicode hex="021b"/>
+  <outline>
+    <component base="t"/>
+    <component base="cedilla" xOffset="248.5" yOffset="7.167"/>
+  </outline>
+</glyph>

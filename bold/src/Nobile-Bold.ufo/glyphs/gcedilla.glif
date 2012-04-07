@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcedilla" format="1">
+  <advance width="1268"/>
+  <unicode hex="0123"/>
+  <outline>
+    <component base="g"/>
+    <contour>
+      <point x="861" y="1713" type="line" smooth="no"/>
+      <point x="861" y="1298" type="line" smooth="no"/>
+      <point x="443" y="1298" type="line" smooth="no"/>
+      <point x="443" y="1660" type="line" smooth="yes"/>
+      <point x="443" y="1900"/>
+      <point x="630" y="1970"/>
+      <point x="798" y="2020" type="curve" smooth="no"/>
+      <point x="860" y="1906" type="line" smooth="no"/>
+      <point x="733" y="1860"/>
+      <point x="683" y="1815"/>
+      <point x="683" y="1713" type="curve" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>
