@@ -4,18 +4,18 @@
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="1123" y="0" type="line" smooth="no"/>
-      <point x="140" y="0" type="line" smooth="no"/>
-      <point x="140" y="1579" type="line" smooth="no"/>
-      <point x="1110" y="1579" type="line" smooth="no"/>
-      <point x="1110" y="1436" type="line" smooth="no"/>
-      <point x="334" y="1436" type="line" smooth="no"/>
-      <point x="334" y="891" type="line" smooth="no"/>
-      <point x="1012" y="891" type="line" smooth="no"/>
-      <point x="1012" y="776" type="line" smooth="no"/>
-      <point x="334" y="776" type="line" smooth="no"/>
-      <point x="334" y="143" type="line" smooth="no"/>
-      <point x="1123" y="143" type="line" smooth="no"/>
+      <point x="1123" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="1579" type="line"/>
+      <point x="1110" y="1579" type="line"/>
+      <point x="1110" y="1436" type="line"/>
+      <point x="334" y="1436" type="line"/>
+      <point x="334" y="891" type="line"/>
+      <point x="1012" y="891" type="line"/>
+      <point x="1012" y="776" type="line"/>
+      <point x="334" y="776" type="line"/>
+      <point x="334" y="143" type="line"/>
+      <point x="1123" y="143" type="line"/>
     </contour>
   </outline>
 </glyph>

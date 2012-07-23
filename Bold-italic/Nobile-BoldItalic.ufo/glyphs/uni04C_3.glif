@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04C3" format="1">
+  <advance width="1503"/>
+  <unicode hex="04C3"/>
+  <outline>
+    <component base="afii10028"/>
+    <component base="hook" xOffset="832"/>
+  </outline>
+</glyph>

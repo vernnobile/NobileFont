@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Agrave" format="1">
   <advance width="1400"/>
-  <unicode hex="00c0"/>
+  <unicode hex="00C0"/>
   <outline>
-    <component base="grave" xOffset="247" yOffset="1384"/>
     <component base="A"/>
+    <component base="grave" xOffset="247" yOffset="1384"/>
   </outline>
 </glyph>

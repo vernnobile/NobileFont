@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="1">
   <advance width="724"/>
-  <unicode hex="00f7"/>
+  <unicode hex="00F7"/>
   <outline>
     <contour>
       <point x="346" y="445" type="curve" smooth="yes"/>
@@ -32,10 +32,10 @@
       <point x="285" y="930"/>
     </contour>
     <contour>
-      <point x="691" y="508" type="line" smooth="no"/>
-      <point x="9" y="508" type="line" smooth="no"/>
-      <point x="9" y="639" type="line" smooth="no"/>
-      <point x="691" y="639" type="line" smooth="no"/>
+      <point x="691" y="508" type="line"/>
+      <point x="9" y="508" type="line"/>
+      <point x="9" y="639" type="line"/>
+      <point x="691" y="639" type="line"/>
     </contour>
   </outline>
 </glyph>

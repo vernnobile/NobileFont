@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04BE" format="1">
+  <advance width="1933"/>
+  <unicode hex="04BE"/>
+  <outline>
+    <component base="ogonek" xOffset="724"/>
+    <component base="uni04BC"/>
+  </outline>
+</glyph>
