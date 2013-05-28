@@ -25,8 +25,11 @@ at vern@newtypography.co.uk and use the gitHub repository at https://github.com/
 
 ChangeLog
 
-27 March 2012 (Vernon Adams) Nobile v1.001
+27 March 2010 (Vernon Adams) Nobile v1.001
 - Initial release
+
+13 August 2012 (vernon Adams) started v2
+- work in 'in-progress' directory
 
 Acknowledgements
 

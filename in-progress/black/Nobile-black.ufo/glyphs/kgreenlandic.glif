@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="1346"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="555" y="370" type="line"/>
+      <point x="638" y="454" type="line"/>
+      <point x="915" y="0" type="line"/>
+      <point x="1391" y="0" type="line"/>
+      <point x="908" y="644" type="line"/>
+      <point x="1404" y="1157" type="line"/>
+      <point x="931" y="1157" type="line"/>
+      <point x="555" y="723" type="line"/>
+      <point x="555" y="984" type="line"/>
+      <point x="142" y="998" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="1">
+  <advance width="1069"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="533" y="1693" type="curve" smooth="yes"/>
+      <point x="429" y="1693"/>
+      <point x="340" y="1772"/>
+      <point x="340" y="1880" type="curve" smooth="yes"/>
+      <point x="340" y="1982"/>
+      <point x="425" y="2068"/>
+      <point x="533" y="2068" type="curve" smooth="yes"/>
+      <point x="634" y="2068"/>
+      <point x="728" y="1990"/>
+      <point x="728" y="1880" type="curve" smooth="yes"/>
+      <point x="728" y="1773"/>
+      <point x="637" y="1693"/>
+    </contour>
+    <contour>
+      <point x="519" y="1502" type="curve" smooth="yes"/>
+      <point x="732" y="1502"/>
+      <point x="948" y="1647"/>
+      <point x="948" y="1874" type="curve" smooth="yes"/>
+      <point x="948" y="2098"/>
+      <point x="751" y="2259"/>
+      <point x="534" y="2259" type="curve" smooth="yes"/>
+      <point x="328" y="2259"/>
+      <point x="121" y="2102"/>
+      <point x="121" y="1887" type="curve" smooth="yes"/>
+      <point x="121" y="1677"/>
+      <point x="307" y="1502"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
