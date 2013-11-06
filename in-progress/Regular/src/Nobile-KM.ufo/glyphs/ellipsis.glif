@@ -1,10 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ellipsis" format="1">
-  <advance width="1368"/>
-  <unicode hex="2026"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="ellipsis" format="1">
+  <advance width="4044"></advance>
+  <unicode hex="2026"></unicode>
   <outline>
-    <component base="period" xOffset="912"/>
-    <component base="period" xOffset="456"/>
-    <component base="period"/>
+    <component base="period" xOffset="26928.875000" yOffset="0.000000" ></component>
+    <component base="period" xOffset="26472.875000" yOffset="0.000000" ></component>
+    <component base="period" xOffset="26016.875000" yOffset="0.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

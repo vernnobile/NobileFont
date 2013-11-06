@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rcaron" format="1">
-  <advance width="771"/>
-  <unicode hex="0159"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="rcaron" format="1">
+  <advance width="888"></advance>
+  <unicode hex="0159"></unicode>
   <outline>
-    <component base="caron" xOffset="-14" yOffset="860"/>
-    <component base="r"/>
+    <component base="caron" xOffset="-921.358826" yOffset="860.000000" ></component>
+    <component base="r" xOffset="-919.035156" yOffset="0.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>

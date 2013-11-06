@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="aacute" format="1">
-  <advance width="1189"/>
-  <unicode hex="00E1"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="aacute" format="1">
+  <advance width="1404"></advance>
+  <unicode hex="00E1"></unicode>
   <outline>
-    <component base="a"/>
-    <component base="acute" xOffset="488" yOffset="964"/>
+    <component base="a" xOffset="13729.241211" yOffset="0.000000" ></component>
+    <component base="acute" xOffset="14082.416992" yOffset="964.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>

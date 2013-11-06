@@ -1,13 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni203E" format="1">
-  <advance width="929"/>
-  <unicode hex="203E"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni203E" format="1">
+  <advance width="1008"></advance>
+  <unicode hex="203E"></unicode>
   <outline>
     <contour>
-      <point x="123" y="122" type="line"/>
-      <point x="805" y="122" type="line"/>
-      <point x="805" y="239" type="line"/>
-      <point x="123" y="239" type="line"/>
+      <point x="160" y="122" type="line"></point>
+      <point x="842" y="122" type="line"></point>
+      <point x="842" y="239" type="line"></point>
+      <point x="160" y="239" type="line"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

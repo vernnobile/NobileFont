@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Acircumflex" format="1">
-  <advance width="1400"/>
-  <unicode hex="00C2"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Acircumflex" format="1">
+  <advance width="1632"></advance>
+  <unicode hex="00C2"></unicode>
   <outline>
-    <component base="A"/>
-    <component base="circumflex" xOffset="262" yOffset="1280"/>
+    <component base="A" xOffset="3970.417480" yOffset="0.000000" ></component>
+    <component base="circumflex" xOffset="4209.561035" yOffset="1280.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

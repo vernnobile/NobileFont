@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ecaron" format="1">
-  <advance width="1163"/>
-  <unicode hex="011A"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Ecaron" format="1">
+  <advance width="1452"></advance>
+  <unicode hex="011A"></unicode>
   <outline>
-    <component base="E"/>
-    <component base="caron" xOffset="194" yOffset="1280"/>
+    <component base="E" xOffset="4612.741211" yOffset="0.000000" ></component>
+    <component base="caron" xOffset="4816.296387" yOffset="1280.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>

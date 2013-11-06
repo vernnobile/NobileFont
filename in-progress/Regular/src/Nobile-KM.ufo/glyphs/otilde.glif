@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="otilde" format="1">
-  <advance width="1265"/>
-  <unicode hex="00F5"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="otilde" format="1">
+  <advance width="1272"></advance>
+  <unicode hex="00F5"></unicode>
   <outline>
-    <component base="o"/>
-    <component base="tilde" xOffset="146" yOffset="902"/>
+    <component base="o" xOffset="158.611740" yOffset="0.000000" ></component>
+    <component base="tilde" xOffset="280.082306" yOffset="902.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Idotaccent" format="1">
-  <advance width="779"/>
-  <unicode hex="0130"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Idotaccent" format="1">
+  <advance width="1116"></advance>
+  <unicode hex="0130"></unicode>
   <outline>
-    <component base="I"/>
-    <component base="uni0307" xOffset="144" yOffset="1729"/>
+    <component base="I" xOffset="4517.811523" yOffset="0.000000" ></component>
+    <component base="uni0307" xOffset="4684.543457" yOffset="1729.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

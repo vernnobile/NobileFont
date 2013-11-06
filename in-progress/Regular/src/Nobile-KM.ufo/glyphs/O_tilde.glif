@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Otilde" format="1">
-  <advance width="1538"/>
-  <unicode hex="00D5"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Otilde" format="1">
+  <advance width="1716"></advance>
+  <unicode hex="00D5"></unicode>
   <outline>
-    <component base="O"/>
-    <component base="tilde" xOffset="282" yOffset="1322"/>
+    <component base="O" xOffset="6146.641113" yOffset="0.000000" ></component>
+    <component base="tilde" xOffset="6432.137207" yOffset="1322.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>

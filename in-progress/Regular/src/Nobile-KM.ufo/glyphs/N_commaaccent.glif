@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ncommaaccent" format="1">
-  <advance width="1533"/>
-  <unicode hex="0145"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Ncommaaccent" format="1">
+  <advance width="1728"></advance>
+  <unicode hex="0145"></unicode>
   <outline>
-    <component base="N"/>
-    <component base="uni0326" xOffset="505" yOffset="11"/>
+    <component base="N" xOffset="12995.294922" yOffset="0.000000" ></component>
+    <component base="uni0326" xOffset="13420.349609" yOffset="11.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

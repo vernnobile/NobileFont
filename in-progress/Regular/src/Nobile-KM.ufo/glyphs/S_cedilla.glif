@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Scedilla" format="1">
-  <advance width="1269"/>
-  <unicode hex="015E"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Scedilla" format="1">
+  <advance width="1572"></advance>
+  <unicode hex="015E"></unicode>
   <outline>
-    <component base="S"/>
-    <component base="cedilla" xOffset="460" yOffset="-95"/>
+    <component base="S" xOffset="13806.747070" yOffset="0.000000" ></component>
+    <component base="cedilla" xOffset="14192.567383" yOffset="-95.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>

@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Uogonek" format="1">
-  <advance width="1492"/>
-  <unicode hex="0172"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Uogonek" format="1">
+  <advance width="1524"></advance>
+  <unicode hex="0172"></unicode>
   <outline>
-    <component base="U"/>
-    <component base="ogonek" xOffset="354" yOffset="-95"/>
+    <component base="U" xOffset="8174.834961" yOffset="0.000000" ></component>
+    <component base="ogonek" xOffset="8364.596680" yOffset="-95.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>

@@ -1,25 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="x" format="1">
-  <advance width="1025"/>
-  <unicode hex="0078"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="x" format="1">
+  <advance width="1116"></advance>
+  <unicode hex="0078"></unicode>
   <outline>
     <contour>
-      <point x="28" y="0" type="line"/>
-      <point x="221" y="0" type="line"/>
-      <point x="518" y="467" type="line"/>
-      <point x="805" y="0" type="line"/>
-      <point x="996" y="0" type="line"/>
-      <point x="612" y="584" type="line"/>
-      <point x="1003" y="1169" type="line"/>
-      <point x="811" y="1169" type="line"/>
-      <point x="512" y="712" type="line"/>
-      <point x="215" y="1169" type="line"/>
-      <point x="22" y="1169" type="line"/>
-      <point x="418" y="584" type="line"/>
+      <point x="69" y="0" type="line"></point>
+      <point x="262" y="0" type="line"></point>
+      <point x="559" y="467" type="line"></point>
+      <point x="846" y="0" type="line"></point>
+      <point x="1037" y="0" type="line"></point>
+      <point x="653" y="584" type="line"></point>
+      <point x="1044" y="1169" type="line"></point>
+      <point x="852" y="1169" type="line"></point>
+      <point x="553" y="712" type="line"></point>
+      <point x="256" y="1169" type="line"></point>
+      <point x="63" y="1169" type="line"></point>
+      <point x="459" y="584" type="line"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>

@@ -1,29 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="daggerdbl" format="1">
-  <advance width="1092"/>
-  <unicode hex="2021"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="daggerdbl" format="1">
+  <advance width="1200"></advance>
+  <unicode hex="2021"></unicode>
   <outline>
     <contour>
-      <point x="453" y="0" type="line"/>
-      <point x="644" y="0" type="line"/>
-      <point x="644" y="305" type="line"/>
-      <point x="970" y="305" type="line"/>
-      <point x="970" y="444" type="line"/>
-      <point x="644" y="444" type="line"/>
-      <point x="644" y="1020" type="line"/>
-      <point x="972" y="1020" type="line"/>
-      <point x="972" y="1161" type="line"/>
-      <point x="646" y="1161" type="line"/>
-      <point x="646" y="1468" type="line"/>
-      <point x="453" y="1468" type="line"/>
-      <point x="453" y="1161" type="line"/>
-      <point x="118" y="1161" type="line"/>
-      <point x="118" y="1020" type="line"/>
-      <point x="453" y="1020" type="line"/>
-      <point x="453" y="444" type="line"/>
-      <point x="118" y="444" type="line"/>
-      <point x="118" y="305" type="line"/>
-      <point x="453" y="305" type="line"/>
+      <point x="503" y="0" type="line"></point>
+      <point x="694" y="0" type="line"></point>
+      <point x="694" y="305" type="line"></point>
+      <point x="1020" y="305" type="line"></point>
+      <point x="1020" y="444" type="line"></point>
+      <point x="694" y="444" type="line"></point>
+      <point x="694" y="1020" type="line"></point>
+      <point x="1022" y="1020" type="line"></point>
+      <point x="1022" y="1161" type="line"></point>
+      <point x="696" y="1161" type="line"></point>
+      <point x="696" y="1468" type="line"></point>
+      <point x="503" y="1468" type="line"></point>
+      <point x="503" y="1161" type="line"></point>
+      <point x="168" y="1161" type="line"></point>
+      <point x="168" y="1020" type="line"></point>
+      <point x="503" y="1020" type="line"></point>
+      <point x="503" y="444" type="line"></point>
+      <point x="168" y="444" type="line"></point>
+      <point x="168" y="305" type="line"></point>
+      <point x="503" y="305" type="line"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

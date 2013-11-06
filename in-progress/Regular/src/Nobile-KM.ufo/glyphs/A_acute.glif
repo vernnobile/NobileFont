@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Aacute" format="1">
-  <advance width="1400"/>
-  <unicode hex="00C1"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Aacute" format="1">
+  <advance width="1776"></advance>
+  <unicode hex="00C1"></unicode>
   <outline>
-    <component base="A"/>
-    <component base="acute" xOffset="604" yOffset="1384"/>
+    <component base="A" xOffset="17440.707031" yOffset="0.000000" ></component>
+    <component base="acute" xOffset="17920.556641" yOffset="1384.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

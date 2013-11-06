@@ -1,9 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni021B" format="1">
-  <advance width="803"/>
-  <unicode hex="021B"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni021B" format="1">
+  <advance width="1224"></advance>
+  <unicode hex="021B"></unicode>
   <outline>
-    <component base="t"/>
-    <component base="uni0326" xOffset="124" yOffset="-3"/>
+    <component base="t" xOffset="1418.217651" yOffset="0.000000" ></component>
+    <component base="uni0326" xOffset="1430.129395" yOffset="-3.000000" ></component>
   </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni021B</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>968</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
 </glyph>

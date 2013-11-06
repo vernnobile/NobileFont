@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acircumflex" format="1">
-  <advance width="1189"/>
-  <unicode hex="00E2"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="acircumflex" format="1">
+  <advance width="1416"></advance>
+  <unicode hex="00E2"></unicode>
   <outline>
-    <component base="a"/>
-    <component base="circumflex" xOffset="146" yOffset="860"/>
+    <component base="a" xOffset="945.188232" yOffset="0.000000" ></component>
+    <component base="circumflex" xOffset="1057.658813" yOffset="860.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>

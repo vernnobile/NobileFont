@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="igrave" format="1">
-  <advance width="403"/>
-  <unicode hex="00EC"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="igrave" format="1">
+  <advance width="972"></advance>
+  <unicode hex="00EC"></unicode>
   <outline>
-    <component base="dotlessi"/>
-    <component base="grave" xOffset="-251" yOffset="964"/>
+    <component base="dotlessi" xOffset="-2990.541016" yOffset="0.000000" ></component>
+    <component base="grave" xOffset="-3235.335205" yOffset="964.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>
