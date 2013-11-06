@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="456"/>
+  <advance width="564"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="145" y="0" type="line"/>
-      <point x="335" y="0" type="line"/>
-      <point x="335" y="1614" type="line"/>
-      <point x="145" y="1579" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="381" y="1614" type="line"/>
+      <point x="201" y="1579" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,8 +34,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>456</integer>
+          <integer>564</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>49</integer>
+        <key>rstem</key>
+        <integer>118</integer>
       </dict>
     </dict>
   </lib>

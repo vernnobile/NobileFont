@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0209" format="1">
-  <advance width="403"/>
-  <unicode hex="0209"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni0209" format="1">
+  <advance width="1128"></advance>
+  <unicode hex="0209"></unicode>
   <outline>
-    <component base="dotlessi"/>
-    <component base="uni030F" xOffset="-366" yOffset="964"/>
+    <component base="dotlessi" xOffset="-1893.305908" yOffset="0.000000" ></component>
+    <component base="uni030F" xOffset="-2200.693848" yOffset="964.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

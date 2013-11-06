@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotlessi" format="1">
-  <advance width="403"/>
-  <unicode hex="0131"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="dotlessi" format="1">
+  <advance width="630"></advance>
+  <unicode hex="0131"></unicode>
   <outline>
     <contour>
-      <point x="111" y="0" type="line"/>
-      <point x="293" y="0" type="line"/>
-      <point x="293" y="1169" type="line"/>
-      <point x="111" y="1169" type="line"/>
+      <point x="222" y="0" type="line"></point>
+      <point x="404" y="0" type="line"></point>
+      <point x="404" y="1169" type="line"></point>
+      <point x="222" y="1169" type="line"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

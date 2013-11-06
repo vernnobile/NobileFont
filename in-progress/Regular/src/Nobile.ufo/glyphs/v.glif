@@ -1,22 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="1">
-  <advance width="1081"/>
+  <advance width="1128"/>
   <unicode hex="0076"/>
   <outline>
     <contour>
-      <point x="455" y="0" type="line"/>
-      <point x="636" y="0" type="line"/>
-      <point x="1049" y="1169" type="line"/>
-      <point x="864" y="1169" type="line"/>
-      <point x="549" y="163" type="line"/>
-      <point x="215" y="1169" type="line"/>
-      <point x="32" y="1169" type="line"/>
+      <point x="473" y="0" type="line"/>
+      <point x="654" y="0" type="line"/>
+      <point x="1067" y="1169" type="line"/>
+      <point x="882" y="1169" type="line"/>
+      <point x="567" y="163" type="line"/>
+      <point x="233" y="1169" type="line"/>
+      <point x="50" y="1169" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>v</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1128</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

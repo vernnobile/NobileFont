@@ -1,15 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Lslash" format="1">
-  <advance width="1175"/>
-  <unicode hex="0141"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Lslash" format="1">
+  <advance width="1294"></advance>
+  <unicode hex="0141"></unicode>
   <outline>
     <contour>
-      <point x="123" y="0" type="line"/>
-      <point x="1063" y="0" type="line"/>
-      <point x="1063" y="143" type="line"/>
-      <point x="317" y="143" type="line"/>
-      <point x="317" y="1579" type="line"/>
-      <point x="123" y="1579" type="line"/>
+      <point x="197" y="0" type="line"></point>
+      <point x="1137" y="0" type="line"></point>
+      <point x="1137" y="143" type="line"></point>
+      <point x="391" y="143" type="line"></point>
+      <point x="391" y="1579" type="line"></point>
+      <point x="197" y="1579" type="line"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

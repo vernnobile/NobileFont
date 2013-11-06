@@ -1,29 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ogonek" format="1">
-  <advance width="502"/>
-  <unicode hex="02DB"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="ogonek" format="1">
+  <advance width="829"></advance>
+  <unicode hex="02DB"></unicode>
   <outline>
     <contour>
-      <point x="319" y="-578" type="curve" smooth="yes"/>
-      <point x="382" y="-578"/>
-      <point x="444" y="-560"/>
-      <point x="503" y="-540" type="curve"/>
-      <point x="503" y="-423" type="line"/>
-      <point x="463" y="-437"/>
-      <point x="378" y="-464"/>
-      <point x="339" y="-464" type="curve" smooth="yes"/>
-      <point x="239" y="-464"/>
-      <point x="203" y="-423"/>
-      <point x="203" y="-364" type="curve" smooth="yes"/>
-      <point x="203" y="-208"/>
-      <point x="453" y="76"/>
-      <point x="453" y="76" type="curve"/>
-      <point x="332" y="76" type="line"/>
-      <point x="295" y="33"/>
-      <point x="55" y="-235"/>
-      <point x="55" y="-414" type="curve" smooth="yes"/>
-      <point x="55" y="-508"/>
-      <point x="122" y="-578"/>
+      <point x="514" y="-578" type="curve" smooth="yes"></point>
+      <point x="577" y="-578"></point>
+      <point x="639" y="-560"></point>
+      <point x="698" y="-540" type="curve"></point>
+      <point x="698" y="-423" type="line"></point>
+      <point x="658" y="-437"></point>
+      <point x="573" y="-464"></point>
+      <point x="534" y="-464" type="curve" smooth="yes"></point>
+      <point x="434" y="-464"></point>
+      <point x="398" y="-423"></point>
+      <point x="398" y="-364" type="curve" smooth="yes"></point>
+      <point x="398" y="-208"></point>
+      <point x="648" y="76"></point>
+      <point x="648" y="76" type="curve"></point>
+      <point x="527" y="76" type="line"></point>
+      <point x="490" y="33"></point>
+      <point x="250" y="-235"></point>
+      <point x="250" y="-414" type="curve" smooth="yes"></point>
+      <point x="250" y="-508"></point>
+      <point x="317" y="-578"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="768"/>
+  <advance width="763"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="135" y="0" type="line"/>
-      <point x="325" y="0" type="line"/>
-      <point x="325" y="894" type="line"/>
-      <point x="400" y="966"/>
-      <point x="643" y="1026"/>
-      <point x="709" y="1026" type="curve"/>
-      <point x="690" y="1180" type="line"/>
-      <point x="573" y="1180"/>
-      <point x="390" y="1083"/>
-      <point x="308" y="977" type="curve"/>
-      <point x="278" y="1169" type="line"/>
-      <point x="135" y="1169" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="350" y="894" type="line"/>
+      <point x="425" y="966"/>
+      <point x="668" y="1026"/>
+      <point x="734" y="1026" type="curve"/>
+      <point x="715" y="1180" type="line"/>
+      <point x="598" y="1180"/>
+      <point x="415" y="1083"/>
+      <point x="333" y="977" type="curve"/>
+      <point x="303" y="1169" type="line"/>
+      <point x="160" y="1169" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,8 +42,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>768</integer>
+          <integer>763</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>368</integer>
       </dict>
     </dict>
   </lib>

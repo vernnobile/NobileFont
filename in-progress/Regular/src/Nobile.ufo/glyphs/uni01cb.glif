@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni01cb" format="1">
-  <advance width="2072"/>
-  <unicode hex="01CB"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni01cb" format="1">
+  <advance width="2488"></advance>
+  <unicode hex="01CB"></unicode>
   <outline>
-    <component base="N"/>
-    <component base="j" xOffset="1533"/>
+    <component base="N" xOffset="21002.765625" yOffset="0.000000" ></component>
+    <component base="j" xOffset="22572.126953" yOffset="0.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

@@ -1,21 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="1141"/>
+  <advance width="1294"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="150" y="0" type="line"/>
-      <point x="1090" y="0" type="line"/>
-      <point x="1090" y="143" type="line"/>
-      <point x="344" y="143" type="line"/>
-      <point x="344" y="1579" type="line"/>
-      <point x="150" y="1579" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="1137" y="0" type="line"/>
+      <point x="1137" y="143" type="line"/>
+      <point x="391" y="143" type="line"/>
+      <point x="391" y="1579" type="line"/>
+      <point x="197" y="1579" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>L</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1294</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

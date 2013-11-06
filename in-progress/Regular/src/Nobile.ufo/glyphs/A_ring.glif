@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Aring" format="1">
-  <advance width="1400"/>
-  <unicode hex="00C5"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Aring" format="1">
+  <advance width="1659"></advance>
+  <unicode hex="00C5"></unicode>
   <outline>
-    <component base="A"/>
-    <component base="ring" xOffset="417" yOffset="934"/>
+    <component base="A" xOffset="3497.441162" yOffset="0.000000" ></component>
+    <component base="ring" xOffset="3792.886963" yOffset="934.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iogonek" format="1">
-  <advance width="492"/>
-  <unicode hex="012F"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="iogonek" format="1">
+  <advance width="1161"></advance>
+  <unicode hex="012F"></unicode>
   <outline>
-    <component base="i"/>
-    <component base="ogonek" xOffset="-142" yOffset="-54"/>
+    <component base="i" xOffset="749.562378" yOffset="0.000000" ></component>
+    <component base="ogonek" xOffset="451.000000" yOffset="-54.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>
