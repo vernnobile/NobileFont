@@ -4,10 +4,10 @@
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="278" y="793" type="move" name="mid"/>
+      <point x="691" y="1485" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="691" y="1485" type="move" name="top"/>
+      <point x="278" y="793" type="move" name="mid"/>
     </contour>
     <contour>
       <point x="361" y="133" type="line"/>
@@ -34,29 +34,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>133</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1354</integer>
-	    <key>width</key>	    <integer>131</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>1136</integer>
-	    <key>width</key>
-	    <integer>178</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>name</key>
       <string>D</string>
     <key>com.typemytype.robofont.layerData</key>
@@ -90,9 +67,6 @@
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
     <key>width</key>
       <integer>1418</integer>
     <key>contours</key>
@@ -101,9 +75,12 @@
     <key>components</key>
       <array>
       </array>
+    <key>anchors</key>
+      <array>
+      </array>
     <key>position</key>
       <integer>1197</integer>
-    <key>anchors</key>
+    <key>com.typemytype.robofont.guides</key>
       <array>
       </array>
     </dict>

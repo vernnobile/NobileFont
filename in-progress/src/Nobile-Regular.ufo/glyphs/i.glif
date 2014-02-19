@@ -6,8 +6,8 @@
     <contour>
       <point x="188" y="0" type="line"/>
       <point x="359" y="0" type="line"/>
-      <point x="359" y="1098" type="line"/>
-      <point x="188" y="1098" type="line"/>
+      <point x="359" y="1096" type="line"/>
+      <point x="188" y="1096" type="line"/>
     </contour>
     <contour>
       <point x="279" y="1266" type="curve" smooth="yes"/>
@@ -26,25 +26,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1266</integer>
-	    <key>width</key>	    <integer>214</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>175</integer>
-	    <key>width</key>
-	    <integer>204</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>name</key>
       <string>i</string>
     <key>com.typemytype.robofont.layerData</key>

@@ -56,46 +56,13 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-19</integer>
-	    <key>width</key>	    <integer>127</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>990</integer>
-	    <key>width</key>	    <integer>129</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1100</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>101</integer>
-	    <key>width</key>
-	    <integer>168</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>928</integer>
-	    <key>width</key>
-	    <integer>169</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>width</key>
-      <integer>95</integer>
     <key>position</key>
       <integer>942</integer>
+    <key>width</key>
+      <integer>95</integer>
     </dict>
   </lib>
 </glyph>

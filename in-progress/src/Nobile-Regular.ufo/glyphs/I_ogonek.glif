@@ -8,31 +8,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-493</integer>
-	    <key>width</key>	    <integer>116</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>193</integer>
-	    <key>width</key>
-	    <integer>555</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>247</integer>
-	    <key>width</key>
-	    <integer>121</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>name</key>
       <string>Iogonek</string>
     <key>com.typemytype.robofont.layerData</key>

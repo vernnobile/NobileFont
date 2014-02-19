@@ -4,10 +4,10 @@
   <unicode hex="02DA"/>
   <outline>
     <contour>
-      <point x="390" y="1568" type="move" name="top"/>
+      <point x="420" y="1098" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="420" y="1098" type="move" name="_top"/>
+      <point x="390" y="1568" type="move" name="top"/>
     </contour>
     <contour>
       <point x="420" y="1309" type="curve" smooth="yes"/>
@@ -40,42 +40,13 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1226</integer>
-	    <key>width</key>	    <integer>83</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1588</integer>
-	    <key>width</key>	    <integer>83</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>195</integer>
-	    <key>width</key>
-	    <integer>89</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>552</integer>
-	    <key>width</key>
-	    <integer>89</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>width</key>
-      <integer>50</integer>
     <key>position</key>
       <integer>309</integer>
+    <key>width</key>
+      <integer>50</integer>
     </dict>
   </lib>
 </glyph>

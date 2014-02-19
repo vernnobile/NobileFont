@@ -4,80 +4,47 @@
   <unicode hex="0062"/>
   <outline>
     <contour>
-      <point x="669" y="1098" type="move" name="top"/>
+      <point x="669" y="1099" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="656" y="-17" type="curve" smooth="yes"/>
-      <point x="981" y="-17"/>
+      <point x="656" y="-20" type="curve" smooth="yes"/>
+      <point x="981" y="-20"/>
       <point x="1124" y="261"/>
       <point x="1124" y="545" type="curve" smooth="yes"/>
       <point x="1124" y="869"/>
-      <point x="977" y="1115"/>
-      <point x="680" y="1115" type="curve" smooth="yes"/>
-      <point x="536" y="1115"/>
+      <point x="977" y="1116"/>
+      <point x="680" y="1116" type="curve" smooth="yes"/>
+      <point x="536" y="1116"/>
       <point x="420" y="1060"/>
       <point x="339" y="977" type="curve"/>
       <point x="339" y="1519" type="line"/>
       <point x="164" y="1486" type="line"/>
       <point x="164" y="0" type="line"/>
       <point x="293" y="0" type="line"/>
-      <point x="319" y="136" type="line"/>
-      <point x="389" y="55"/>
-      <point x="495" y="-17"/>
+      <point x="319" y="133" type="line"/>
+      <point x="389" y="52"/>
+      <point x="495" y="-20"/>
     </contour>
     <contour>
-      <point x="662" y="110" type="curve" smooth="yes"/>
-      <point x="506" y="110"/>
-      <point x="410" y="163"/>
-      <point x="339" y="249" type="curve"/>
+      <point x="662" y="107" type="curve" smooth="yes"/>
+      <point x="506" y="107"/>
+      <point x="410" y="160"/>
+      <point x="339" y="246" type="curve"/>
       <point x="339" y="858" type="line"/>
       <point x="422" y="933"/>
-      <point x="530" y="983"/>
-      <point x="650" y="983" type="curve" smooth="yes"/>
-      <point x="853" y="983"/>
+      <point x="530" y="984"/>
+      <point x="650" y="984" type="curve" smooth="yes"/>
+      <point x="853" y="984"/>
       <point x="956" y="827"/>
       <point x="956" y="549" type="curve" smooth="yes"/>
       <point x="956" y="347"/>
-      <point x="897" y="110"/>
+      <point x="897" y="107"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-17</integer>
-	    <key>width</key>	    <integer>127</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>983</integer>
-	    <key>width</key>	    <integer>132</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>164</integer>
-	    <key>width</key>
-	    <integer>175</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>164</integer>
-	    <key>width</key>
-	    <integer>129</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>956</integer>
-	    <key>width</key>
-	    <integer>168</integer>
-	  </dict>
-	</array>
-      </dict>
+    <key>segmentType</key>
+      <string>curve</string>
     <key>name</key>
       <string>b</string>
     <key>com.typemytype.robofont.layerData</key>
@@ -329,8 +296,6 @@
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>y</key>
-      <integer>1101</integer>
     <key>width</key>
       <integer>1225</integer>
     <key>points</key>
@@ -342,12 +307,12 @@
     <key>components</key>
       <array>
       </array>
-    <key>x</key>
-      <integer>607</integer>
-    <key>segmentType</key>
-      <string>curve</string>
     <key>position</key>
       <integer>1009</integer>
+    <key>y</key>
+      <integer>1101</integer>
+    <key>x</key>
+      <integer>607</integer>
     <key>anchors</key>
       <array>
       </array>

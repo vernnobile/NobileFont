@@ -24,6 +24,8 @@
   </outline>
   <lib>
     <dict>
+    <key>segmentType</key>
+      <string>line</string>
     <key>name</key>
       <string>M</string>
     <key>com.typemytype.robofont.layerData</key>
@@ -57,8 +59,6 @@
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>y</key>
-      <integer>0</integer>
     <key>width</key>
       <integer>1739</integer>
     <key>points</key>
@@ -70,12 +70,12 @@
     <key>components</key>
       <array>
       </array>
-    <key>x</key>
-      <integer>263</integer>
-    <key>segmentType</key>
-      <string>line</string>
     <key>position</key>
       <integer>1497</integer>
+    <key>y</key>
+      <integer>0</integer>
+    <key>x</key>
+      <integer>263</integer>
     <key>anchors</key>
       <array>
       </array>

@@ -11,8 +11,8 @@
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>width</key>
-      <integer>94</integer>
+    <key>position</key>
+      <integer>515</integer>
     <key>com.typemytype.robofont.layerData</key>
       <dict>
     <key>b</key>
@@ -38,8 +38,8 @@
       </array>
       </dict>
       </dict>
-    <key>position</key>
-      <integer>515</integer>
+    <key>width</key>
+      <integer>94</integer>
     </dict>
   </lib>
 </glyph>

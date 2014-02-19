@@ -13,24 +13,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>-13</integer>
-	    <key>width</key>
-	    <integer>532</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>179</integer>
-	    <key>width</key>
-	    <integer>171</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>

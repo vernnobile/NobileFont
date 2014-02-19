@@ -4,24 +4,24 @@
   <unicode hex="0065"/>
   <outline>
     <contour>
-      <point x="614" y="0" type="move" name="bot"/>
+      <point x="602" y="1099" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="691" y="0" type="move" name="ogonek"/>
+      <point x="691" y="-3" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="602" y="1098" type="move" name="top"/>
+      <point x="614" y="-3" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="611" y="-17" type="curve" smooth="yes"/>
-      <point x="740" y="-17"/>
-      <point x="905" y="26"/>
-      <point x="993" y="102" type="curve"/>
-      <point x="941" y="216" type="line"/>
-      <point x="901" y="183"/>
-      <point x="785" y="110"/>
-      <point x="641" y="110" type="curve" smooth="yes"/>
-      <point x="443" y="110"/>
+      <point x="611" y="-20" type="curve" smooth="yes"/>
+      <point x="740" y="-20"/>
+      <point x="905" y="23"/>
+      <point x="993" y="99" type="curve"/>
+      <point x="941" y="213" type="line"/>
+      <point x="901" y="180"/>
+      <point x="785" y="107"/>
+      <point x="641" y="107" type="curve" smooth="yes"/>
+      <point x="443" y="107"/>
       <point x="287" y="223"/>
       <point x="284" y="530" type="curve"/>
       <point x="1018" y="530" type="line"/>
@@ -29,20 +29,20 @@
       <point x="1028" y="599"/>
       <point x="1028" y="636" type="curve" smooth="yes"/>
       <point x="1028" y="907"/>
-      <point x="893" y="1115"/>
-      <point x="603" y="1115" type="curve" smooth="yes"/>
-      <point x="272" y="1115"/>
+      <point x="893" y="1116"/>
+      <point x="603" y="1116" type="curve" smooth="yes"/>
+      <point x="272" y="1116"/>
       <point x="113" y="844"/>
       <point x="113" y="544" type="curve" smooth="yes"/>
       <point x="113" y="231"/>
-      <point x="279" y="-17"/>
+      <point x="279" y="-20"/>
     </contour>
     <contour>
       <point x="289" y="645" type="line"/>
       <point x="305" y="835"/>
-      <point x="387" y="986"/>
-      <point x="603" y="986" type="curve" smooth="yes"/>
-      <point x="797" y="986"/>
+      <point x="387" y="987"/>
+      <point x="603" y="987" type="curve" smooth="yes"/>
+      <point x="797" y="987"/>
       <point x="873" y="843"/>
       <point x="873" y="672" type="curve" smooth="yes"/>
       <point x="873" y="645" type="line"/>
@@ -50,35 +50,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-17</integer>
-	    <key>width</key>	    <integer>127</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>986</integer>
-	    <key>width</key>	    <integer>129</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>113</integer>
-	    <key>width</key>
-	    <integer>171</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>873</integer>
-	    <key>width</key>
-	    <integer>155</integer>
-	  </dict>
-	</array>
-      </dict>
+    <key>segmentType</key>
+      <string>curve</string>
     <key>name</key>
       <string>e</string>
     <key>com.typemytype.robofont.layerData</key>
@@ -112,8 +85,6 @@
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>y</key>
-      <string>-16</string>
     <key>width</key>
       <integer>1188</integer>
     <key>points</key>
@@ -125,12 +96,12 @@
     <key>components</key>
       <array>
       </array>
-    <key>x</key>
-      <integer>277</integer>
-    <key>segmentType</key>
-      <string>curve</string>
     <key>position</key>
       <integer>981</integer>
+    <key>y</key>
+      <string>-16</string>
+    <key>x</key>
+      <integer>277</integer>
     <key>anchors</key>
       <array>
       </array>

@@ -8,51 +8,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-17</integer>
-	    <key>width</key>	    <integer>133</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>982</integer>
-	    <key>width</key>	    <integer>133</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1243</integer>
-	    <key>width</key>	    <integer>213</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>113</integer>
-	    <key>width</key>
-	    <integer>174</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>274</integer>
-	    <key>width</key>
-	    <integer>203</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>731</integer>
-	    <key>width</key>
-	    <integer>203</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>942</integer>
-	    <key>width</key>
-	    <integer>173</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>name</key>
       <string>odieresis</string>
     <key>com.typemytype.robofont.layerData</key>

@@ -4,34 +4,34 @@
     <dict>
 	<key>D</key>
 	<dict>
-	    <key>V</key>
-	    <integer>36</integer>
-	    <key>W</key>
-	    <integer>24</integer>
-	    <key>comma</key>
-	    <integer>25</integer>
 	    <key>period</key>
 	    <integer>30</integer>
+	    <key>comma</key>
+	    <integer>25</integer>
+	    <key>W</key>
+	    <integer>24</integer>
+	    <key>V</key>
+	    <integer>36</integer>
 	</dict>
 	<key>F</key>
 	<dict>
-	    <key>comma</key>
-	    <integer>-165</integer>
-	    <key>g</key>
-	    <integer>-43</integer>
-	    <key>period</key>
-	    <integer>-210</integer>
-	    <key>q</key>
-	    <integer>-36</integer>
 	    <key>s</key>
 	    <integer>-10</integer>
+	    <key>q</key>
+	    <integer>-36</integer>
+	    <key>period</key>
+	    <integer>-210</integer>
+	    <key>g</key>
+	    <integer>-43</integer>
+	    <key>comma</key>
+	    <integer>-165</integer>
 	</dict>
 	<key>L</key>
 	<dict>
-	    <key>quotedblright</key>
-	    <integer>-119</integer>
 	    <key>quoteright</key>
 	    <integer>-133</integer>
+	    <key>quotedblright</key>
+	    <integer>-119</integer>
 	</dict>
 	<key>V</key>
 	<dict>
@@ -45,12 +45,12 @@
 	</dict>
 	<key>b</key>
 	<dict>
-	    <key>b</key>
-	    <integer>-30</integer>
-	    <key>period</key>
-	    <integer>-130</integer>
 	    <key>v</key>
 	    <integer>-64</integer>
+	    <key>period</key>
+	    <integer>-130</integer>
+	    <key>b</key>
+	    <integer>-30</integer>
 	</dict>
 	<key>d</key>
 	<dict>
@@ -59,23 +59,23 @@
 	</dict>
 	<key>e</key>
 	<dict>
-	    <key>g</key>
-	    <integer>-14</integer>
 	    <key>x</key>
 	    <integer>8</integer>
+	    <key>g</key>
+	    <integer>-14</integer>
 	</dict>
 	<key>f</key>
 	<dict>
-	    <key>comma</key>
-	    <integer>-188</integer>
-	    <key>f</key>
-	    <integer>-74</integer>
-	    <key>period</key>
-	    <integer>-216</integer>
-	    <key>quotedblright</key>
-	    <integer>55</integer>
 	    <key>quoteright</key>
 	    <integer>55</integer>
+	    <key>quotedblright</key>
+	    <integer>55</integer>
+	    <key>period</key>
+	    <integer>-216</integer>
+	    <key>f</key>
+	    <integer>-74</integer>
+	    <key>comma</key>
+	    <integer>-188</integer>
 	</dict>
 	<key>g</key>
 	<dict>
@@ -84,12 +84,12 @@
 	</dict>
 	<key>m</key>
 	<dict>
-	    <key>v</key>
-	    <integer>-52</integer>
-	    <key>w</key>
-	    <integer>-40</integer>
 	    <key>x</key>
 	    <integer>-26</integer>
+	    <key>w</key>
+	    <integer>-40</integer>
+	    <key>v</key>
+	    <integer>-52</integer>
 	</dict>
 	<key>v</key>
 	<dict>

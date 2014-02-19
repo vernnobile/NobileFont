@@ -4,10 +4,10 @@
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="434" y="0" type="move" name="bot"/>
+      <point x="439" y="1098" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="439" y="1098" type="move" name="top"/>
+      <point x="434" y="0" type="move" name="bot"/>
     </contour>
     <contour>
       <point x="166" y="0" type="line"/>
@@ -20,31 +20,12 @@
       <point x="594" y="1109"/>
       <point x="440" y="1051"/>
       <point x="322" y="923" type="curve"/>
-      <point x="295" y="1098" type="line"/>
-      <point x="166" y="1098" type="line"/>
+      <point x="295" y="1096" type="line"/>
+      <point x="166" y="1096" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>967</integer>
-	    <key>width</key>	    <integer>142</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>166</integer>
-	    <key>width</key>
-	    <integer>129</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>name</key>
       <string>r</string>
     <key>com.typemytype.robofont.layerData</key>

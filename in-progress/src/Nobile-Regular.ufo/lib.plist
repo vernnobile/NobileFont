@@ -86,14 +86,14 @@
         <integer>0</integer>
         <real>0.7</real>
       </array>
-    <key>com.typemytype.robofont.segmentType</key>
-      <string>curve</string>
     <key>com.schriftgestaltung.useNiceNames</key>
       <false/>
     <key>com.typemytype.robofont.layerOrder</key>
       <array>
         <string>b</string>
       </array>
+    <key>com.typemytype.robofont.segmentType</key>
+      <string>curve</string>
     <key>com.typemytype.robofont.compileSettings.generateFormat</key>
       <integer>0</integer>
     <key>com.typemytype.robofont.italicSlantOffset</key>

@@ -9,65 +9,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-17</integer>
-	    <key>width</key>	    <integer>126</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>547</integer>
-	    <key>width</key>	    <integer>116</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>984</integer>
-	    <key>width</key>	    <integer>131</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1226</integer>
-	    <key>width</key>	    <integer>83</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1588</integer>
-	    <key>width</key>	    <integer>83</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>104</integer>
-	    <key>width</key>
-	    <integer>168</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>326</integer>
-	    <key>width</key>
-	    <integer>89</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>683</integer>
-	    <key>width</key>
-	    <integer>89</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>816</integer>
-	    <key>width</key>
-	    <integer>175</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>862</integer>
-	    <key>width</key>
-	    <integer>129</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>

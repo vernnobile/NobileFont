@@ -30,23 +30,13 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1387</integer>
-	    <key>width</key>	    <integer>140</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>width</key>
-      <integer>80</integer>
     <key>position</key>
       <integer>1577</integer>
+    <key>width</key>
+      <integer>80</integer>
     </dict>
   </lib>
 </glyph>

@@ -8,55 +8,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-22</integer>
-	    <key>width</key>	    <integer>132</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>556</integer>
-	    <key>width</key>	    <integer>115</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>987</integer>
-	    <key>width</key>	    <integer>132</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1249</integer>
-	    <key>width</key>	    <integer>108</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>39</integer>
-	    <key>width</key>
-	    <integer>176</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>537</integer>
-	    <key>width</key>
-	    <integer>636</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>744</integer>
-	    <key>width</key>
-	    <integer>175</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1488</integer>
-	    <key>width</key>
-	    <integer>155</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>

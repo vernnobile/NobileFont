@@ -34,10 +34,10 @@
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>width</key>
-      <integer>105</integer>
     <key>position</key>
       <integer>427</integer>
+    <key>width</key>
+      <integer>105</integer>
     </dict>
   </lib>
 </glyph>

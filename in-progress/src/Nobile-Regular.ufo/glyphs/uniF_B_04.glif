@@ -12,10 +12,10 @@
     <contour>
       <point x="956" y="0" type="line"/>
       <point x="1127" y="0" type="line"/>
-      <point x="1127" y="984" type="line"/>
-      <point x="1453" y="984" type="line"/>
-      <point x="1453" y="1098" type="line"/>
-      <point x="1127" y="1098" type="line"/>
+      <point x="1127" y="982" type="line"/>
+      <point x="1453" y="982" type="line"/>
+      <point x="1453" y="1096" type="line"/>
+      <point x="1127" y="1096" type="line"/>
       <point x="1127" y="1176" type="line" smooth="yes"/>
       <point x="1127" y="1394"/>
       <point x="1228" y="1418"/>
@@ -30,8 +30,8 @@
       <point x="1132" y="1552"/>
       <point x="956" y="1472"/>
       <point x="956" y="1183" type="curve" smooth="yes"/>
-      <point x="956" y="1098" type="line"/>
-      <point x="448" y="1098" type="line"/>
+      <point x="956" y="1096" type="line"/>
+      <point x="448" y="1096" type="line"/>
       <point x="448" y="1176" type="line" smooth="yes"/>
       <point x="448" y="1394"/>
       <point x="549" y="1418"/>
@@ -46,49 +46,18 @@
       <point x="453" y="1552"/>
       <point x="277" y="1472"/>
       <point x="277" y="1183" type="curve" smooth="yes"/>
-      <point x="277" y="1098" type="line"/>
-      <point x="86" y="1098" type="line"/>
-      <point x="86" y="984" type="line"/>
-      <point x="277" y="984" type="line"/>
+      <point x="277" y="1096" type="line"/>
+      <point x="86" y="1096" type="line"/>
+      <point x="86" y="982" type="line"/>
+      <point x="277" y="982" type="line"/>
       <point x="277" y="0" type="line"/>
       <point x="448" y="0" type="line"/>
-      <point x="448" y="984" type="line"/>
-      <point x="956" y="984" type="line"/>
+      <point x="448" y="982" type="line"/>
+      <point x="956" y="982" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1419</integer>
-	    <key>width</key>	    <integer>129</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>277</integer>
-	    <key>width</key>
-	    <integer>171</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1069</integer>
-	    <key>width</key>
-	    <integer>171</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1766</integer>
-	    <key>width</key>
-	    <integer>171</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>

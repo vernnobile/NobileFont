@@ -4,38 +4,26 @@
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="801" y="1098" type="move" name="top"/>
+      <point x="801" y="1096" type="move" name="top"/>
     </contour>
     <contour>
       <point x="1044" y="0" type="line"/>
       <point x="1230" y="0" type="line"/>
-      <point x="1524" y="1098" type="line"/>
-      <point x="1359" y="1098" type="line"/>
+      <point x="1524" y="1096" type="line"/>
+      <point x="1359" y="1096" type="line"/>
       <point x="1142" y="140" type="line"/>
-      <point x="893" y="1098" type="line"/>
-      <point x="707" y="1098" type="line"/>
+      <point x="893" y="1096" type="line"/>
+      <point x="707" y="1096" type="line"/>
       <point x="444" y="142" type="line"/>
-      <point x="222" y="1098" type="line"/>
-      <point x="61" y="1098" type="line"/>
+      <point x="222" y="1096" type="line"/>
+      <point x="61" y="1096" type="line"/>
       <point x="349" y="0" type="line"/>
       <point x="533" y="0" type="line"/>
-      <point x="800" y="948" type="line"/>
+      <point x="800" y="946" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>61</integer>
-	    <key>width</key>
-	    <integer>161</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>name</key>
       <string>w</string>
     <key>com.typemytype.robofont.layerData</key>

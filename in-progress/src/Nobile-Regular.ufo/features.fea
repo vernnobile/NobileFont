@@ -1,4 +1,49 @@
 
+languagesystem latn dflt;
+
+# GPOS 
+
+
+lookup kernHorizontalKerninginLatinloo {
+  lookupflag 0;
+    pos \D \period 30;
+    pos \D \comma 25;
+    pos \D \W 24;
+    pos \D \V 36;
+    pos \F \s -10;
+    pos \F \q -36;
+    pos \F \period -210;
+    pos \F \g -43;
+    pos \F \comma -165;
+    pos \L \quoteright -133;
+    pos \L \quotedblright -119;
+    pos \V \q -114;
+    pos \W \q -64;
+    pos \b \v -64;
+    pos \b \period -130;
+    pos \b \b -30;
+    pos \d \d 6;
+    pos \e \x 8;
+    pos \e \g -14;
+    pos \f \quoteright 55;
+    pos \f \quotedblright 55;
+    pos \f \period -216;
+    pos \f \f -74;
+    pos \f \comma -188;
+    pos \g \g -105;
+    pos \m \x -26;
+    pos \m \w -40;
+    pos \m \v -52;
+    pos \v \q -54;
+    pos \w \q -59;
+} kernHorizontalKerninginLatinloo;
+
+feature kern {
+
+ script latn;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinloo;
+} kern;
 
 @GDEF_Simple = [\A \AE \AEacute \Aacute \Abreve \Acircumflex \Adieresis \Agrave 
 	\Amacron \Aogonek \Aring \Aringacute \Atilde \B \C \Cacute \Ccaron \Ccedilla 

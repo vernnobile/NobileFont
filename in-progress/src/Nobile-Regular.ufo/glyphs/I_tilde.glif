@@ -8,37 +8,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1634</integer>
-	    <key>width</key>	    <integer>214</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>162</integer>
-	    <key>width</key>
-	    <integer>69</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>193</integer>
-	    <key>width</key>
-	    <integer>555</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>728</integer>
-	    <key>width</key>
-	    <integer>68</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>name</key>
       <string>Itilde</string>
     <key>com.typemytype.robofont.layerData</key>

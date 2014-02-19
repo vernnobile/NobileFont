@@ -8,51 +8,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-17</integer>
-	    <key>width</key>	    <integer>140</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1361</integer>
-	    <key>width</key>	    <integer>141</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1628</integer>
-	    <key>width</key>	    <integer>108</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>137</integer>
-	    <key>width</key>
-	    <integer>180</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>475</integer>
-	    <key>width</key>
-	    <integer>119</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>897</integer>
-	    <key>width</key>
-	    <integer>118</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1187</integer>
-	    <key>width</key>
-	    <integer>180</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>name</key>
       <string>Obreve</string>
     <key>unicodes</key>

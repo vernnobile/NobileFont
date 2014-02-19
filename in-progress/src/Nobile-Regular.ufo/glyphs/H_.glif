@@ -23,6 +23,8 @@
   </outline>
   <lib>
     <dict>
+    <key>segmentType</key>
+      <string>line</string>
     <key>hhints</key>
       <dict>
       </dict>
@@ -62,8 +64,6 @@
     <key>vhints</key>
       <dict>
       </dict>
-    <key>y</key>
-      <integer>0</integer>
     <key>width</key>
       <integer>1459</integer>
     <key>points</key>
@@ -75,12 +75,12 @@
     <key>components</key>
       <array>
       </array>
-    <key>x</key>
-      <integer>260</integer>
-    <key>segmentType</key>
-      <string>line</string>
     <key>position</key>
       <integer>1218</integer>
+    <key>y</key>
+      <integer>0</integer>
+    <key>x</key>
+      <integer>260</integer>
     <key>anchors</key>
       <array>
       </array>

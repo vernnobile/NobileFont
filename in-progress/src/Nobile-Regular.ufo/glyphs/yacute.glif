@@ -8,16 +8,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-398</integer>
-	    <key>width</key>	    <integer>113</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>name</key>
       <string>yacute</string>
     <key>com.typemytype.robofont.layerData</key>

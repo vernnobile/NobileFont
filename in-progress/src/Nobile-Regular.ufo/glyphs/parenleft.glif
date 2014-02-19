@@ -22,25 +22,13 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>197</integer>
-	    <key>width</key>
-	    <integer>186</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>width</key>
-      <integer>115</integer>
     <key>position</key>
       <string>-65</string>
+    <key>width</key>
+      <integer>115</integer>
     </dict>
   </lib>
 </glyph>

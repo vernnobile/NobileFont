@@ -11,7 +11,7 @@
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>xHeight</key>
-	<integer>1098</integer>
+	<integer>1096</integer>
 	<key>capHeight</key>
 	<integer>1485</integer>
 	<key>ascender</key>
@@ -23,7 +23,7 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/02/19 17:39:04</string>
+	<string>2014/02/19 17:59:35</string>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WeightClass</key>

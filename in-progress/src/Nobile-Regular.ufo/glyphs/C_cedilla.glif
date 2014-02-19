@@ -8,39 +8,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-419</integer>
-	    <key>width</key>	    <integer>98</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>-17</integer>
-	    <key>width</key>	    <integer>140</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1361</integer>
-	    <key>width</key>	    <integer>141</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>137</integer>
-	    <key>width</key>
-	    <integer>180</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>867</integer>
-	    <key>width</key>
-	    <integer>135</integer>
-	  </dict>
-	</array>
-      </dict>
     <key>name</key>
       <string>Ccedilla</string>
     <key>unicodes</key>
