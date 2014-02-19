@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve" format="1">
+  <advance width="1410"/>
+  <unicode hex="011E"/>
+  <outline>
+    <component base="G"/>
+    <component base="breve" xOffset="452" yOffset="1027"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>Gbreve</string>
+      <key>position</key>
+      <integer>1303</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1401</integer>
+    </dict>
+  </lib>
+</glyph>

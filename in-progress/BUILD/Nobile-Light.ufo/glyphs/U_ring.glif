@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uring" format="1">
+  <advance width="1482"/>
+  <unicode hex="016E"/>
+  <outline>
+    <component base="U"/>
+    <component base="ring" xOffset="557" yOffset="448"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>Uring</string>
+      <key>position</key>
+      <integer>1197</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1426</integer>
+    </dict>
+  </lib>
+</glyph>

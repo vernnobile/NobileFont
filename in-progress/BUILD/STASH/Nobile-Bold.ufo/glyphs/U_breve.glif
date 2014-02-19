@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ubreve" format="1">
+  <advance width="1654"/>
+  <unicode hex="016C"/>
+  <outline>
+    <component base="U"/>
+    <component base="breve" xOffset="481" yOffset="416"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>Ubreve</string>
+      <key>position</key>
+      <integer>1197</integer>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>1426</integer>
+    </dict>
+  </lib>
+</glyph>

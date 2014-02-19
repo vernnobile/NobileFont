@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="2459"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component base="percent"/>
+    <contour>
+      <point x="2074" y="86" type="curve" smooth="yes"/>
+      <point x="1966" y="86"/>
+      <point x="1897" y="192"/>
+      <point x="1897" y="363" type="curve" smooth="yes"/>
+      <point x="1897" y="543"/>
+      <point x="1966" y="654"/>
+      <point x="2074" y="654" type="curve" smooth="yes"/>
+      <point x="2183" y="654"/>
+      <point x="2251" y="543"/>
+      <point x="2251" y="363" type="curve" smooth="yes"/>
+      <point x="2251" y="192"/>
+      <point x="2183" y="86"/>
+    </contour>
+    <contour>
+      <point x="2074" y="-17" type="curve" smooth="yes"/>
+      <point x="2259" y="-17"/>
+      <point x="2375" y="130"/>
+      <point x="2375" y="363" type="curve" smooth="yes"/>
+      <point x="2375" y="602"/>
+      <point x="2259" y="751"/>
+      <point x="2074" y="751" type="curve" smooth="yes"/>
+      <point x="1890" y="751"/>
+      <point x="1773" y="602"/>
+      <point x="1773" y="363" type="curve" smooth="yes"/>
+      <point x="1773" y="130"/>
+      <point x="1890" y="-17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-17</integer>
+	    <key>width</key>	    <integer>103</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>654</integer>
+	    <key>width</key>	    <integer>97</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>734</integer>
+	    <key>width</key>	    <integer>103</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1405</integer>
+	    <key>width</key>	    <integer>97</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>127</integer>
+	    <key>width</key>
+	    <integer>123</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>605</integer>
+	    <key>width</key>
+	    <integer>123</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1053</integer>
+	    <key>width</key>
+	    <integer>124</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1531</integer>
+	    <key>width</key>
+	    <integer>124</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1773</integer>
+	    <key>width</key>
+	    <integer>124</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>2251</integer>
+	    <key>width</key>
+	    <integer>124</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="1">
+  <advance width="1289"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="569" y="0" type="line"/>
+      <point x="705" y="0" type="line"/>
+      <point x="1263" y="1620" type="line"/>
+      <point x="1167" y="1620" type="line"/>
+      <point x="633" y="80" type="line"/>
+      <point x="122" y="1620" type="line"/>
+      <point x="26" y="1620" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>V</string>
+      <key>position</key>
+      <integer>1560</integer>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>1239</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat" format="1">
+  <advance width="1451"/>
+  <unicode hex="0110"/>
+  <outline>
+    <component base="Eth"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>133</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>720</integer>
+	    <key>width</key>	    <integer>144</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1354</integer>
+	    <key>width</key>	    <integer>131</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>-34</integer>
+	    <key>width</key>
+	    <integer>632</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1136</integer>
+	    <key>width</key>
+	    <integer>178</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>width</key>
+      <integer>201</integer>
+    <key>position</key>
+      <integer>1183</integer>
+    </dict>
+  </lib>
+</glyph>

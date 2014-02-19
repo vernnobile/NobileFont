@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="1">
+  <advance width="1356"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <component base="A"/>
+    <component base="dieresis" xOffset="368" yOffset="1814"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>Adieresis</string>
+      <key>position</key>
+      <integer>803</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>129</integer>
+    </dict>
+  </lib>
+</glyph>

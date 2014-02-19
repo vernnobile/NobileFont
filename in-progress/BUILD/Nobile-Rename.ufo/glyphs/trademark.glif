@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="2399"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="1077" y="533" type="line"/>
+      <point x="1319" y="533" type="line"/>
+      <point x="1319" y="1230" type="line"/>
+      <point x="1558" y="718" type="line"/>
+      <point x="1743" y="718" type="line"/>
+      <point x="1991" y="1230" type="line"/>
+      <point x="1991" y="533" type="line"/>
+      <point x="2233" y="533" type="line"/>
+      <point x="2233" y="1578" type="line"/>
+      <point x="1966" y="1578" type="line"/>
+      <point x="1650" y="996" type="line"/>
+      <point x="1352" y="1578" type="line"/>
+      <point x="1077" y="1578" type="line"/>
+    </contour>
+    <contour>
+      <point x="378" y="533" type="line"/>
+      <point x="652" y="533" type="line"/>
+      <point x="652" y="1393" type="line"/>
+      <point x="926" y="1393" type="line"/>
+      <point x="926" y="1578" type="line"/>
+      <point x="98" y="1578" type="line"/>
+      <point x="98" y="1393" type="line"/>
+      <point x="378" y="1393" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>1255</integer>
+      <key>width</key>
+      <integer>90</integer>
+    </dict>
+  </lib>
+</glyph>

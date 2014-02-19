@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cdotaccent" format="1">
+  <advance width="1116"/>
+  <unicode hex="010B"/>
+  <outline>
+    <component base="c"/>
+    <component base="dotaccent" xOffset="440"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>cdotaccent</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1082</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>cdotaccent</string>
+      <key>position</key>
+      <integer>536</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1103</integer>
+    </dict>
+  </lib>
+</glyph>

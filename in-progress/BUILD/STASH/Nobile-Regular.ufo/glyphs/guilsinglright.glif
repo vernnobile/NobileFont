@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="1">
+  <advance width="936"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="196" y="117" type="line"/>
+      <point x="804" y="499" type="line"/>
+      <point x="804" y="646" type="line"/>
+      <point x="196" y="1029" type="line"/>
+      <point x="196" y="842" type="line"/>
+      <point x="642" y="577" type="line"/>
+      <point x="196" y="306" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <string>-121</string>
+      <key>width</key>
+      <integer>483</integer>
+    </dict>
+  </lib>
+</glyph>

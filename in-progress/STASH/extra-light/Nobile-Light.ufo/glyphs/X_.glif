@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="1">
+  <advance width="1305"/>
+  <unicode hex="0058"/>
+  <outline>
+    <contour>
+      <point x="92" y="0" type="line"/>
+      <point x="596" y="802" type="line"/>
+      <point x="95" y="1580" type="line"/>
+      <point x="191" y="1580" type="line"/>
+      <point x="653" y="883" type="line"/>
+      <point x="1116" y="1580" type="line"/>
+      <point x="1212" y="1580" type="line"/>
+      <point x="710" y="802" type="line"/>
+      <point x="1215" y="0" type="line"/>
+      <point x="1089" y="0" type="line"/>
+      <point x="653" y="734" type="line"/>
+      <point x="454" y="402"/>
+      <point x="415" y="333"/>
+      <point x="217" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>X</string>
+      <key>position</key>
+      <integer>1560</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1306</integer>
+    </dict>
+  </lib>
+</glyph>

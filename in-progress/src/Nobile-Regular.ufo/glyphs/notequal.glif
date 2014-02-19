@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notequal" format="1">
+  <advance width="851"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="262" y="-122" type="line"/>
+      <point x="410" y="312" type="line"/>
+      <point x="748" y="312" type="line"/>
+      <point x="748" y="432" type="line"/>
+      <point x="450" y="432" type="line"/>
+      <point x="501" y="583" type="line"/>
+      <point x="748" y="583" type="line"/>
+      <point x="748" y="703" type="line"/>
+      <point x="542" y="703" type="line"/>
+      <point x="673" y="1089" type="line"/>
+      <point x="587" y="1124" type="line"/>
+      <point x="444" y="703" type="line"/>
+      <point x="123" y="703" type="line"/>
+      <point x="123" y="583" type="line"/>
+      <point x="402" y="583" type="line"/>
+      <point x="352" y="432" type="line"/>
+      <point x="123" y="432" type="line"/>
+      <point x="123" y="312" type="line"/>
+      <point x="310" y="312" type="line"/>
+      <point x="176" y="-86" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>123</integer>
+	    <key>width</key>
+	    <integer>625</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>width</key>
+      <integer>369</integer>
+    <key>position</key>
+      <integer>151</integer>
+    </dict>
+  </lib>
+</glyph>

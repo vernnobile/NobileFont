@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="743"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <component base="exclam" yScale="-1" xOffset="26" yOffset="1382"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>92</integer>
+      <key>width</key>
+      <integer>37</integer>
+    </dict>
+  </lib>
+</glyph>

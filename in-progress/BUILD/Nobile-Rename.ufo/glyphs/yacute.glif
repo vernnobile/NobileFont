@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="1">
+  <advance width="1305"/>
+  <unicode hex="00FD"/>
+  <outline>
+    <component base="y"/>
+    <component base="acute" xOffset="119"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>yacute</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1025</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>yacute</string>
+      <key>position</key>
+      <integer>526</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1026</integer>
+    </dict>
+  </lib>
+</glyph>

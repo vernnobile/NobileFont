@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="636"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <component base="exclam" xOffset="43" yOffset="1281" yScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>92</integer>
+      <key>width</key>
+      <integer>37</integer>
+    </dict>
+  </lib>
+</glyph>

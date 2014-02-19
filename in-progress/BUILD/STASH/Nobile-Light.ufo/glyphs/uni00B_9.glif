@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00B9" format="1">
+  <advance width="208"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="91" y="358" type="line"/>
+      <point x="201" y="358" type="line"/>
+      <point x="201" y="1293" type="line"/>
+      <point x="128" y="1333" type="line"/>
+      <point x="-122" y="1234" type="line"/>
+      <point x="-105" y="1162" type="line"/>
+      <point x="91" y="1244" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>91</integer>
+      <key>width</key>
+      <integer>110</integer>
+    </dict>
+  </lib>
+</glyph>

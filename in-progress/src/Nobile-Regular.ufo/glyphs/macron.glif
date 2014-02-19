@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="944"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="473" y="1304" type="move" name="_mid"/>
+    </contour>
+    <contour>
+      <point x="475" y="1098" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="151" y="1249" type="line"/>
+      <point x="787" y="1249" type="line"/>
+      <point x="787" y="1357" type="line"/>
+      <point x="151" y="1357" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1249</integer>
+	    <key>width</key>	    <integer>108</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>151</integer>
+	    <key>width</key>
+	    <integer>636</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>width</key>
+      <integer>112</integer>
+    <key>position</key>
+      <integer>85</integer>
+    </dict>
+  </lib>
+</glyph>

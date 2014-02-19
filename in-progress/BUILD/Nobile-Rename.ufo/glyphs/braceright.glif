@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceright" format="1">
+  <advance width="1101"/>
+  <unicode hex="007D"/>
+  <outline>
+    <contour>
+      <point x="112" y="-264" type="line"/>
+      <point x="616" y="-264"/>
+      <point x="812" y="-181"/>
+      <point x="812" y="275" type="curve"/>
+      <point x="812" y="505"/>
+      <point x="812" y="565"/>
+      <point x="1027" y="601" type="curve"/>
+      <point x="1027" y="812" type="line"/>
+      <point x="812" y="850"/>
+      <point x="812" y="910"/>
+      <point x="812" y="1139" type="curve"/>
+      <point x="812" y="1595"/>
+      <point x="616" y="1678"/>
+      <point x="112" y="1678" type="curve"/>
+      <point x="112" y="1415" type="line"/>
+      <point x="310" y="1394"/>
+      <point x="350" y="1385"/>
+      <point x="350" y="1167" type="curve"/>
+      <point x="353" y="809"/>
+      <point x="475" y="745"/>
+      <point x="596" y="707" type="curve"/>
+      <point x="475" y="668"/>
+      <point x="353" y="605"/>
+      <point x="350" y="247" type="curve"/>
+      <point x="350" y="25"/>
+      <point x="310" y="20"/>
+      <point x="112" y="-1" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

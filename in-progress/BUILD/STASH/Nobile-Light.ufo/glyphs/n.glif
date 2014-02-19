@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="1">
+  <advance width="1225"/>
+  <unicode hex="006E"/>
+  <outline>
+    <contour>
+      <point x="146" y="-5.83496e-06" type="line"/>
+      <point x="242" y="-5.83496e-06" type="line"/>
+      <point x="241.598" y="897.488" type="line"/>
+      <point x="373.442" y="1028.99"/>
+      <point x="529.638" y="1110"/>
+      <point x="685" y="1110" type="curve" smooth="yes"/>
+      <point x="948" y="1110"/>
+      <point x="991" y="935"/>
+      <point x="991" y="719" type="curve" smooth="yes"/>
+      <point x="991" y="-5.83496e-06" type="line"/>
+      <point x="1087" y="-5.83496e-06" type="line"/>
+      <point x="1087" y="728" type="line" smooth="yes"/>
+      <point x="1087" y="959"/>
+      <point x="1032" y="1190"/>
+      <point x="701" y="1190" type="curve" smooth="yes"/>
+      <point x="519.867" y="1190"/>
+      <point x="372.209" y="1116.35"/>
+      <point x="234.293" y="979.014" type="curve"/>
+      <point x="217" y="1172" type="line"/>
+      <point x="146" y="1172" type="line"/>
+    </contour>
+    <contour>
+      <point x="671" y="1172" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="627" y="0" type="move" name="bot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>n</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1225</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>hhints</key>
+      <dict>
+      </dict>
+      <key>name</key>
+      <string>n</string>
+      <key>points</key>
+      <array>
+      </array>
+      <key>position</key>
+      <integer>988</integer>
+      <key>segmentType</key>
+      <string>line</string>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>vhints</key>
+      <dict>
+      </dict>
+      <key>width</key>
+      <integer>1227</integer>
+      <key>x</key>
+      <integer>245</integer>
+      <key>y</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

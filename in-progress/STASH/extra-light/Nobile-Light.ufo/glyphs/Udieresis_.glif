@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="1">
+  <advance width="1420"/>
+  <unicode hex="00DC"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresis" xOffset="410" yOffset="1814"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>Udieresis</string>
+      <key>position</key>
+      <integer>1197</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1426</integer>
+    </dict>
+  </lib>
+</glyph>

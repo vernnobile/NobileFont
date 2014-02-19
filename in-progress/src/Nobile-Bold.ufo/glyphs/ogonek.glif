@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="723"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="417" y="0" type="move" name="_ogonek"/>
+    </contour>
+    <contour>
+      <point x="439" y="-503" type="curve" smooth="yes"/>
+      <point x="467" y="-503"/>
+      <point x="503" y="-499"/>
+      <point x="538" y="-490" type="curve"/>
+      <point x="538" y="-340" type="line"/>
+      <point x="517" y="-345"/>
+      <point x="497" y="-347"/>
+      <point x="480" y="-347" type="curve" smooth="yes"/>
+      <point x="394" y="-347"/>
+      <point x="347" y="-298"/>
+      <point x="347" y="-229" type="curve" smooth="yes"/>
+      <point x="347" y="-176"/>
+      <point x="375" y="-91"/>
+      <point x="484" y="0" type="curve"/>
+      <point x="349" y="0" type="line"/>
+      <point x="233" y="-80"/>
+      <point x="179" y="-184"/>
+      <point x="179" y="-277" type="curve" smooth="yes"/>
+      <point x="179" y="-400"/>
+      <point x="275" y="-503"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>39</integer>
+      <key>width</key>
+      <integer>129</integer>
+    </dict>
+  </lib>
+</glyph>

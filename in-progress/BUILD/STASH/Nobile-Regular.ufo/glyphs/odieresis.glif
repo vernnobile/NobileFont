@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis" format="1">
+  <advance width="1264"/>
+  <unicode hex="00F6"/>
+  <outline>
+    <component base="dieresis" xOffset="113"/>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>odieresis</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1259</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>odieresis</string>
+      <key>position</key>
+      <integer>1048</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1260</integer>
+    </dict>
+  </lib>
+</glyph>

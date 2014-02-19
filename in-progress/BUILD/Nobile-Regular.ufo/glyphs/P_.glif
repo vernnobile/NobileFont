@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="1">
+  <advance width="1357"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="194" y="0" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="388" y="639" type="line"/>
+      <point x="403" y="639"/>
+      <point x="419" y="639"/>
+      <point x="435" y="639" type="curve" smooth="yes"/>
+      <point x="792" y="638"/>
+      <point x="1291" y="633"/>
+      <point x="1291" y="1108" type="curve" smooth="yes"/>
+      <point x="1291" y="1536"/>
+      <point x="945" y="1579"/>
+      <point x="591" y="1579" type="curve" smooth="yes"/>
+      <point x="194" y="1579" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="784" type="line"/>
+      <point x="388" y="1436" type="line"/>
+      <point x="603" y="1436" type="line" smooth="yes"/>
+      <point x="902" y="1436"/>
+      <point x="1109" y="1422"/>
+      <point x="1109" y="1084" type="curve" smooth="yes"/>
+      <point x="1109" y="790"/>
+      <point x="779" y="784"/>
+      <point x="558" y="784" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="717" y="1578" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="702" y="0" type="move" name="bot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>P</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1290</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>R</string>
+      <key>position</key>
+      <integer>1135</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1304</integer>
+    </dict>
+  </lib>
+</glyph>

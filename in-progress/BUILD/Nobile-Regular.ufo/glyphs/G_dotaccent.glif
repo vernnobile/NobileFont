@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gdotaccent" format="1">
+  <advance width="1572"/>
+  <unicode hex="0120"/>
+  <outline>
+    <component base="G"/>
+    <component base="dotaccent" xOffset="498" yOffset="410"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>Gdotaccent</string>
+      <key>position</key>
+      <integer>1303</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1401</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="1355"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="516" y="1345" type="line"/>
+      <point x="1099" y="1684" type="line"/>
+      <point x="890" y="1958" type="line"/>
+      <point x="382" y="1514" type="line"/>
+    </contour>
+    <contour>
+      <point x="548" y="1162" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <string>-144</string>
+      <key>width</key>
+      <integer>447</integer>
+    </dict>
+  </lib>
+</glyph>

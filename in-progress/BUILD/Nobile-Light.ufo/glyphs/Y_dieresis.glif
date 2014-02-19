@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydieresis" format="1">
+  <advance width="1264"/>
+  <unicode hex="0178"/>
+  <outline>
+    <component base="Y"/>
+    <component base="dieresis" xOffset="331" yOffset="448"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>785</integer>
+      <key>width</key>
+      <integer>129</integer>
+    </dict>
+  </lib>
+</glyph>

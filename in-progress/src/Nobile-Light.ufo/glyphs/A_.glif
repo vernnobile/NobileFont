@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="1425"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="706" y="1603" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1278" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="202" y="0" type="line"/>
+      <point x="336" y="394" type="line"/>
+      <point x="1085" y="394" type="line"/>
+      <point x="1219" y="0" type="line"/>
+      <point x="1355" y="0" type="line"/>
+      <point x="810" y="1601" type="line"/>
+      <point x="605" y="1601" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="483" type="line"/>
+      <point x="708" y="1511" type="line"/>
+      <point x="1054" y="483" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>A</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>1580</integer>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>1357</integer>
+    </dict>
+  </lib>
+</glyph>

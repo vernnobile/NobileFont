@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="approxequal" format="1">
+  <advance width="1319"/>
+  <unicode hex="2248"/>
+  <outline>
+    <component base="asciitilde" yOffset="130"/>
+    <component base="asciitilde" yOffset="-371"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>635</integer>
+      <key>width</key>
+      <integer>122</integer>
+    </dict>
+  </lib>
+</glyph>

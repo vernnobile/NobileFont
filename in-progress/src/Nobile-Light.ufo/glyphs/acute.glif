@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="590"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="127" y="1170" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="83" y="1356" type="line"/>
+      <point x="531" y="1614" type="line"/>
+      <point x="454" y="1713" type="line"/>
+      <point x="55" y="1395" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <string>-144</string>
+      <key>width</key>
+      <integer>447</integer>
+    </dict>
+  </lib>
+</glyph>

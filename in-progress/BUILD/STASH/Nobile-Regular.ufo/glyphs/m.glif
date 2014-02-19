@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="1">
+  <advance width="1994"/>
+  <unicode hex="006D"/>
+  <outline>
+    <contour>
+      <point x="160" y="-3.8147e-06" type="line"/>
+      <point x="346" y="-3.8147e-06" type="line"/>
+      <point x="346" y="863.937" type="line"/>
+      <point x="467.634" y="983.579"/>
+      <point x="600.205" y="1042"/>
+      <point x="709" y="1042" type="curve" smooth="yes"/>
+      <point x="881" y="1042"/>
+      <point x="909" y="908"/>
+      <point x="909" y="764" type="curve" smooth="yes"/>
+      <point x="909" y="9.75464e-05" type="line"/>
+      <point x="1099" y="9.75464e-05" type="line"/>
+      <point x="1099" y="769" type="line" smooth="yes"/>
+      <point x="1099" y="785.365"/>
+      <point x="1098.49" y="819.922"/>
+      <point x="1092.13" y="862.474" type="curve"/>
+      <point x="1218.52" y="992.132"/>
+      <point x="1340.81" y="1042"/>
+      <point x="1459" y="1042" type="curve" smooth="yes"/>
+      <point x="1630" y="1042"/>
+      <point x="1654" y="908"/>
+      <point x="1654" y="764" type="curve" smooth="yes"/>
+      <point x="1654" y="2.71606e-07" type="line"/>
+      <point x="1844" y="2.71606e-07" type="line"/>
+      <point x="1844" y="762" type="line" smooth="yes"/>
+      <point x="1844" y="988"/>
+      <point x="1736" y="1186"/>
+      <point x="1487" y="1186" type="curve" smooth="yes"/>
+      <point x="1351.63" y="1186"/>
+      <point x="1194.19" y="1137.03"/>
+      <point x="1060.51" y="980.672" type="curve"/>
+      <point x="1017.93" y="1084.65"/>
+      <point x="928.343" y="1186"/>
+      <point x="740" y="1186" type="curve" smooth="yes"/>
+      <point x="604.313" y="1186"/>
+      <point x="470.065" y="1137.81"/>
+      <point x="327.496" y="993.264" type="curve"/>
+      <point x="300" y="1169" type="line"/>
+      <point x="160" y="1169" type="line"/>
+    </contour>
+    <contour>
+      <point x="1030" y="1168" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1028" y="0" type="move" name="bot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>baseGlyph</key>
+      <string>lc_main_stem</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>m</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1989</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>m</string>
+      <key>points</key>
+      <array/>
+      <key>position</key>
+      <integer>1677</integer>
+      <key>segmentType</key>
+      <string>curve</string>
+      <key>transformation</key>
+      <array>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+      </array>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1901</integer>
+      <key>x</key>
+      <integer>206</integer>
+      <key>y</key>
+      <integer>856</integer>
+    </dict>
+  </lib>
+</glyph>

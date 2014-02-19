@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="972"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="392" y="-187" type="line"/>
+      <point x="465" y="-187" type="line"/>
+      <point x="605" y="1628" type="line"/>
+      <point x="532" y="1628" type="line"/>
+    </contour>
+    <component base="s" yOffset="110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>736</integer>
+      <key>width</key>
+      <integer>73</integer>
+    </dict>
+  </lib>
+</glyph>

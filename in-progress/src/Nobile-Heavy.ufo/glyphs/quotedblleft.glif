@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft" format="1">
+  <advance width="1278"/>
+  <unicode hex="201C"/>
+  <outline>
+    <contour>
+      <point x="90" y="776" type="line"/>
+      <point x="562" y="776" type="line"/>
+      <point x="562" y="1238" type="line"/>
+      <point x="365" y="1238" type="line"/>
+      <point x="366" y="1341"/>
+      <point x="418" y="1390"/>
+      <point x="561" y="1444" type="curve"/>
+      <point x="494" y="1566" type="line"/>
+      <point x="318" y="1513"/>
+      <point x="90" y="1454"/>
+      <point x="90" y="1182" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="675" y="776" type="line"/>
+      <point x="1146" y="776" type="line"/>
+      <point x="1146" y="1238" type="line"/>
+      <point x="949" y="1238" type="line"/>
+      <point x="950" y="1341"/>
+      <point x="1002" y="1390"/>
+      <point x="1145" y="1444" type="curve"/>
+      <point x="1078" y="1566" type="line"/>
+      <point x="902" y="1513"/>
+      <point x="675" y="1454"/>
+      <point x="675" y="1182" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>419</integer>
+      <key>width</key>
+      <integer>102</integer>
+    </dict>
+  </lib>
+</glyph>

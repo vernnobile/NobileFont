@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde" format="1">
+  <advance width="1356"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <component base="A"/>
+    <component base="tilde" xOffset="261" yOffset="1799"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>Atilde</string>
+      <key>position</key>
+      <integer>896</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>122</integer>
+    </dict>
+  </lib>
+</glyph>

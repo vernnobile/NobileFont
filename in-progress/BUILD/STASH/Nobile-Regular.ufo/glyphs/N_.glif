@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="1656"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="209" y="0" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="381" y="1404" type="line"/>
+      <point x="1200" y="0" type="line"/>
+      <point x="1462" y="0" type="line"/>
+      <point x="1462" y="1579" type="line"/>
+      <point x="1290" y="1579" type="line"/>
+      <point x="1290" y="175" type="line"/>
+      <point x="471" y="1579" type="line"/>
+      <point x="209" y="1579" type="line"/>
+    </contour>
+    <contour>
+      <point x="852" y="1578" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="837" y="0" type="move" name="bot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>N</string>
+      <key>position</key>
+      <integer>1263</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1492</integer>
+    </dict>
+  </lib>
+</glyph>

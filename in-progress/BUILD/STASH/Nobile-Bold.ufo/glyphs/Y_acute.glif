@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="1">
+  <advance width="1345"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <component base="Y"/>
+    <component base="acute" xOffset="134" yOffset="416"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>649</integer>
+      <key>width</key>
+      <integer>447</integer>
+    </dict>
+  </lib>
+</glyph>

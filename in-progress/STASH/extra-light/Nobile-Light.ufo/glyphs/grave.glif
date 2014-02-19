@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="438"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="408" y="17" type="line"/>
+      <point x="-10" y="420" type="line"/>
+      <point x="63" y="489" type="line"/>
+      <point x="437" y="48" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>-10</integer>
+      <key>width</key>
+      <integer>447</integer>
+    </dict>
+  </lib>
+</glyph>

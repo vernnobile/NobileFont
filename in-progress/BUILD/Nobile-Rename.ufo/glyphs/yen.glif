@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="1436"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="1428" y="1578" type="line"/>
+      <point x="1000" y="1578" type="line"/>
+      <point x="720" y="967" type="line"/>
+      <point x="444" y="1578" type="line"/>
+      <point x="8" y="1578" type="line"/>
+      <point x="379" y="803" type="line"/>
+      <point x="168" y="803" type="line"/>
+      <point x="168" y="677" type="line"/>
+      <point x="431" y="677" type="line"/>
+      <point x="497" y="513" type="line"/>
+      <point x="168" y="513" type="line"/>
+      <point x="168" y="385" type="line"/>
+      <point x="497" y="385" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="923" y="0" type="line"/>
+      <point x="923" y="385" type="line"/>
+      <point x="1245" y="385" type="line"/>
+      <point x="1245" y="513" type="line"/>
+      <point x="923" y="513" type="line"/>
+      <point x="985" y="677" type="line"/>
+      <point x="1245" y="677" type="line"/>
+      <point x="1245" y="803" type="line"/>
+      <point x="1039" y="803" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>427</integer>
+      <key>width</key>
+      <integer>105</integer>
+    </dict>
+  </lib>
+</glyph>

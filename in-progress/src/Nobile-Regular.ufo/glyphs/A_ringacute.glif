@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringacute" format="1">
+  <advance width="1331"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <component base="A"/>
+    <component base="acute" xOffset="470" yOffset="856"/>
+    <component base="ring" xOffset="240" yOffset="387"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1613</integer>
+	    <key>width</key>	    <integer>83</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1975</integer>
+	    <key>width</key>	    <integer>83</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>435</integer>
+	    <key>width</key>
+	    <integer>89</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>792</integer>
+	    <key>width</key>
+	    <integer>89</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

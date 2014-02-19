@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="758"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="450" y="-253" type="curve"/>
+      <point x="405" y="-170" type="line"/>
+      <point x="467" y="-150"/>
+      <point x="511" y="-120"/>
+      <point x="510" y="-29" type="curve"/>
+      <point x="404" y="-29" type="line"/>
+      <point x="404" y="198" type="line"/>
+      <point x="611" y="198" type="line"/>
+      <point x="611" y="10" type="line" smooth="yes"/>
+      <point x="611" y="-98"/>
+      <point x="584" y="-216"/>
+    </contour>
+    <contour>
+      <point x="164" y="-253" type="curve"/>
+      <point x="119" y="-170" type="line"/>
+      <point x="181" y="-150"/>
+      <point x="225" y="-120"/>
+      <point x="224" y="-29" type="curve"/>
+      <point x="118" y="-29" type="line"/>
+      <point x="118" y="198" type="line"/>
+      <point x="325" y="198" type="line"/>
+      <point x="325" y="10" type="line" smooth="yes"/>
+      <point x="325" y="-98"/>
+      <point x="298" y="-216"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>510</integer>
+      <key>width</key>
+      <integer>101</integer>
+    </dict>
+  </lib>
+</glyph>

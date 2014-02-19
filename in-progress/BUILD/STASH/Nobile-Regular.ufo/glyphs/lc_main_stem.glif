@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lc_main_stem" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="160" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="346" y="875" type="line"/>
+      <point x="300" y="1169" type="line"/>
+      <point x="160" y="1169" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>lc_main_stem</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1226</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>lc_main_stem</string>
+      <key>position</key>
+      <integer>147</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>vhints</key>
+      <dict/>
+      <key>width</key>
+      <integer>1227</integer>
+    </dict>
+  </lib>
+</glyph>

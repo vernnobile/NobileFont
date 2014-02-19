@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdieresis" format="1">
+  <advance width="1584"/>
+  <unicode hex="1E85"/>
+  <outline>
+    <component base="dieresis" xOffset="318"/>
+    <component base="w"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1243</integer>
+	    <key>width</key>	    <integer>213</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>61</integer>
+	    <key>width</key>
+	    <integer>161</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>458</integer>
+	    <key>width</key>
+	    <integer>203</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>915</integer>
+	    <key>width</key>
+	    <integer>203</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

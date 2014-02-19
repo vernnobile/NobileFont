@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="1">
+  <advance width="233"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="63" y="-92" type="line"/>
+      <point x="63" y="1712" type="line"/>
+      <point x="171" y="1712" type="line"/>
+      <point x="171" y="-92" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>63</integer>
+      <key>width</key>
+      <integer>108</integer>
+    </dict>
+  </lib>
+</glyph>

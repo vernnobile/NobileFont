@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="1">
+  <advance width="854"/>
+  <unicode hex="0135"/>
+  <outline>
+    <component base="circumflex" xOffset="117"/>
+    <component base="uni0237"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>451</integer>
+	    <key>width</key>
+	    <integer>176</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>width</key>
+      <integer>104</integer>
+    <key>position</key>
+      <integer>324</integer>
+    </dict>
+  </lib>
+</glyph>

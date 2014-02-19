@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="660"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="235" y="0" type="line"/>
+      <point x="417" y="0" type="line"/>
+      <point x="417" y="1169" type="line"/>
+      <point x="235" y="1169" type="line"/>
+    </contour>
+    <contour>
+      <point x="340" y="1168" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="347" y="0" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>86</integer>
+      <key>width</key>
+      <integer>92</integer>
+    </dict>
+  </lib>
+</glyph>

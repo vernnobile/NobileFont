@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="1">
+  <advance width="539"/>
+  <unicode hex="0135"/>
+  <outline>
+    <component base="uni0237"/>
+    <component base="circumflex" xOffset="33"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>324</integer>
+      <key>width</key>
+      <integer>104</integer>
+    </dict>
+  </lib>
+</glyph>

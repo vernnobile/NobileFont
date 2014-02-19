@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oacute" format="1">
+  <advance width="1501"/>
+  <unicode hex="00D3"/>
+  <outline>
+    <component base="O"/>
+    <component base="acute" xOffset="657" yOffset="448"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>Oacute</string>
+      <key>position</key>
+      <integer>1269</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1497</integer>
+    </dict>
+  </lib>
+</glyph>

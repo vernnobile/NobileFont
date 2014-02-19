@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Amacron" format="1">
+  <advance width="1543"/>
+  <unicode hex="0100"/>
+  <outline>
+    <component base="A"/>
+    <component base="macron" xOffset="472" yOffset="416"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>Amacron</string>
+      <key>position</key>
+      <integer>1580</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>21</integer>
+    </dict>
+  </lib>
+</glyph>

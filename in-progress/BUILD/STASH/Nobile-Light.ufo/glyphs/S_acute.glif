@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute" format="1">
+  <advance width="1218"/>
+  <unicode hex="015A"/>
+  <outline>
+    <component base="S"/>
+    <component base="acute" xOffset="501" yOffset="448"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>Sacute</string>
+      <key>position</key>
+      <integer>1015</integer>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>1230</integer>
+    </dict>
+  </lib>
+</glyph>

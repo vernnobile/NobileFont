@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacron" format="1">
+  <advance width="1473"/>
+  <unicode hex="016A"/>
+  <outline>
+    <component base="U"/>
+    <component base="macron" xOffset="277" yOffset="387"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-17</integer>
+	    <key>width</key>	    <integer>131</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1636</integer>
+	    <key>width</key>	    <integer>108</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>157</integer>
+	    <key>width</key>
+	    <integer>178</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>428</integer>
+	    <key>width</key>
+	    <integer>636</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1135</integer>
+	    <key>width</key>
+	    <integer>180</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>name</key>
+      <string>Umacron</string>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>width</key>
+      <integer>1426</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>position</key>
+      <integer>1197</integer>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

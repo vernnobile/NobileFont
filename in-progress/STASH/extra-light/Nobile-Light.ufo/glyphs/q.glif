@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q" format="1">
+  <advance width="1207"/>
+  <unicode hex="0071"/>
+  <outline>
+    <contour>
+      <point x="589" y="68" type="curve" smooth="yes"/>
+      <point x="722" y="68"/>
+      <point x="896" y="150"/>
+      <point x="980" y="237" type="curve"/>
+      <point x="980" y="923" type="line"/>
+      <point x="885" y="998"/>
+      <point x="682" y="1094"/>
+      <point x="544" y="1094" type="curve" smooth="yes"/>
+      <point x="258" y="1094"/>
+      <point x="207" y="770"/>
+      <point x="207" y="575" type="curve" smooth="yes"/>
+      <point x="207" y="341"/>
+      <point x="314" y="68"/>
+    </contour>
+    <contour>
+      <point x="980" y="-553" type="line"/>
+      <point x="980" y="170" type="line"/>
+      <point x="895" y="58"/>
+      <point x="738" y="-17"/>
+      <point x="579" y="-17" type="curve" smooth="yes"/>
+      <point x="243" y="-17"/>
+      <point x="115" y="300"/>
+      <point x="115" y="594" type="curve" smooth="yes"/>
+      <point x="115" y="831"/>
+      <point x="215" y="1187"/>
+      <point x="565" y="1187" type="curve" smooth="yes"/>
+      <point x="735" y="1187"/>
+      <point x="912" y="1065"/>
+      <point x="1000" y="959" type="curve"/>
+      <point x="1031" y="1172" type="line"/>
+      <point x="1084" y="1172" type="line"/>
+      <point x="1084" y="-518" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>q</string>
+      <key>position</key>
+      <integer>1031</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1208</integer>
+    </dict>
+  </lib>
+</glyph>

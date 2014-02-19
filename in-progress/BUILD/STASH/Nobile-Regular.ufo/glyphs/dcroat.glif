@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="1">
+  <advance width="1260"/>
+  <unicode hex="0111"/>
+  <outline>
+    <component base="d"/>
+    <component base="macron" xOffset="461" yOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>position</key>
+      <integer>1016</integer>
+      <key>width</key>
+      <integer>85</integer>
+    </dict>
+  </lib>
+</glyph>

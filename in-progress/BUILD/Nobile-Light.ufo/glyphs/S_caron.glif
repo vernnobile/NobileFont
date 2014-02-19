@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scaron" format="1">
+  <advance width="1220"/>
+  <unicode hex="0160"/>
+  <outline>
+    <component base="S"/>
+    <component base="caron" xOffset="253" yOffset="448"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>Scaron</string>
+      <key>position</key>
+      <integer>1015</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1230</integer>
+    </dict>
+  </lib>
+</glyph>

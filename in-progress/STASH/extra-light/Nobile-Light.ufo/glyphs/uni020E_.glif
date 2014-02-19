@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni020E" format="1">
+  <advance width="1453"/>
+  <unicode hex="020E"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni0311" xOffset="494" yOffset="1031"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>uni020E</string>
+      <key>position</key>
+      <integer>1269</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1497</integer>
+    </dict>
+  </lib>
+</glyph>

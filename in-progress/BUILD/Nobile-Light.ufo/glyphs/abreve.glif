@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abreve" format="1">
+  <advance width="1208"/>
+  <unicode hex="0103"/>
+  <outline>
+    <component base="a"/>
+    <component base="breve" xOffset="326"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>abreve</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1170</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>abreve</string>
+      <key>position</key>
+      <integer>966</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1160</integer>
+    </dict>
+  </lib>
+</glyph>
