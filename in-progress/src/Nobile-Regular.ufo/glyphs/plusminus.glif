@@ -26,12 +26,12 @@
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>position</key>
+      <key>position</key>
       <integer>315</integer>
-    <key>width</key>
+      <key>width</key>
       <integer>62</integer>
     </dict>
   </lib>

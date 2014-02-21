@@ -61,17 +61,17 @@
       <point x="1386" y="995" type="curve" smooth="yes"/>
       <point x="1581" y="995"/>
       <point x="1647" y="845"/>
-      <point x="1647" y="641" type="curve"/>
+      <point x="1647" y="641" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>position</key>
+      <key>position</key>
       <integer>1842</integer>
-    <key>width</key>
+      <key>width</key>
       <integer>112</integer>
     </dict>
   </lib>

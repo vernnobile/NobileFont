@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lessequal" format="1">
-  <advance width="1541"/>
+  <advance width="1456"/>
   <unicode hex="2264"/>
   <outline>
     <contour>
-      <point x="1221" y="373" type="line"/>
-      <point x="1356" y="640" type="line"/>
-      <point x="723" y="953" type="line"/>
-      <point x="1356" y="1266" type="line"/>
-      <point x="1221" y="1533" type="line"/>
-      <point x="109" y="953" type="line"/>
+      <point x="1154" y="352" type="line"/>
+      <point x="1281" y="605" type="line"/>
+      <point x="683" y="901" type="line"/>
+      <point x="1281" y="1196" type="line"/>
+      <point x="1154" y="1449" type="line"/>
+      <point x="103" y="901" type="line"/>
     </contour>
     <contour>
-      <point x="163" y="0" type="line"/>
-      <point x="1305" y="0" type="line"/>
-      <point x="1305" y="231" type="line"/>
-      <point x="163" y="231" type="line"/>
+      <point x="154" y="0" type="line"/>
+      <point x="1233" y="0" type="line"/>
+      <point x="1233" y="218" type="line"/>
+      <point x="154" y="218" type="line"/>
     </contour>
   </outline>
   <lib>

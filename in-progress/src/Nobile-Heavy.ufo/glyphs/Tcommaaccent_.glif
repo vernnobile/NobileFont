@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcommaaccent" format="1">
-  <advance width="1172"/>
+  <advance width="1107"/>
   <unicode hex="0162"/>
   <outline>
-    <component base="uni0326" xOffset="173"/>
+    <component base="uni0326" xOffset="164"/>
     <component base="T"/>
   </outline>
   <lib>

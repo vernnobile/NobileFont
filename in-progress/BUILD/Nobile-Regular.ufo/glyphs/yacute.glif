@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yacute" format="1">
-  <advance width="1159"/>
+  <advance width="1086"/>
   <unicode hex="00FD"/>
   <outline>
+    <component base="acute" xOffset="409"/>
     <component base="y"/>
-    <component base="acute" xOffset="434"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
       <array/>
       <key>name</key>
       <string>yacute</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>526</integer>
       <key>unicodes</key>

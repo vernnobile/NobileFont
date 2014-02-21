@@ -8,27 +8,27 @@
   </outline>
   <lib>
     <dict>
-    <key>name</key>
-      <string>uni0202</string>
-    <key>unicodes</key>
+      <key>anchors</key>
       <array>
       </array>
-    <key>org.robofab.postScriptHintData</key>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>uni0202</string>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>width</key>
-      <integer>30</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>position</key>
+      <key>position</key>
       <integer>816</integer>
-    <key>anchors</key>
+      <key>unicodes</key>
       <array>
       </array>
+      <key>width</key>
+      <integer>30</integer>
     </dict>
   </lib>
 </glyph>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="1">
-  <advance width="2204"/>
+  <advance width="2082"/>
   <unicode hex="00C6"/>
   <outline>
     <contour>
-      <point x="1439" y="1578" type="move" name="top"/>
+      <point x="1360" y="1491" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="18" y="0" type="line"/>
-      <point x="506" y="0" type="line"/>
-      <point x="640" y="322" type="line"/>
-      <point x="1034" y="322" type="line"/>
-      <point x="1034" y="0" type="line"/>
-      <point x="2084" y="0" type="line"/>
-      <point x="2084" y="317" type="line"/>
-      <point x="1471" y="317" type="line"/>
-      <point x="1471" y="675" type="line"/>
-      <point x="1972" y="675" type="line"/>
-      <point x="1972" y="944" type="line"/>
-      <point x="1472" y="944" type="line"/>
-      <point x="1472" y="1262" type="line"/>
-      <point x="2092" y="1262" type="line"/>
-      <point x="2092" y="1578" type="line"/>
-      <point x="733" y="1578" type="line"/>
+      <point x="17" y="0" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="605" y="304" type="line"/>
+      <point x="977" y="304" type="line"/>
+      <point x="977" y="0" type="line"/>
+      <point x="1969" y="0" type="line"/>
+      <point x="1969" y="300" type="line"/>
+      <point x="1390" y="300" type="line"/>
+      <point x="1390" y="638" type="line"/>
+      <point x="1864" y="638" type="line"/>
+      <point x="1864" y="892" type="line"/>
+      <point x="1391" y="892" type="line"/>
+      <point x="1391" y="1193" type="line"/>
+      <point x="1977" y="1193" type="line"/>
+      <point x="1977" y="1491" type="line"/>
+      <point x="693" y="1491" type="line"/>
     </contour>
     <contour>
-      <point x="737" y="590" type="line"/>
-      <point x="1035" y="1298" type="line"/>
-      <point x="1035" y="590" type="line"/>
+      <point x="696" y="558" type="line"/>
+      <point x="978" y="1227" type="line"/>
+      <point x="978" y="558" type="line"/>
     </contour>
   </outline>
   <lib>

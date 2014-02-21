@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="1">
-  <advance width="1416"/>
+  <advance width="1331"/>
   <unicode hex="00C5"/>
   <outline>
     <component base="A"/>
-    <component base="ring" xOffset="244" yOffset="410"/>
+    <component base="ring" xOffset="240" yOffset="387"/>
   </outline>
   <lib>
     <dict>
@@ -16,6 +16,8 @@
       <array/>
       <key>name</key>
       <string>Aring</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>794</integer>
       <key>unicodes</key>

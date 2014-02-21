@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon" format="1">
-  <advance width="720"/>
+  <advance width="664"/>
   <unicode hex="003A"/>
   <outline>
     <contour>
-      <point x="221" y="0" type="line"/>
-      <point x="491" y="0" type="line"/>
-      <point x="491" y="281" type="line"/>
-      <point x="221" y="281" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="453" y="261" type="line"/>
+      <point x="207" y="261" type="line"/>
     </contour>
     <contour>
-      <point x="221" y="583" type="line"/>
-      <point x="491" y="583" type="line"/>
-      <point x="491" y="864" type="line"/>
-      <point x="221" y="864" type="line"/>
+      <point x="207" y="545" type="line"/>
+      <point x="453" y="545" type="line"/>
+      <point x="453" y="807" type="line"/>
+      <point x="207" y="807" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,6 +26,8 @@
       <array/>
       <key>name</key>
       <string>colon</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>102</integer>
       <key>unicodes</key>

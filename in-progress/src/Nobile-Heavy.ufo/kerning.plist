@@ -5,101 +5,101 @@
 	<key>D</key>
 	<dict>
 		<key>V</key>
-		<integer>-98</integer>
+		<integer>36</integer>
 		<key>W</key>
-		<integer>-67</integer>
+		<integer>25</integer>
 		<key>comma</key>
-		<integer>-69</integer>
+		<integer>26</integer>
 		<key>period</key>
-		<integer>-83</integer>
+		<integer>30</integer>
 	</dict>
 	<key>F</key>
 	<dict>
 		<key>comma</key>
-		<integer>-118</integer>
+		<integer>-166</integer>
 		<key>g</key>
-		<integer>12</integer>
+		<integer>-43</integer>
 		<key>period</key>
-		<integer>-69</integer>
+		<integer>-211</integer>
 		<key>q</key>
-		<integer>10</integer>
+		<integer>-36</integer>
 		<key>s</key>
-		<integer>3</integer>
+		<integer>-10</integer>
 	</dict>
 	<key>L</key>
 	<dict>
 		<key>quotedblright</key>
-		<integer>-31</integer>
+		<integer>-120</integer>
 		<key>quoteright</key>
-		<integer>-27</integer>
+		<integer>-134</integer>
 	</dict>
 	<key>V</key>
 	<dict>
 		<key>q</key>
-		<integer>31</integer>
+		<integer>-114</integer>
 	</dict>
 	<key>W</key>
 	<dict>
 		<key>q</key>
-		<integer>17</integer>
+		<integer>-64</integer>
 	</dict>
 	<key>b</key>
 	<dict>
 		<key>b</key>
-		<integer>-13</integer>
+		<integer>-30</integer>
 		<key>period</key>
-		<integer>35</integer>
+		<integer>-130</integer>
 		<key>v</key>
-		<integer>17</integer>
+		<integer>-64</integer>
 	</dict>
 	<key>d</key>
 	<dict>
 		<key>d</key>
-		<integer>-17</integer>
+		<integer>6</integer>
 	</dict>
 	<key>e</key>
 	<dict>
 		<key>g</key>
-		<integer>4</integer>
+		<integer>-14</integer>
 		<key>x</key>
-		<integer>-24</integer>
+		<integer>9</integer>
 	</dict>
 	<key>f</key>
 	<dict>
 		<key>comma</key>
-		<integer>50</integer>
+		<integer>-189</integer>
 		<key>f</key>
-		<integer>-62</integer>
+		<integer>-75</integer>
 		<key>period</key>
-		<integer>58</integer>
+		<integer>-217</integer>
 		<key>quotedblright</key>
-		<integer>173</integer>
+		<integer>55</integer>
 		<key>quoteright</key>
-		<integer>173</integer>
+		<integer>55</integer>
 	</dict>
 	<key>g</key>
 	<dict>
 		<key>g</key>
-		<integer>28</integer>
+		<integer>-106</integer>
 	</dict>
 	<key>m</key>
 	<dict>
 		<key>v</key>
-		<integer>14</integer>
+		<integer>-52</integer>
 		<key>w</key>
-		<integer>11</integer>
+		<integer>-41</integer>
 		<key>x</key>
-		<integer>7</integer>
+		<integer>-26</integer>
 	</dict>
 	<key>v</key>
 	<dict>
 		<key>q</key>
-		<integer>14</integer>
+		<integer>-54</integer>
 	</dict>
 	<key>w</key>
 	<dict>
 		<key>q</key>
-		<integer>16</integer>
+		<integer>-60</integer>
 	</dict>
 </dict>
 </plist>

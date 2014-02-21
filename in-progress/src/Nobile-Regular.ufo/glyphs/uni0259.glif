@@ -3,11 +3,11 @@
   <advance width="1139"/>
   <unicode hex="0259"/>
   <outline>
-    <component base="e" xScale="-1" yScale="-1" xOffset="1139" yOffset="1098"/>
+    <component base="e" xScale="-1" yScale="-1" xOffset="1139" yOffset="1096"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

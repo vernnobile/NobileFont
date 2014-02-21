@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="1">
-  <advance width="1020"/>
+  <advance width="948"/>
   <unicode hex="00CE"/>
   <outline>
     <component base="I"/>
-    <component base="circumflex" xOffset="64" yOffset="410"/>
+    <component base="circumflex" xOffset="58" yOffset="387"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
       <array/>
       <key>name</key>
       <string>Icircumflex</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>324</integer>
       <key>unicodes</key>

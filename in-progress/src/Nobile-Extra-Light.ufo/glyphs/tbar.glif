@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="1">
-  <advance width="768"/>
+  <advance width="718"/>
   <unicode hex="0167"/>
   <outline>
+    <component base="macron" xOffset="-110" yOffset="-689"/>
     <component base="t"/>
-    <component base="macron" xOffset="-118" yOffset="-737"/>
   </outline>
   <lib>
     <dict>

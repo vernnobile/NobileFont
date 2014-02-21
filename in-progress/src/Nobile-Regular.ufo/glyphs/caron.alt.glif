@@ -2,14 +2,14 @@
 <glyph name="caron.alt" format="1">
   <advance width="564"/>
   <outline>
-    <component base="comma" xOffset="2" yOffset="1481"/>
     <contour>
       <point x="28" y="1098" type="move" name="_caron.alt"/>
     </contour>
+    <component base="comma" xOffset="2" yOffset="1481"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

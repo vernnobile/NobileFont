@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="1">
-  <advance width="660"/>
+  <advance width="605"/>
   <unicode hex="00EE"/>
   <outline>
+    <component base="circumflex" xOffset="-115"/>
     <component base="dotlessi"/>
-    <component base="circumflex" xOffset="-118"/>
   </outline>
   <lib>
     <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>86</integer>
       <key>width</key>

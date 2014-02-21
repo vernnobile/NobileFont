@@ -4,12 +4,12 @@
   <unicode hex="01FB"/>
   <outline>
     <component base="a"/>
-    <component base="acute" xOffset="361" yOffset="470"/>
-    <component base="ring" xOffset="131"/>
+    <component base="acute" xOffset="361" yOffset="471"/>
+    <component base="ring" xOffset="131" yOffset="1"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

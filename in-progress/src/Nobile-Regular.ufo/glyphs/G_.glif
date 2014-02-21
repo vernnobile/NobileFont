@@ -17,7 +17,7 @@
       <point x="750" y="762" type="line"/>
       <point x="750" y="645" type="line"/>
       <point x="1129" y="645" type="line"/>
-      <point x="1129" y="371" type="line" smooth="yes"/>
+      <point x="1129" y="371" type="line"/>
       <point x="1129" y="190"/>
       <point x="952" y="120"/>
       <point x="774" y="120" type="curve" smooth="yes"/>
@@ -43,38 +43,38 @@
   </outline>
   <lib>
     <dict>
-    <key>hhints</key>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>hhints</key>
       <dict>
       </dict>
-    <key>name</key>
+      <key>name</key>
       <string>G</string>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>vhints</key>
-      <dict>
-      </dict>
-    <key>width</key>
-      <integer>1411</integer>
-    <key>points</key>
+      <key>points</key>
       <array>
       </array>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>segmentType</key>
-      <string>line</string>
-    <key>position</key>
+      <key>position</key>
       <integer>1303</integer>
-    <key>anchors</key>
+      <key>segmentType</key>
+      <string>line</string>
+      <key>unicodes</key>
       <array>
       </array>
+      <key>vhints</key>
+      <dict>
+      </dict>
+      <key>width</key>
+      <integer>1411</integer>
     </dict>
   </lib>
 </glyph>

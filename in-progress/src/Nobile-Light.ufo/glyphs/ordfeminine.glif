@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordfeminine" format="1">
-  <advance width="1213"/>
+  <advance width="1138"/>
   <unicode hex="00AA"/>
   <outline>
-    <component base="a" xScale="0.898" yScale="0.898"/>
+    <component base="a" xScale="0.915" yScale="0.915"/>
   </outline>
   <lib>
     <dict>

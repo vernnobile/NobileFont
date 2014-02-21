@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Cdotaccent" format="1">
-  <advance width="1330"/>
+  <advance width="1248"/>
   <unicode hex="010A"/>
   <outline>
     <component base="C"/>
-    <component base="dotaccent" xOffset="511" yOffset="410"/>
+    <component base="dotaccent" xOffset="482" yOffset="390"/>
   </outline>
   <lib>
     <dict>
@@ -16,6 +16,8 @@
       <array/>
       <key>name</key>
       <string>Cdotaccent</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>682</integer>
       <key>unicodes</key>

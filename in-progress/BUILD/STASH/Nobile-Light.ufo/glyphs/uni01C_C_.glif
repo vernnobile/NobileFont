@@ -1,54 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01CC" format="1">
-  <advance width="1713"/>
+  <advance width="1797"/>
   <unicode hex="01CC"/>
   <outline>
-    <component base="j" xOffset="1225"/>
     <component base="n"/>
+    <component base="j" xOffset="1309"/>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
-      <array>
-      </array>
+      <array/>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>uni01CC</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1673</integer>
         </dict>
       </dict>
       <key>components</key>
-      <array>
-      </array>
+      <array/>
       <key>contours</key>
-      <array>
-      </array>
+      <array/>
       <key>name</key>
       <string>uni01CC</string>
       <key>position</key>
       <integer>2091</integer>
       <key>unicodes</key>
-      <array>
-      </array>
+      <array/>
       <key>width</key>
       <integer>1626</integer>
     </dict>

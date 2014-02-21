@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cacute" format="1">
-  <advance width="1101"/>
+  <advance width="1035"/>
   <unicode hex="0107"/>
   <outline>
+    <component base="acute" xOffset="417"/>
     <component base="c"/>
-    <component base="acute" xOffset="440"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
       <array/>
       <key>name</key>
       <string>cacute</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>553</integer>
       <key>unicodes</key>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C5" format="1">
-  <advance width="2546"/>
+  <advance width="2387"/>
   <unicode hex="01C5"/>
   <outline>
     <component base="D"/>
-    <component base="z" xOffset="1547"/>
-    <component base="caron" xOffset="1622"/>
+    <component base="z" xOffset="1451"/>
+    <component base="caron" xOffset="1523" yOffset="-2"/>
   </outline>
   <lib>
     <dict>
@@ -37,6 +37,8 @@
       <array/>
       <key>name</key>
       <string>uni01C5</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>2465</integer>
       <key>unicodes</key>

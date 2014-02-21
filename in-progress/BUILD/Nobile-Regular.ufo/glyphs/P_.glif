@@ -1,39 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="P" format="1">
-  <advance width="1357"/>
+  <advance width="1273"/>
   <unicode hex="0050"/>
   <outline>
     <contour>
-      <point x="194" y="0" type="line"/>
-      <point x="388" y="0" type="line"/>
-      <point x="388" y="639" type="line"/>
-      <point x="403" y="639"/>
-      <point x="419" y="639"/>
-      <point x="435" y="639" type="curve" smooth="yes"/>
-      <point x="792" y="638"/>
-      <point x="1291" y="633"/>
-      <point x="1291" y="1108" type="curve" smooth="yes"/>
-      <point x="1291" y="1536"/>
-      <point x="945" y="1579"/>
-      <point x="591" y="1579" type="curve" smooth="yes"/>
-      <point x="194" y="1579" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="361" y="606" type="line"/>
+      <point x="418" y="606" type="line" smooth="yes"/>
+      <point x="752" y="605"/>
+      <point x="1212" y="603"/>
+      <point x="1212" y="1045" type="curve" smooth="yes"/>
+      <point x="1212" y="1445"/>
+      <point x="887" y="1485"/>
+      <point x="559" y="1485" type="curve" smooth="yes"/>
+      <point x="181" y="1485" type="line"/>
     </contour>
     <contour>
-      <point x="388" y="784" type="line"/>
-      <point x="388" y="1436" type="line"/>
-      <point x="603" y="1436" type="line" smooth="yes"/>
-      <point x="902" y="1436"/>
-      <point x="1109" y="1422"/>
-      <point x="1109" y="1084" type="curve" smooth="yes"/>
-      <point x="1109" y="790"/>
-      <point x="779" y="784"/>
-      <point x="558" y="784" type="curve" smooth="yes"/>
+      <point x="361" y="741" type="line"/>
+      <point x="361" y="1354" type="line"/>
+      <point x="571" y="1354" type="line" smooth="yes"/>
+      <point x="850" y="1354"/>
+      <point x="1043" y="1340"/>
+      <point x="1043" y="1024" type="curve" smooth="yes"/>
+      <point x="1043" y="748"/>
+      <point x="740" y="741"/>
+      <point x="529" y="741" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="717" y="1578" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="702" y="0" type="move" name="bot"/>
+      <point x="672" y="1485" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -66,6 +61,8 @@
       <array/>
       <key>name</key>
       <string>R</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>1135</integer>
       <key>unicodes</key>

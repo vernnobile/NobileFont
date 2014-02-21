@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="multiply" format="1">
-  <advance width="1056"/>
+  <advance width="978"/>
   <unicode hex="00D7"/>
   <outline>
     <contour>
-      <point x="207" y="127" type="line"/>
-      <point x="524" y="444" type="line"/>
-      <point x="841" y="127" type="line"/>
-      <point x="943" y="229" type="line"/>
-      <point x="626" y="546" type="line"/>
-      <point x="943" y="863" type="line"/>
-      <point x="841" y="965" type="line"/>
-      <point x="524" y="648" type="line"/>
-      <point x="207" y="965" type="line"/>
-      <point x="105" y="863" type="line"/>
-      <point x="422" y="546" type="line"/>
-      <point x="105" y="229" type="line"/>
+      <point x="186" y="120" type="line"/>
+      <point x="485" y="419" type="line"/>
+      <point x="783" y="120" type="line"/>
+      <point x="878" y="214" type="line"/>
+      <point x="579" y="513" type="line"/>
+      <point x="878" y="812" type="line"/>
+      <point x="783" y="906" type="line"/>
+      <point x="485" y="607" type="line"/>
+      <point x="186" y="906" type="line"/>
+      <point x="92" y="812" type="line"/>
+      <point x="391" y="513" type="line"/>
+      <point x="92" y="214" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
 </glyph>

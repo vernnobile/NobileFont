@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="space" format="1">
-  <advance width="572"/>
+  <advance width="535"/>
   <unicode hex="0020"/>
   <outline>
   </outline>
@@ -34,6 +34,8 @@
       <array/>
       <key>name</key>
       <string>space</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>unicodes</key>
       <array/>
       <key>width</key>

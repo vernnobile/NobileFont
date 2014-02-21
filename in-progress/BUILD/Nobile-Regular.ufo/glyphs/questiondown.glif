@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="questiondown" format="1">
-  <advance width="1140"/>
+  <advance width="1069"/>
   <unicode hex="00BF"/>
   <outline>
-    <component base="question" xOffset="1074" yOffset="1323" xScale="-1" yScale="-1"/>
+    <component base="question" xOffset="1010" yOffset="1240" xScale="-1" yScale="-1"/>
   </outline>
   <lib>
     <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>548</integer>
       <key>width</key>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve" format="1">
+  <advance width="1337"/>
+  <unicode hex="0102"/>
+  <outline>
+    <component base="A"/>
+    <component base="breve" xOffset="417" yOffset="393"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>Abreve</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+      <key>position</key>
+      <integer>816</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>76</integer>
+    </dict>
+  </lib>
+</glyph>

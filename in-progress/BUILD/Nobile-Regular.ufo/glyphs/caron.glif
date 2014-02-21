@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="1">
-  <advance width="936"/>
+  <advance width="870"/>
   <unicode hex="02C7"/>
   <outline>
     <contour>
-      <point x="387" y="1361" type="line"/>
-      <point x="523" y="1361" type="line"/>
-      <point x="795" y="1804" type="line"/>
-      <point x="637" y="1804" type="line"/>
-      <point x="455" y="1506" type="line"/>
-      <point x="273" y="1804" type="line"/>
-      <point x="115" y="1804" type="line"/>
+      <point x="361" y="1279" type="line"/>
+      <point x="486" y="1279" type="line"/>
+      <point x="741" y="1690" type="line"/>
+      <point x="595" y="1690" type="line"/>
+      <point x="424" y="1413" type="line"/>
+      <point x="252" y="1690" type="line"/>
+      <point x="106" y="1690" type="line"/>
     </contour>
     <contour>
-      <point x="458" y="1168" type="move" name="_top"/>
+      <point x="427" y="1098" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>28</integer>
       <key>width</key>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aringacute" format="1">
-  <advance width="1425"/>
+  <advance width="1334"/>
   <unicode hex="01FA"/>
   <outline>
     <component base="A"/>
-    <component base="acute" xOffset="565" yOffset="848"/>
-    <component base="ring" xOffset="406" yOffset="433"/>
+    <component base="acute" xOffset="521" yOffset="791"/>
+    <component base="ring" xOffset="361" yOffset="390"/>
   </outline>
   <lib>
     <dict>

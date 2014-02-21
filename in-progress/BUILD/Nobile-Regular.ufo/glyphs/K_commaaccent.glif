@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kcommaaccent" format="1">
-  <advance width="1368"/>
+  <advance width="1282"/>
   <unicode hex="0136"/>
   <outline>
     <component base="K"/>
-    <component base="uni0326" xOffset="286"/>
+    <component base="uni0326" xOffset="276"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
       <array/>
       <key>name</key>
       <string>Kcommaaccent</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>141</integer>
       <key>unicodes</key>

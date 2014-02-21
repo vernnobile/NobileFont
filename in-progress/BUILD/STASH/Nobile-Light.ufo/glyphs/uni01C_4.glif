@@ -1,54 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C4" format="1">
-  <advance width="2621"/>
+  <advance width="2665"/>
   <unicode hex="01C4"/>
   <outline>
     <component base="D"/>
-    <component base="Zcaron" xOffset="1435"/>
+    <component base="Z" xOffset="1479"/>
+    <component base="caron" xOffset="1770" yOffset="448"/>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
-      <array>
-      </array>
+      <array/>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>uni01C4</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>2622</integer>
         </dict>
       </dict>
       <key>components</key>
-      <array>
-      </array>
+      <array/>
       <key>contours</key>
-      <array>
-      </array>
+      <array/>
       <key>name</key>
       <string>uni01C4</string>
       <key>position</key>
       <integer>2606</integer>
       <key>unicodes</key>
-      <array>
-      </array>
+      <array/>
       <key>width</key>
       <integer>2722</integer>
     </dict>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="approxequal" format="1">
-  <advance width="1044"/>
+  <advance width="973"/>
   <unicode hex="2248"/>
   <outline>
-    <component base="asciitilde" yOffset="100"/>
-    <component base="asciitilde" yOffset="-281"/>
+    <component base="asciitilde" yOffset="91"/>
+    <component base="asciitilde" yOffset="-264"/>
   </outline>
   <lib>
     <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>635</integer>
       <key>width</key>

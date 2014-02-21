@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="itilde" format="1">
-  <advance width="660"/>
+  <advance width="605"/>
   <unicode hex="0129"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="tilde" xOffset="-198"/>
+    <component base="tilde" xOffset="-189"/>
   </outline>
   <lib>
     <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>357</integer>
       <key>width</key>

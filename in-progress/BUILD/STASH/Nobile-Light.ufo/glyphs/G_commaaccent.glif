@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcommaaccent" format="1">
-  <advance width="1416"/>
+  <advance width="1454"/>
   <unicode hex="0122"/>
   <outline>
     <component base="G"/>
-    <component base="uni0326"/>
+    <component base="uni0326" xOffset="592"/>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
-      <array>
-      </array>
+      <array/>
       <key>components</key>
-      <array>
-      </array>
+      <array/>
       <key>contours</key>
-      <array>
-      </array>
+      <array/>
       <key>name</key>
       <string>Gcommaaccent</string>
       <key>position</key>
       <integer>1303</integer>
       <key>unicodes</key>
-      <array>
-      </array>
+      <array/>
       <key>width</key>
       <integer>1401</integer>
     </dict>

@@ -26,21 +26,17 @@
   <lib>
     <dict>
       <key>anchors</key>
-      <array>
-      </array>
+      <array/>
       <key>components</key>
-      <array>
-      </array>
+      <array/>
       <key>contours</key>
-      <array>
-      </array>
+      <array/>
       <key>name</key>
       <string>semicolon</string>
       <key>position</key>
       <integer>197</integer>
       <key>unicodes</key>
-      <array>
-      </array>
+      <array/>
       <key>width</key>
       <integer>420</integer>
     </dict>

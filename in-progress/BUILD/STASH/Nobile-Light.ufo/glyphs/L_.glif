@@ -1,69 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="1134"/>
+  <advance width="1154"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="160" y="0" type="line"/>
-      <point x="1073" y="0" type="line"/>
-      <point x="1073" y="76" type="line"/>
-      <point x="258" y="76" type="line"/>
-      <point x="258" y="1620" type="line"/>
-      <point x="160" y="1620" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="1093" y="0" type="line"/>
+      <point x="1093" y="76" type="line"/>
+      <point x="278" y="76" type="line"/>
+      <point x="278" y="1616" type="line"/>
+      <point x="180" y="1616" type="line"/>
     </contour>
     <contour>
-      <point x="231" y="1620" type="move" name="top"/>
+      <point x="399" y="1172" type="move" name="caron.alt"/>
     </contour>
     <contour>
-      <point x="211" y="869" type="move" name="mid"/>
+      <point x="251" y="1620" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="627" y="0" type="move" name="bot"/>
+      <point x="231" y="869" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="647" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
-      <array>
-      </array>
+      <array/>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>L</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1115</integer>
         </dict>
       </dict>
       <key>components</key>
-      <array>
-      </array>
+      <array/>
       <key>contours</key>
-      <array>
-      </array>
+      <array/>
       <key>name</key>
       <string>L</string>
       <key>position</key>
       <integer>141</integer>
       <key>unicodes</key>
-      <array>
-      </array>
+      <array/>
       <key>width</key>
       <integer>1116</integer>
     </dict>

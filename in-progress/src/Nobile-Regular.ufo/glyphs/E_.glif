@@ -7,9 +7,6 @@
       <point x="690" y="1485" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="800" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
       <point x="702" y="0" type="move" name="bot"/>
     </contour>
     <contour>
@@ -29,52 +26,52 @@
   </outline>
   <lib>
     <dict>
-    <key>name</key>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1153</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
       <string>E</string>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>E</string>
-    <key>lib</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1153</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    <key>width</key>
-      <integer>1089</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>position</key>
+      <key>position</key>
       <integer>141</integer>
-    <key>anchors</key>
+      <key>unicodes</key>
       <array>
       </array>
+      <key>width</key>
+      <integer>1089</integer>
     </dict>
   </lib>
 </glyph>

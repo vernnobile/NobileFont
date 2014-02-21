@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcaron" format="1">
-  <advance width="1116"/>
+  <advance width="1049"/>
   <unicode hex="0164"/>
   <outline>
     <component base="T"/>
-    <component base="caron" xOffset="124" yOffset="410"/>
+    <component base="caron" xOffset="119" yOffset="387"/>
   </outline>
   <lib>
     <dict>
@@ -28,6 +28,8 @@
           <integer>1124</integer>
         </dict>
       </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>515</integer>
       <key>width</key>

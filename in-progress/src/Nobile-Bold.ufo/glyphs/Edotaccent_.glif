@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edotaccent" format="1">
-  <advance width="1304"/>
+  <advance width="1232"/>
   <unicode hex="0116"/>
   <outline>
     <component base="E"/>
-    <component base="dotaccent" xOffset="412" yOffset="413"/>
+    <component base="dotaccent" xOffset="391" yOffset="387"/>
   </outline>
   <lib>
     <dict>

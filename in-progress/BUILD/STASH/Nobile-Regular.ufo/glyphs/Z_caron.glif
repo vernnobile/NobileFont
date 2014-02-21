@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zcaron" format="1">
+  <advance width="1175"/>
+  <unicode hex="017D"/>
+  <outline>
+    <component base="Z"/>
+    <component base="caron" xOffset="193" yOffset="410"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>Zcaron</string>
+      <key>position</key>
+      <integer>321</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1263</integer>
+    </dict>
+  </lib>
+</glyph>

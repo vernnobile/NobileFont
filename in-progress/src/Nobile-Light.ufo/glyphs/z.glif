@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="1">
-  <advance width="956"/>
+  <advance width="901"/>
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="502" y="1170" type="move" name="top"/>
+      <point x="475" y="1097" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="105" y="0" type="line"/>
-      <point x="868" y="0" type="line"/>
-      <point x="868" y="107" type="line"/>
-      <point x="246" y="107" type="line"/>
-      <point x="871" y="1072" type="line"/>
-      <point x="872" y="1170" type="line"/>
-      <point x="136" y="1170" type="line"/>
-      <point x="136" y="1071" type="line"/>
-      <point x="739" y="1071" type="line"/>
-      <point x="105" y="107" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="816" y="0" type="line"/>
+      <point x="816" y="105" type="line"/>
+      <point x="239" y="105" type="line"/>
+      <point x="821" y="1001" type="line"/>
+      <point x="821" y="1097" type="line"/>
+      <point x="129" y="1097" type="line"/>
+      <point x="129" y="998" type="line"/>
+      <point x="690" y="998" type="line"/>
+      <point x="99" y="104" type="line"/>
     </contour>
   </outline>
   <lib>

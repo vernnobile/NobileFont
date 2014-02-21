@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="1">
-  <advance width="419"/>
+  <advance width="424"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="218" y="1170" type="move" name="top"/>
+      <point x="220" y="1097" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="222" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="146" y="0" type="line"/>
-      <point x="274" y="0" type="line"/>
-      <point x="274" y="1172" type="line"/>
-      <point x="146" y="1172" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="275" y="1099" type="line"/>
+      <point x="148" y="1099" type="line"/>
     </contour>
   </outline>
   <lib>

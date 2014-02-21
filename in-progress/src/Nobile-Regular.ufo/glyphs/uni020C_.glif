@@ -3,32 +3,32 @@
   <advance width="1504"/>
   <unicode hex="020C"/>
   <outline>
+    <component base="uni030F" xOffset="83" yOffset="390"/>
     <component base="O"/>
-    <component base="uni030F" xOffset="83" yOffset="387"/>
   </outline>
   <lib>
     <dict>
-    <key>name</key>
-      <string>uni020C</string>
-    <key>unicodes</key>
+      <key>anchors</key>
       <array>
       </array>
-    <key>org.robofab.postScriptHintData</key>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>uni020C</string>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>width</key>
-      <integer>1497</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>position</key>
+      <key>position</key>
       <integer>1269</integer>
-    <key>anchors</key>
+      <key>unicodes</key>
       <array>
       </array>
+      <key>width</key>
+      <integer>1497</integer>
     </dict>
   </lib>
 </glyph>

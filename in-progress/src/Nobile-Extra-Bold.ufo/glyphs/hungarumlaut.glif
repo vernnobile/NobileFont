@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="1088"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="520" y="1098" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="272" y="1187" type="line"/>
+      <point x="702" y="1647" type="line"/>
+      <point x="488" y="1831" type="line"/>
+      <point x="126" y="1305" type="line"/>
+    </contour>
+    <contour>
+      <point x="719" y="1199" type="line"/>
+      <point x="1197" y="1607" type="line"/>
+      <point x="1007" y="1812" type="line"/>
+      <point x="587" y="1332" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <string>-192</string>
+      <key>width</key>
+      <integer>449</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="1191"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="569" y="1098" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="185" y="1260" type="curve"/>
+      <point x="269" y="1260" type="line"/>
+      <point x="269" y="1338"/>
+      <point x="301" y="1364"/>
+      <point x="352" y="1364" type="curve" smooth="yes"/>
+      <point x="456" y="1364"/>
+      <point x="635" y="1251"/>
+      <point x="751" y="1250" type="curve" smooth="yes"/>
+      <point x="877" y="1250"/>
+      <point x="938" y="1327"/>
+      <point x="938" y="1531" type="curve"/>
+      <point x="857" y="1531" type="line"/>
+      <point x="857" y="1462"/>
+      <point x="825" y="1439"/>
+      <point x="777" y="1439" type="curve" smooth="yes"/>
+      <point x="672" y="1439"/>
+      <point x="490" y="1551"/>
+      <point x="384" y="1552" type="curve" smooth="yes"/>
+      <point x="253" y="1552"/>
+      <point x="185" y="1480"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>635</integer>
+      <key>width</key>
+      <integer>122</integer>
+    </dict>
+  </lib>
+</glyph>

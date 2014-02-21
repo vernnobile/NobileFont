@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="760"/>
+  <advance width="720"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="432" y="1170" type="move" name="top"/>
+      <point x="410" y="1097" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="381" y="0" type="move" name="bot"/>
+      <point x="368" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="164" y="0" type="line"/>
-      <point x="296" y="0" type="line"/>
-      <point x="293" y="909" type="line"/>
-      <point x="406" y="1016"/>
-      <point x="559" y="1065"/>
-      <point x="694" y="1070" type="curve"/>
-      <point x="687" y="1185" type="line"/>
-      <point x="568" y="1185"/>
-      <point x="403" y="1124"/>
-      <point x="283" y="987" type="curve"/>
-      <point x="262" y="1170" type="line"/>
-      <point x="164" y="1170" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="284" y="849" type="line"/>
+      <point x="387" y="944"/>
+      <point x="526" y="990"/>
+      <point x="657" y="996" type="curve"/>
+      <point x="649" y="1109" type="line"/>
+      <point x="541" y="1109"/>
+      <point x="387" y="1053"/>
+      <point x="274" y="925" type="curve"/>
+      <point x="253" y="1097" type="line"/>
+      <point x="155" y="1097" type="line"/>
     </contour>
   </outline>
   <lib>

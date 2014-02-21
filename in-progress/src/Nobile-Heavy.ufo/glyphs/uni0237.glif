@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0237" format="1">
-  <advance width="782"/>
+  <advance width="738"/>
   <unicode hex="0237"/>
   <outline>
     <contour>
-      <point x="375" y="1162" type="move" name="top"/>
+      <point x="354" y="1098" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="85" y="-499" type="line"/>
-      <point x="400" y="-423"/>
-      <point x="573" y="-315"/>
-      <point x="573" y="0" type="curve" smooth="yes"/>
-      <point x="573" y="1162" type="line"/>
-      <point x="161" y="1162" type="line"/>
-      <point x="161" y="98" type="line" smooth="yes"/>
-      <point x="161" y="-96"/>
-      <point x="152" y="-132"/>
-      <point x="-51" y="-217" type="curve"/>
+      <point x="80" y="-472" type="line"/>
+      <point x="378" y="-400"/>
+      <point x="541" y="-298"/>
+      <point x="541" y="0" type="curve" smooth="yes"/>
+      <point x="541" y="1098" type="line"/>
+      <point x="152" y="1098" type="line"/>
+      <point x="152" y="93" type="line" smooth="yes"/>
+      <point x="152" y="-90"/>
+      <point x="144" y="-125"/>
+      <point x="-48" y="-205" type="curve"/>
     </contour>
   </outline>
   <lib>

@@ -29,6 +29,9 @@
     <contour>
       <point x="787" y="0" type="move" name="bot"/>
     </contour>
+    <contour>
+      <point x="887" y="0" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>

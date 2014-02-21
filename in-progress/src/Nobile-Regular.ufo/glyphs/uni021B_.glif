@@ -3,57 +3,57 @@
   <advance width="800"/>
   <unicode hex="021B"/>
   <outline>
-    <component base="t"/>
     <component base="uni0326" xOffset="89"/>
+    <component base="t"/>
   </outline>
   <lib>
     <dict>
-    <key>name</key>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni021B</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>746</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
       <string>uni021B</string>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>uni021B</string>
-    <key>lib</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>746</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    <key>width</key>
-      <integer>67</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>position</key>
+      <key>position</key>
       <integer>273</integer>
-    <key>anchors</key>
+      <key>unicodes</key>
       <array>
       </array>
+      <key>width</key>
+      <integer>67</integer>
     </dict>
   </lib>
 </glyph>

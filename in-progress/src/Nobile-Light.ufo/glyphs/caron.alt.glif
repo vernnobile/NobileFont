@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron.alt" format="1">
-  <advance width="600"/>
+  <advance width="563"/>
   <outline>
     <contour>
-      <point x="30" y="1170" type="move" name="_caron.alt"/>
+      <point x="28" y="1097" type="move" name="_caron.alt"/>
     </contour>
-    <component base="comma" xOffset="24" yOffset="1496"/>
+    <component base="comma" xOffset="20" yOffset="1413"/>
   </outline>
   <lib>
     <dict>

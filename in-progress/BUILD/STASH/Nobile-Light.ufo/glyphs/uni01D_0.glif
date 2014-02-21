@@ -3,7 +3,7 @@
   <advance width="259"/>
   <unicode hex="01D0"/>
   <outline>
-    <component base="caron" xOffset="-214"/>
     <component base="dotlessi"/>
+    <component base="caron" xOffset="-214"/>
   </outline>
 </glyph>

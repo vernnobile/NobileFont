@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="partialdiff" format="1">
-  <advance width="1285"/>
+  <advance width="1207"/>
   <unicode hex="2202"/>
   <outline>
-    <component base="six" xScale="-1.0" xOffset="1285" yOffset="158"/>
+    <component base="six" xScale="-1.0" xOffset="1207" yOffset="146"/>
   </outline>
   <lib>
     <dict>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="1137"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="143" y="-110" type="line"/>
+      <point x="994" y="-110" type="line"/>
+      <point x="994" y="-35" type="line"/>
+      <point x="143" y="-35" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+      <key>position</key>
+      <string>-118</string>
+      <key>width</key>
+      <integer>81</integer>
+    </dict>
+  </lib>
+</glyph>

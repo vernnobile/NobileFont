@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="germandbls" format="1">
-  <advance width="1392"/>
+  <advance width="1301"/>
   <unicode hex="00DF"/>
   <outline>
     <contour>
-      <point x="531" y="-129" type="line"/>
-      <point x="881" y="-129"/>
-      <point x="1305" y="-37"/>
-      <point x="1305" y="395" type="curve" smooth="yes"/>
-      <point x="1305" y="661"/>
-      <point x="1150" y="844"/>
-      <point x="877" y="844" type="curve"/>
-      <point x="1052" y="864"/>
-      <point x="1123" y="1015"/>
-      <point x="1123" y="1176" type="curve" smooth="yes"/>
-      <point x="1123" y="1484"/>
-      <point x="906" y="1579"/>
-      <point x="630" y="1579" type="curve" smooth="yes"/>
-      <point x="271" y="1579"/>
-      <point x="160" y="1381"/>
-      <point x="160" y="1046" type="curve" smooth="yes"/>
-      <point x="161" y="-6" type="line"/>
-      <point x="355" y="16" type="line"/>
-      <point x="355" y="1018" type="line" smooth="yes"/>
-      <point x="355" y="1240"/>
-      <point x="356" y="1436"/>
-      <point x="630" y="1436" type="curve" smooth="yes"/>
-      <point x="798" y="1436"/>
-      <point x="951" y="1399"/>
-      <point x="951" y="1200" type="curve" smooth="yes"/>
-      <point x="951" y="932.027"/>
-      <point x="764" y="897.578"/>
-      <point x="543" y="903.348" type="curve" smooth="yes"/>
-      <point x="529" y="903.736"/>
-      <point x="514" y="904.307"/>
-      <point x="499" y="905" type="curve"/>
-      <point x="499" y="774" type="line"/>
-      <point x="740" y="774"/>
-      <point x="1123" y="759"/>
-      <point x="1123" y="432" type="curve" smooth="yes"/>
-      <point x="1123" y="62"/>
-      <point x="847" y="27"/>
-      <point x="531" y="27" type="curve"/>
+      <point x="496" y="-119" type="line"/>
+      <point x="824" y="-119"/>
+      <point x="1220" y="-36"/>
+      <point x="1220" y="372" type="curve" smooth="yes"/>
+      <point x="1220" y="624"/>
+      <point x="1072" y="795"/>
+      <point x="817" y="795" type="curve"/>
+      <point x="980" y="814"/>
+      <point x="1049" y="954"/>
+      <point x="1049" y="1107" type="curve" smooth="yes"/>
+      <point x="1049" y="1398"/>
+      <point x="845" y="1486"/>
+      <point x="589" y="1486" type="curve" smooth="yes"/>
+      <point x="256" y="1486"/>
+      <point x="149" y="1305"/>
+      <point x="149" y="987" type="curve" smooth="yes"/>
+      <point x="151" y="-6" type="line"/>
+      <point x="330" y="14" type="line"/>
+      <point x="329" y="963" type="line" smooth="yes"/>
+      <point x="329" y="1175"/>
+      <point x="334" y="1355"/>
+      <point x="589" y="1355" type="curve" smooth="yes"/>
+      <point x="750" y="1355"/>
+      <point x="890" y="1316"/>
+      <point x="890" y="1130" type="curve" smooth="yes"/>
+      <point x="890" y="878"/>
+      <point x="716" y="844"/>
+      <point x="510" y="850" type="curve" smooth="yes"/>
+      <point x="498" y="850"/>
+      <point x="478" y="851"/>
+      <point x="465" y="852" type="curve"/>
+      <point x="465" y="730" type="line"/>
+      <point x="688" y="730"/>
+      <point x="1053" y="717"/>
+      <point x="1053" y="406" type="curve" smooth="yes"/>
+      <point x="1053" y="56"/>
+      <point x="793" y="24"/>
+      <point x="496" y="24" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -54,6 +54,8 @@
       <array/>
       <key>name</key>
       <string>germandbls</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>1039</integer>
       <key>unicodes</key>

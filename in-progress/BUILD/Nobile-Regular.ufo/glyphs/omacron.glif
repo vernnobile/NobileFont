@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omacron" format="1">
-  <advance width="1308"/>
+  <advance width="1228"/>
   <unicode hex="014D"/>
   <outline>
+    <component base="macron" xOffset="142"/>
     <component base="o"/>
-    <component base="macron" xOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
       <array/>
       <key>name</key>
       <string>omacron</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>1048</integer>
       <key>unicodes</key>

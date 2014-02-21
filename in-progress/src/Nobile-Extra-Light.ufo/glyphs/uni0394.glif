@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0394" format="1">
-  <advance width="1756"/>
+  <advance width="1267"/>
   <unicode hex="0394"/>
   <outline>
+    <contour>
+      <point x="46" y="0" type="line"/>
+      <point x="1223" y="0" type="line"/>
+      <point x="684" y="1515" type="line"/>
+      <point x="573" y="1515" type="line"/>
+    </contour>
+    <contour>
+      <point x="171" y="81" type="line"/>
+      <point x="631" y="1448" type="line"/>
+      <point x="1101" y="81" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

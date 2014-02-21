@@ -40,33 +40,33 @@
   </outline>
   <lib>
     <dict>
-    <key>hhints</key>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>hhints</key>
       <dict>
       </dict>
-    <key>name</key>
+      <key>name</key>
       <string>C</string>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>vhints</key>
-      <dict>
-      </dict>
-    <key>width</key>
-      <integer>1270</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>position</key>
+      <key>position</key>
       <integer>120</integer>
-    <key>anchors</key>
+      <key>unicodes</key>
       <array>
       </array>
+      <key>vhints</key>
+      <dict>
+      </dict>
+      <key>width</key>
+      <integer>1270</integer>
     </dict>
   </lib>
 </glyph>

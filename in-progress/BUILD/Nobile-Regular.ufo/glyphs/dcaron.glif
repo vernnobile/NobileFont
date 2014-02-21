@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="1303"/>
+  <advance width="1223"/>
   <unicode hex="010F"/>
   <outline>
+    <component base="caron.alt" xOffset="927"/>
     <component base="d"/>
-    <component base="caron.alt" xOffset="985"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
       <array/>
       <key>name</key>
       <string>dcaron</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>1343</integer>
       <key>unicodes</key>

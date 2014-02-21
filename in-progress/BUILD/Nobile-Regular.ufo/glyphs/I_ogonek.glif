@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iogonek" format="1">
-  <advance width="1020"/>
+  <advance width="948"/>
   <unicode hex="012E"/>
   <outline>
     <component base="I"/>
-    <component base="ogonek"/>
+    <component base="ogonek" xOffset="2"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
       <array/>
       <key>name</key>
       <string>Iogonek</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>324</integer>
       <key>unicodes</key>

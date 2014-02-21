@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="afii57929" format="1">
-  <advance width="1756"/>
+  <advance width="1646"/>
   <unicode hex="02BC"/>
   <outline>
-    <component base="comma" xOffset="-84" yOffset="1610"/>
+    <component base="comma" xOffset="-83" yOffset="1508"/>
   </outline>
   <lib>
     <dict>

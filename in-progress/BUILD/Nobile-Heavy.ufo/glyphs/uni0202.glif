@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0202" format="1">
+  <advance width="1458"/>
+  <unicode hex="0202"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni0311" xOffset="400" yOffset="387"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>uni0202</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+      <key>position</key>
+      <integer>816</integer>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>30</integer>
+    </dict>
+  </lib>
+</glyph>

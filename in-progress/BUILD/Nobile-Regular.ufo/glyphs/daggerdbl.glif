@@ -1,33 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl" format="1">
-  <advance width="1142"/>
+  <advance width="1068"/>
   <unicode hex="2021"/>
   <outline>
     <contour>
-      <point x="482" y="-200" type="line"/>
-      <point x="661" y="-200" type="line"/>
-      <point x="661" y="305" type="line"/>
-      <point x="986" y="305" type="line"/>
-      <point x="986" y="444" type="line"/>
-      <point x="661" y="444" type="line"/>
-      <point x="661" y="1020" type="line"/>
-      <point x="988" y="1020" type="line"/>
-      <point x="988" y="1161" type="line"/>
-      <point x="661" y="1161" type="line"/>
-      <point x="661" y="1578" type="line"/>
-      <point x="482" y="1578" type="line"/>
-      <point x="482" y="1161" type="line"/>
-      <point x="154" y="1161" type="line"/>
-      <point x="154" y="1020" type="line"/>
-      <point x="482" y="1020" type="line"/>
-      <point x="482" y="444" type="line"/>
-      <point x="154" y="444" type="line"/>
-      <point x="154" y="305" type="line"/>
-      <point x="482" y="305" type="line"/>
+      <point x="452" y="-188" type="line"/>
+      <point x="618" y="-188" type="line"/>
+      <point x="618" y="286" type="line"/>
+      <point x="921" y="286" type="line"/>
+      <point x="921" y="414" type="line"/>
+      <point x="618" y="414" type="line"/>
+      <point x="618" y="960" type="line"/>
+      <point x="923" y="960" type="line"/>
+      <point x="923" y="1089" type="line"/>
+      <point x="618" y="1089" type="line"/>
+      <point x="618" y="1485" type="line"/>
+      <point x="452" y="1485" type="line"/>
+      <point x="452" y="1089" type="line"/>
+      <point x="146" y="1089" type="line"/>
+      <point x="146" y="960" type="line"/>
+      <point x="452" y="960" type="line"/>
+      <point x="452" y="414" type="line"/>
+      <point x="146" y="414" type="line"/>
+      <point x="146" y="286" type="line"/>
+      <point x="452" y="286" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>483</integer>
       <key>width</key>

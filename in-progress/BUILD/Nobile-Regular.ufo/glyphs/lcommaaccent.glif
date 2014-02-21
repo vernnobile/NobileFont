@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcommaaccent" format="1">
-  <advance width="560"/>
+  <advance width="522"/>
   <unicode hex="013C"/>
   <outline>
     <component base="l"/>
-    <component base="uni0326" xOffset="-135"/>
+    <component base="uni0326" xOffset="-122"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
       <array/>
       <key>name</key>
       <string>lcommaaccent</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>139</integer>
       <key>unicodes</key>

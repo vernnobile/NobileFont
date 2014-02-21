@@ -4,18 +4,30 @@
   <unicode hex="00A5"/>
   <outline>
     <contour>
+      <point x="1203" y="1620" type="line"/>
+      <point x="1102" y="1620" type="line"/>
+      <point x="633" y="715" type="line"/>
+      <point x="166" y="1620" type="line"/>
+      <point x="61" y="1620" type="line"/>
+      <point x="548" y="680" type="line"/>
+      <point x="286" y="680" type="line"/>
+      <point x="286" y="612" type="line"/>
+      <point x="580" y="612" type="line"/>
+      <point x="580" y="470" type="line"/>
+      <point x="286" y="470" type="line"/>
       <point x="286" y="402" type="line"/>
+      <point x="580" y="402" type="line"/>
+      <point x="580" y="0" type="line"/>
+      <point x="678" y="0" type="line"/>
+      <point x="678" y="402" type="line"/>
       <point x="963" y="402" type="line"/>
       <point x="963" y="470" type="line"/>
-      <point x="286" y="470" type="line"/>
-    </contour>
-    <contour>
-      <point x="286" y="612" type="line"/>
+      <point x="678" y="470" type="line"/>
+      <point x="678" y="612" type="line"/>
       <point x="963" y="612" type="line"/>
       <point x="963" y="680" type="line"/>
-      <point x="286" y="680" type="line"/>
+      <point x="710" y="680" type="line"/>
     </contour>
-    <component base="Y"/>
   </outline>
   <lib>
     <dict>

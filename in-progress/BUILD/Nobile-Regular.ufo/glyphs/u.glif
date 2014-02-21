@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u" format="1">
-  <advance width="1321"/>
+  <advance width="1240"/>
   <unicode hex="0075"/>
   <outline>
     <contour>
-      <point x="572" y="-18" type="curve" smooth="yes"/>
-      <point x="778" y="-18"/>
-      <point x="899" y="79"/>
-      <point x="979" y="165" type="curve"/>
-      <point x="1006" y="0" type="line"/>
-      <point x="1147" y="0" type="line"/>
-      <point x="1147" y="1168" type="line"/>
-      <point x="957" y="1168" type="line"/>
-      <point x="957" y="298" type="line"/>
-      <point x="862" y="205"/>
-      <point x="776" y="126"/>
-      <point x="583" y="126" type="curve" smooth="yes"/>
-      <point x="399" y="126"/>
-      <point x="354" y="265"/>
-      <point x="354" y="429" type="curve" smooth="yes"/>
-      <point x="354" y="1168" type="line"/>
-      <point x="164" y="1168" type="line"/>
-      <point x="164" y="429" type="line" smooth="yes"/>
-      <point x="164" y="141"/>
-      <point x="290" y="-18"/>
+      <point x="538" y="-20" type="curve" smooth="yes"/>
+      <point x="731" y="-20"/>
+      <point x="846" y="70"/>
+      <point x="922" y="154" type="curve"/>
+      <point x="948" y="0" type="line"/>
+      <point x="1077" y="0" type="line"/>
+      <point x="1077" y="1096" type="line"/>
+      <point x="901" y="1096" type="line"/>
+      <point x="901" y="277" type="line"/>
+      <point x="811" y="187"/>
+      <point x="728" y="113"/>
+      <point x="548" y="113" type="curve" smooth="yes"/>
+      <point x="372" y="113"/>
+      <point x="330" y="245"/>
+      <point x="330" y="401" type="curve" smooth="yes"/>
+      <point x="330" y="1096" type="line"/>
+      <point x="155" y="1096" type="line"/>
+      <point x="155" y="401" type="line" smooth="yes"/>
+      <point x="155" y="132"/>
+      <point x="271" y="-20"/>
     </contour>
     <contour>
-      <point x="664" y="1168" type="move" name="top"/>
+      <point x="624" y="1096" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="1074" y="0" type="move" name="ogonek"/>
+      <point x="1010" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
@@ -64,6 +64,8 @@
       <array/>
       <key>name</key>
       <string>u</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>945</integer>
       <key>unicodes</key>

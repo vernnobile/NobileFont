@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve" format="1">
-  <advance width="1321"/>
+  <advance width="1240"/>
   <unicode hex="016D"/>
   <outline>
+    <component base="breve" xOffset="214"/>
     <component base="u"/>
-    <component base="breve" xOffset="221"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
       <array/>
       <key>name</key>
       <string>ubreve</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>945</integer>
       <key>unicodes</key>

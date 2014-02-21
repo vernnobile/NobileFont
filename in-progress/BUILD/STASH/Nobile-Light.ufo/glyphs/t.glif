@@ -30,7 +30,13 @@
       <point x="369" y="-12"/>
     </contour>
     <contour>
+      <point x="289" y="1578" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
       <point x="297" y="1472" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="338" y="683" type="move" name="mid"/>
     </contour>
     <contour>
       <point x="484" y="0" type="move" name="bot"/>
@@ -39,8 +45,7 @@
   <lib>
     <dict>
       <key>anchors</key>
-      <array>
-      </array>
+      <array/>
       <key>com.fontlab.hintData</key>
       <dict>
         <key>hhints</key>
@@ -67,39 +72,31 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>t</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>746</integer>
         </dict>
       </dict>
       <key>components</key>
-      <array>
-      </array>
+      <array/>
       <key>contours</key>
-      <array>
-      </array>
+      <array/>
       <key>name</key>
       <string>t</string>
       <key>position</key>
       <integer>273</integer>
       <key>unicodes</key>
-      <array>
-      </array>
+      <array/>
       <key>width</key>
       <integer>777</integer>
     </dict>

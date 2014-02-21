@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth" format="1">
+  <advance width="1240"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <contour>
+      <point x="635" y="-17" type="curve" smooth="yes"/>
+      <point x="949" y="-17"/>
+      <point x="1177" y="157"/>
+      <point x="1177" y="577" type="curve" smooth="yes"/>
+      <point x="1177" y="981"/>
+      <point x="1007" y="1263"/>
+      <point x="836" y="1426" type="curve"/>
+      <point x="1006" y="1576" type="line"/>
+      <point x="898" y="1703" type="line"/>
+      <point x="709" y="1531" type="line"/>
+      <point x="666" y="1572"/>
+      <point x="568" y="1645"/>
+      <point x="504" y="1687" type="curve"/>
+      <point x="349" y="1502" type="line"/>
+      <point x="384" y="1484"/>
+      <point x="487" y="1398"/>
+      <point x="531" y="1360" type="curve"/>
+      <point x="410" y="1248" type="line"/>
+      <point x="507" y="1148" type="line"/>
+      <point x="638" y="1261" type="line"/>
+      <point x="708" y="1201"/>
+      <point x="779" y="1097"/>
+      <point x="779" y="976" type="curve"/>
+      <point x="719" y="1023"/>
+      <point x="642" y="1062"/>
+      <point x="507" y="1062" type="curve" smooth="yes"/>
+      <point x="313" y="1062"/>
+      <point x="90" y="918"/>
+      <point x="90" y="570" type="curve" smooth="yes"/>
+      <point x="90" y="90"/>
+      <point x="370" y="-17"/>
+    </contour>
+    <contour>
+      <point x="627" y="215" type="curve" smooth="yes"/>
+      <point x="524" y="215"/>
+      <point x="477" y="308"/>
+      <point x="477" y="509" type="curve" smooth="yes"/>
+      <point x="477" y="726"/>
+      <point x="524" y="827"/>
+      <point x="627" y="827" type="curve" smooth="yes"/>
+      <point x="735" y="827"/>
+      <point x="784" y="726"/>
+      <point x="784" y="509" type="curve" smooth="yes"/>
+      <point x="784" y="308"/>
+      <point x="735" y="215"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+      <key>position</key>
+      <integer>885</integer>
+      <key>width</key>
+      <integer>95</integer>
+    </dict>
+  </lib>
+</glyph>

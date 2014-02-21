@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus" format="1">
-  <advance width="1068"/>
+  <advance width="1000"/>
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="459" y="174" type="line"/>
-      <point x="600" y="174" type="line"/>
-      <point x="600" y="518" type="line"/>
-      <point x="914" y="518" type="line"/>
-      <point x="914" y="651" type="line"/>
-      <point x="600" y="651" type="line"/>
-      <point x="600" y="995" type="line"/>
-      <point x="459" y="995" type="line"/>
-      <point x="459" y="651" type="line"/>
-      <point x="146" y="651" type="line"/>
-      <point x="146" y="518" type="line"/>
-      <point x="459" y="518" type="line"/>
+      <point x="431" y="165" type="line"/>
+      <point x="561" y="165" type="line"/>
+      <point x="561" y="488" type="line"/>
+      <point x="856" y="488" type="line"/>
+      <point x="856" y="611" type="line"/>
+      <point x="561" y="611" type="line"/>
+      <point x="561" y="934" type="line"/>
+      <point x="431" y="934" type="line"/>
+      <point x="431" y="611" type="line"/>
+      <point x="136" y="611" type="line"/>
+      <point x="136" y="488" type="line"/>
+      <point x="431" y="488" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>452</integer>
       <key>width</key>

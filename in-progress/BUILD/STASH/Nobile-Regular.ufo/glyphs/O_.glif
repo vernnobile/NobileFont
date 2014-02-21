@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="O" format="1">
-  <advance width="1620"/>
+  <advance width="1604"/>
   <unicode hex="004F"/>
   <outline>
     <contour>
@@ -35,7 +35,7 @@
       <point x="802" y="1578" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="787" y="0" type="move" name="bot"/>
+      <point x="867" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>

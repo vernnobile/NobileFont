@@ -8,7 +8,7 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="20.0" />
+<data name="previewTypeSize" value="24.0" />
 <data name="previewtext" value="disease deed adenoid hoodooed deaned end denied anon iodine nosh shooed " />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
@@ -16,26 +16,26 @@
 <axis maximum="1000.0" minimum="0.0" name="new_axis_1" shortname="xx" />
 
 <!-- master definitions -->
-<master filename="Nobile-Light.ufo">
+<master filename="Nobile-Extra-Light.ufo">
 <location>
 <dimension name="new_axis_1" xvalue="0.0" />
 </location>
-<!-- color for Nobile-Light.ufo -->
+<!-- color for Nobile-Extra-Light.ufo -->
 <color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
 </master>
 <master filename="Nobile-Regular.ufo">
 <location>
-<dimension name="new_axis_1" xvalue="500.0" />
+<dimension name="new_axis_1" xvalue="400.0" />
 </location>
 <!-- color for Nobile-Regular.ufo -->
-<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
-</master>
-<master filename="Nobile-Rename.ufo">
-<location>
-<dimension name="new_axis_1" xvalue="1000.0" />
-</location>
-<!-- color for Nobile-Rename.ufo -->
 <color a="1.000000" b="0.500000" g="1.000000" r="0.500000" />
+</master>
+<master filename="Nobile-Heavy.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="900.0" />
+</location>
+<!-- color for Nobile-Heavy.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
 </master>
 
 <!-- instance definitions -->
@@ -51,17 +51,27 @@
 </instance>
 <instance familyname="Nobile" sequence="" stylename="Regular">
 <location>
-<dimension name="new_axis_1" xvalue="480.0" />
+<dimension name="new_axis_1" xvalue="400.0" />
 </location>
 </instance>
 <instance familyname="Nobile" sequence="" stylename="Bold">
 <location>
-<dimension name="new_axis_1" xvalue="760.0" />
+<dimension name="new_axis_1" xvalue="700.0" />
+</location>
+</instance>
+<instance familyname="Nobile" sequence="" stylename="Extra-Bold">
+<location>
+<dimension name="new_axis_1" xvalue="800.0" />
 </location>
 </instance>
 <instance familyname="Nobile" sequence="" stylename="Heavy">
 <location>
-<dimension name="new_axis_1" xvalue="1000.0" />
+<dimension name="new_axis_1" xvalue="900.0" />
+</location>
+</instance>
+<instance familyname="Nobile" sequence="" stylename="Medium">
+<location>
+<dimension name="new_axis_1" xvalue="500.0" />
 </location>
 </instance>
 </designspace>

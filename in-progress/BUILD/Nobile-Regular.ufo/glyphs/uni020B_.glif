@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni020B" format="1">
-  <advance width="572"/>
+  <advance width="535"/>
   <unicode hex="020B"/>
   <outline>
     <component base="i"/>
@@ -8,6 +8,8 @@
   </outline>
   <lib>
     <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>277</integer>
       <key>width</key>

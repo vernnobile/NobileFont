@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="464"/>
+  <advance width="433"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="239" y="1620" type="move" name="top"/>
+      <point x="71" y="759" type="move" name="mid"/>
     </contour>
     <contour>
-      <point x="76" y="812" type="move" name="mid"/>
+      <point x="300" y="1096" type="move" name="caron.alt"/>
     </contour>
     <contour>
-      <point x="321" y="1172" type="move" name="caron.alt"/>
+      <point x="223" y="1515" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="190" y="0" type="line"/>
-      <point x="286" y="0" type="line"/>
-      <point x="286" y="1660" type="line"/>
-      <point x="190" y="1636" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="267" y="1552" type="line"/>
+      <point x="178" y="1530" type="line"/>
     </contour>
   </outline>
   <lib>

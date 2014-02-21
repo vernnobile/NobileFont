@@ -3,57 +3,57 @@
   <advance width="1228"/>
   <unicode hex="020F"/>
   <outline>
+    <component base="uni0311" xOffset="207"/>
     <component base="o"/>
-    <component base="uni0311" xOffset="208"/>
   </outline>
   <lib>
     <dict>
-    <key>name</key>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni020F</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1263</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
       <string>uni020F</string>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>uni020F</string>
-    <key>lib</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1263</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    <key>width</key>
-      <integer>1260</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>position</key>
+      <key>position</key>
       <integer>1048</integer>
-    <key>anchors</key>
+      <key>unicodes</key>
       <array>
       </array>
+      <key>width</key>
+      <integer>1260</integer>
     </dict>
   </lib>
 </glyph>

@@ -3,17 +3,17 @@
   <advance width="605"/>
   <unicode hex="012D"/>
   <outline>
-    <component base="breve" xOffset="-98"/>
     <component base="dotlessi"/>
+    <component base="breve" xOffset="-98"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>position</key>
+      <key>position</key>
       <integer>277</integer>
-    <key>width</key>
+      <key>width</key>
       <integer>76</integer>
     </dict>
   </lib>

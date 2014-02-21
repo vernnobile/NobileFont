@@ -2,11 +2,7 @@
 <glyph name="hyphen" format="1">
   <advance width="929"/>
   <unicode hex="002D"/>
-  <unicode hex="2015"/>
   <outline>
-    <contour>
-      <point x="462" y="550" type="move" name="_mid"/>
-    </contour>
     <contour>
       <point x="149" y="477" type="line"/>
       <point x="781" y="477" type="line"/>
@@ -16,12 +12,12 @@
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>position</key>
+      <key>position</key>
       <integer>105</integer>
-    <key>width</key>
+      <key>width</key>
       <integer>613</integer>
     </dict>
   </lib>

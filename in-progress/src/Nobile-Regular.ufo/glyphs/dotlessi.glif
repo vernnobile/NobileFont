@@ -7,9 +7,6 @@
       <point x="312" y="1098" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="319" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
       <point x="215" y="0" type="line"/>
       <point x="383" y="0" type="line"/>
       <point x="383" y="1099" type="line"/>
@@ -18,12 +15,12 @@
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>position</key>
+      <key>position</key>
       <integer>86</integer>
-    <key>width</key>
+      <key>width</key>
       <integer>92</integer>
     </dict>
   </lib>

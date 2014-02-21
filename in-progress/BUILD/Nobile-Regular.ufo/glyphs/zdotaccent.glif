@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zdotaccent" format="1">
-  <advance width="999"/>
+  <advance width="936"/>
   <unicode hex="017C"/>
   <outline>
+    <component base="dotaccent" xOffset="190"/>
     <component base="z"/>
-    <component base="dotaccent" xOffset="199"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
       <array/>
       <key>name</key>
       <string>zdotaccent</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>493</integer>
       <key>unicodes</key>

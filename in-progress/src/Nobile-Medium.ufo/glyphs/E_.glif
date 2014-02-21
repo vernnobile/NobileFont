@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="1205"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="688" y="1485" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="707" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="178" y="0" type="line"/>
+      <point x="1087" y="0" type="line"/>
+      <point x="1087" y="166" type="line"/>
+      <point x="404" y="166" type="line"/>
+      <point x="404" y="691" type="line"/>
+      <point x="1001" y="691" type="line"/>
+      <point x="1001" y="836" type="line"/>
+      <point x="404" y="836" type="line"/>
+      <point x="404" y="1320" type="line"/>
+      <point x="1098" y="1320" type="line"/>
+      <point x="1098" y="1485" type="line"/>
+      <point x="178" y="1485" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1153</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>E</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>141</integer>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>1089</integer>
+    </dict>
+  </lib>
+</glyph>

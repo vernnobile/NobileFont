@@ -8,11 +8,11 @@
       <point x="1100" y="0" type="line"/>
       <point x="1100" y="80" type="line"/>
       <point x="251" y="80" type="line"/>
-      <point x="1098" y="1544" type="line"/>
-      <point x="1098" y="1620" type="line"/>
-      <point x="142" y="1620" type="line"/>
-      <point x="142" y="1540" type="line"/>
-      <point x="992" y="1540" type="line"/>
+      <point x="1098" y="1540" type="line"/>
+      <point x="1098" y="1616" type="line"/>
+      <point x="142" y="1616" type="line"/>
+      <point x="142" y="1536" type="line"/>
+      <point x="992" y="1536" type="line"/>
       <point x="142" y="79" type="line"/>
     </contour>
     <contour>
@@ -22,21 +22,17 @@
   <lib>
     <dict>
       <key>anchors</key>
-      <array>
-      </array>
+      <array/>
       <key>components</key>
-      <array>
-      </array>
+      <array/>
       <key>contours</key>
-      <array>
-      </array>
+      <array/>
       <key>name</key>
       <string>Z</string>
       <key>position</key>
       <integer>1520</integer>
       <key>unicodes</key>
-      <array>
-      </array>
+      <array/>
       <key>width</key>
       <integer>1176</integer>
     </dict>

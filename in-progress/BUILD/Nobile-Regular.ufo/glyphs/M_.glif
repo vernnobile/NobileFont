@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1920"/>
+  <advance width="1799"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="194" y="0" type="line"/>
-      <point x="368" y="0" type="line"/>
-      <point x="368" y="1339" type="line"/>
-      <point x="892" y="112" type="line"/>
-      <point x="1018" y="112" type="line"/>
-      <point x="1553" y="1339" type="line"/>
-      <point x="1553" y="0" type="line"/>
-      <point x="1726" y="0" type="line"/>
-      <point x="1726" y="1579" type="line"/>
-      <point x="1485" y="1579" type="line"/>
-      <point x="960" y="330" type="line"/>
-      <point x="435" y="1579" type="line"/>
-      <point x="194" y="1579" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="342" y="1264" type="line"/>
+      <point x="838" y="106" type="line"/>
+      <point x="954" y="106" type="line"/>
+      <point x="1458" y="1264" type="line"/>
+      <point x="1458" y="0" type="line"/>
+      <point x="1618" y="0" type="line"/>
+      <point x="1618" y="1485" type="line"/>
+      <point x="1395" y="1485" type="line"/>
+      <point x="900" y="308" type="line"/>
+      <point x="404" y="1485" type="line"/>
+      <point x="181" y="1485" type="line"/>
     </contour>
     <contour>
-      <point x="967" y="1578" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="952" y="0" type="move" name="bot"/>
+      <point x="905" y="1485" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -55,6 +52,8 @@
       <array/>
       <key>name</key>
       <string>M</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>points</key>
       <array/>
       <key>position</key>

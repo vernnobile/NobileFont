@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="1">
-  <advance width="1168"/>
+  <advance width="1094"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="174" y="0" type="line"/>
-      <point x="360" y="0" type="line"/>
-      <point x="360" y="479" type="line"/>
-      <point x="467" y="578" type="line"/>
-      <point x="947" y="-0" type="line"/>
-      <point x="1154" y="-0" type="line"/>
-      <point x="605" y="657" type="line"/>
-      <point x="1110" y="1168" type="line"/>
-      <point x="889" y="1168" type="line"/>
-      <point x="360" y="640" type="line"/>
-      <point x="360" y="1616" type="line"/>
-      <point x="174" y="1579" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="336" y="453" type="line"/>
+      <point x="435" y="544" type="line"/>
+      <point x="890" y="0" type="line"/>
+      <point x="1082" y="0" type="line"/>
+      <point x="563" y="618" type="line"/>
+      <point x="1039" y="1096" type="line"/>
+      <point x="836" y="1096" type="line"/>
+      <point x="336" y="601" type="line"/>
+      <point x="336" y="1521" type="line"/>
+      <point x="164" y="1486" type="line"/>
     </contour>
     <contour>
-      <point x="644" y="1168" type="move" name="top"/>
+      <point x="603" y="1098" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="642" y="0" type="move" name="bot"/>
+      <point x="603" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
@@ -54,6 +54,8 @@
       <array/>
       <key>name</key>
       <string>k</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>123</integer>
       <key>unicodes</key>

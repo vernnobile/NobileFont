@@ -2,9 +2,11 @@
 <glyph name="radical" format="1">
   <advance width="1650"/>
   <unicode hex="221A"/>
+  <outline>
+  </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

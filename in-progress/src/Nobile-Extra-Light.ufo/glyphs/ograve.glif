@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ograve" format="1">
-  <advance width="1280"/>
+  <advance width="1196"/>
   <unicode hex="00F2"/>
   <outline>
+    <component base="grave" xOffset="285"/>
     <component base="o"/>
-    <component base="grave" xOffset="305"/>
   </outline>
   <lib>
     <dict>

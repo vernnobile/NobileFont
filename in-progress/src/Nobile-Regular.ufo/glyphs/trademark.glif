@@ -4,39 +4,39 @@
   <unicode hex="2122"/>
   <outline>
     <contour>
-      <point x="609" y="599" type="line"/>
-      <point x="728" y="599" type="line"/>
-      <point x="728" y="1218" type="line"/>
-      <point x="913" y="601" type="line"/>
-      <point x="1076" y="601" type="line"/>
-      <point x="1262" y="1218" type="line"/>
-      <point x="1262" y="599" type="line"/>
-      <point x="1380" y="599" type="line"/>
-      <point x="1380" y="1336" type="line"/>
-      <point x="1169" y="1336" type="line"/>
-      <point x="995" y="724" type="line"/>
-      <point x="820" y="1336" type="line"/>
-      <point x="609" y="1336" type="line"/>
+      <point x="636" y="748" type="line"/>
+      <point x="755" y="748" type="line"/>
+      <point x="755" y="1367" type="line"/>
+      <point x="940" y="750" type="line"/>
+      <point x="1103" y="750" type="line"/>
+      <point x="1289" y="1367" type="line"/>
+      <point x="1289" y="748" type="line"/>
+      <point x="1407" y="748" type="line"/>
+      <point x="1407" y="1485" type="line"/>
+      <point x="1196" y="1485" type="line"/>
+      <point x="1022" y="873" type="line"/>
+      <point x="847" y="1485" type="line"/>
+      <point x="636" y="1485" type="line"/>
     </contour>
     <contour>
-      <point x="185" y="599" type="line"/>
-      <point x="310" y="599" type="line"/>
-      <point x="310" y="1241" type="line"/>
-      <point x="506" y="1241" type="line"/>
-      <point x="506" y="1336" type="line"/>
-      <point x="-7" y="1336" type="line"/>
-      <point x="-7" y="1241" type="line"/>
-      <point x="185" y="1241" type="line"/>
+      <point x="212" y="748" type="line"/>
+      <point x="337" y="748" type="line"/>
+      <point x="337" y="1390" type="line"/>
+      <point x="533" y="1390" type="line"/>
+      <point x="533" y="1485" type="line"/>
+      <point x="20" y="1485" type="line"/>
+      <point x="20" y="1390" type="line"/>
+      <point x="212" y="1390" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>position</key>
+      <key>position</key>
       <integer>1255</integer>
-    <key>width</key>
+      <key>width</key>
       <integer>90</integer>
     </dict>
   </lib>

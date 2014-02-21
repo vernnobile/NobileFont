@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zacute" format="1">
-  <advance width="999"/>
+  <advance width="936"/>
   <unicode hex="017A"/>
   <outline>
+    <component base="acute" xOffset="339"/>
     <component base="z"/>
-    <component base="acute" xOffset="360"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
       <array/>
       <key>name</key>
       <string>zacute</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>493</integer>
       <key>unicodes</key>

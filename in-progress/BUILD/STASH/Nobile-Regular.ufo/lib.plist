@@ -4,6 +4,9 @@
 <dict>
 	<key>GSDimensionPlugin.Dimensions</key>
 	<dict>
+		<key>5F2F3E34-E24A-4A89-B41B-C326736566A0</key>
+		<dict>
+	</dict>
 		<key>67845082-4271-4E32-8C80-EE8FB13E39CE</key>
 		<dict>
 	</dict>
@@ -11,16 +14,14 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<real>10</real>
+		<real>28</real>
 		<key>GSOffsetVertical</key>
-		<real>7</real>
+		<real>24</real>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>B5E80BC0-A253-4265-9E84-E8FF94ED18F5</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
-	<key>com.schriftgestaltung.weight</key>
-	<string>Light</string>
 	<key>com.schriftgestaltung.weightValue</key>
 	<real>400</real>
 	<key>com.typemytype.robofont.b.layerStrokeColor</key>
@@ -720,12 +721,10 @@
 		<string>umacron</string>
 		<string>edotaccent</string>
 		<string>uni0307</string>
-		<string>ff</string>
 		<string>fj</string>
 		<string>uniFB01</string>
 		<string>uniFB02</string>
 		<string>uring</string>
-		<string>ffi</string>
 		<string>Scedilla</string>
 		<string>gcircumflex</string>
 		<string>Idotaccent</string>
@@ -741,7 +740,6 @@
 		<string>Lcaron</string>
 		<string>Ncommaaccent</string>
 		<string>imacron</string>
-		<string>.notdef</string>
 		<string>notequal</string>
 		<string>uni0237</string>
 		<string>Ubreve</string>
@@ -788,7 +786,6 @@
 		<string>uni0202</string>
 		<string>uni0201</string>
 		<string>uni0200</string>
-		<string>uc_main_stem</string>
 		<string>Obreve</string>
 		<string>rcaron</string>
 		<string>Ccaron</string>
@@ -850,13 +847,11 @@
 		<string>integral</string>
 		<string>Ibreve</string>
 		<string>Gcommaaccent</string>
-		<string>uni000D</string>
 		<string>uogonek</string>
 		<string>Ccircumflex</string>
 		<string>Omacron</string>
 		<string>Iogonek</string>
 		<string>Nacute</string>
-		<string>uni0000</string>
 		<string>iogonek</string>
 		<string>nacute</string>
 		<string>Zdotaccent</string>
@@ -865,7 +860,6 @@
 		<string>daggerdbl</string>
 		<string>ibreve</string>
 		<string>ubreve</string>
-		<string>lc_main_stem</string>
 		<string>gdotaccent</string>
 		<string>approxequal</string>
 		<string>Imacron</string>
@@ -989,10 +983,12 @@
 		<string>product</string>
 		<string>radical</string>
 		<string>summation</string>
+		<string>uni2215</string>
 		<string>uni2219</string>
 		<string>lozenge</string>
 		<string>afii61289</string>
 		<string>estimated</string>
+		<string>caron.alt</string>
 		<string>uni0312</string>
 		<string>uni0358</string>
 		<string>afii57929</string>

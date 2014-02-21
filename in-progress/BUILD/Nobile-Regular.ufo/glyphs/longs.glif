@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs" format="1">
-  <advance width="1756"/>
+  <advance width="1650"/>
   <unicode hex="017F"/>
   <outline>
   </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
 </glyph>

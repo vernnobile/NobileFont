@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="minus" format="1">
-  <advance width="1008"/>
+  <advance width="937"/>
   <unicode hex="2212"/>
   <outline>
     <contour>
-      <point x="160" y="508" type="line"/>
-      <point x="842" y="508" type="line"/>
-      <point x="842" y="639" type="line"/>
-      <point x="160" y="639" type="line"/>
+      <point x="147" y="479" type="line"/>
+      <point x="784" y="479" type="line"/>
+      <point x="784" y="601" type="line"/>
+      <point x="147" y="601" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>508</integer>
       <key>width</key>

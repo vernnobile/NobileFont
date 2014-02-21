@@ -3,11 +3,6 @@
   <advance width="1225"/>
   <outline>
     <contour>
-      <point x="724" y="-352" type="line"/>
-      <point x="949" y="-297"/>
-      <point x="1033" y="-70"/>
-      <point x="1033" y="143" type="curve" smooth="yes"/>
-      <point x="1033" y="1096" type="line"/>
       <point x="400" y="1096" type="line"/>
       <point x="400" y="1316"/>
       <point x="411" y="1437"/>
@@ -33,6 +28,11 @@
       <point x="858" y="-20"/>
       <point x="845" y="-142"/>
       <point x="680" y="-244" type="curve"/>
+      <point x="724" y="-352" type="line"/>
+      <point x="949" y="-297"/>
+      <point x="1033" y="-70"/>
+      <point x="1033" y="143" type="curve" smooth="yes"/>
+      <point x="1033" y="1096" type="line"/>
     </contour>
     <contour>
       <point x="945" y="1266" type="curve" smooth="yes"/>
@@ -51,12 +51,12 @@
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>position</key>
+      <key>position</key>
       <integer>840</integer>
-    <key>width</key>
+      <key>width</key>
       <integer>104</integer>
     </dict>
   </lib>

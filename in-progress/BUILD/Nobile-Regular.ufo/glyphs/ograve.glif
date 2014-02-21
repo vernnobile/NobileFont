@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ograve" format="1">
-  <advance width="1308"/>
+  <advance width="1228"/>
   <unicode hex="00F2"/>
   <outline>
+    <component base="grave" xOffset="83"/>
     <component base="o"/>
-    <component base="grave" xOffset="79"/>
   </outline>
   <lib>
     <dict>
@@ -36,6 +36,8 @@
       <array/>
       <key>name</key>
       <string>ograve</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>1048</integer>
       <key>unicodes</key>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcommaaccent" format="1">
-  <advance width="821"/>
+  <advance width="767"/>
   <unicode hex="0157"/>
   <outline>
     <component base="r"/>
@@ -36,6 +36,8 @@
       <array/>
       <key>name</key>
       <string>rcommaaccent</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>position</key>
       <integer>132</integer>
       <key>unicodes</key>

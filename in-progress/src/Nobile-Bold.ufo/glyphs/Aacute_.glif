@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aacute" format="1">
-  <advance width="1482"/>
+  <advance width="1407"/>
   <unicode hex="00C1"/>
   <outline>
     <component base="A"/>
-    <component base="acute" xOffset="374" yOffset="413"/>
+    <component base="acute" xOffset="330" yOffset="387"/>
   </outline>
   <lib>
     <dict>

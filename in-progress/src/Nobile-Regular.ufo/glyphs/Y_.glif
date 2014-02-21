@@ -20,27 +20,27 @@
   </outline>
   <lib>
     <dict>
-    <key>name</key>
-      <string>Y</string>
-    <key>unicodes</key>
+      <key>anchors</key>
       <array>
       </array>
-    <key>org.robofab.postScriptHintData</key>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>Y</string>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>width</key>
-      <integer>1260</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>position</key>
+      <key>position</key>
       <integer>578</integer>
-    <key>anchors</key>
+      <key>unicodes</key>
       <array>
       </array>
+      <key>width</key>
+      <integer>1260</integer>
     </dict>
   </lib>
 </glyph>

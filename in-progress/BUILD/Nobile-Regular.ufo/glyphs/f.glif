@@ -1,39 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="1">
-  <advance width="850"/>
+  <advance width="795"/>
   <unicode hex="0066"/>
   <outline>
     <contour>
-      <point x="296" y="0" type="line"/>
-      <point x="482" y="0" type="line"/>
-      <point x="482" y="1045" type="line"/>
-      <point x="829" y="1045" type="line"/>
-      <point x="829" y="1168" type="line"/>
-      <point x="482" y="1168" type="line"/>
-      <point x="482" y="1252" type="line" smooth="yes"/>
-      <point x="482" y="1485"/>
-      <point x="593" y="1508"/>
-      <point x="666" y="1509" type="curve" smooth="yes"/>
-      <point x="705" y="1510"/>
-      <point x="773" y="1493"/>
-      <point x="823" y="1474" type="curve"/>
-      <point x="862" y="1599" type="line"/>
-      <point x="791" y="1628"/>
-      <point x="716" y="1646"/>
-      <point x="646" y="1648" type="curve" smooth="yes"/>
-      <point x="488" y="1653"/>
-      <point x="296" y="1569"/>
-      <point x="296" y="1260" type="curve" smooth="yes"/>
-      <point x="296" y="1168" type="line"/>
-      <point x="92" y="1168" type="line"/>
-      <point x="92" y="1045" type="line"/>
-      <point x="296" y="1045" type="line"/>
+      <point x="602" y="1548" type="curve" smooth="yes"/>
+      <point x="453" y="1552"/>
+      <point x="277" y="1472"/>
+      <point x="277" y="1183" type="curve" smooth="yes"/>
+      <point x="277" y="1096" type="line"/>
+      <point x="86" y="1096" type="line"/>
+      <point x="86" y="982" type="line"/>
+      <point x="277" y="982" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="448" y="982" type="line"/>
+      <point x="774" y="982" type="line"/>
+      <point x="774" y="1096" type="line"/>
+      <point x="448" y="1096" type="line"/>
+      <point x="448" y="1176" type="line" smooth="yes"/>
+      <point x="448" y="1394"/>
+      <point x="549" y="1418"/>
+      <point x="620" y="1419" type="curve" smooth="yes"/>
+      <point x="658" y="1420"/>
+      <point x="722" y="1404"/>
+      <point x="769" y="1386" type="curve"/>
+      <point x="806" y="1502" type="line"/>
+      <point x="740" y="1529"/>
+      <point x="669" y="1546"/>
     </contour>
     <contour>
-      <point x="357" y="1578" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="355" y="0" type="move" name="bot"/>
+      <point x="334" y="1485" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -296,6 +293,8 @@
       <array/>
       <key>name</key>
       <string>f</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
       <key>points</key>
       <array/>
       <key>position</key>

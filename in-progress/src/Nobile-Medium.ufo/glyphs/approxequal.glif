@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="approxequal" format="1">
+  <advance width="1028"/>
+  <unicode hex="2248"/>
+  <outline>
+    <component base="asciitilde" yOffset="3"/>
+    <component base="asciitilde" yOffset="-187"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>635</integer>
+      <key>width</key>
+      <integer>122</integer>
+    </dict>
+  </lib>
+</glyph>

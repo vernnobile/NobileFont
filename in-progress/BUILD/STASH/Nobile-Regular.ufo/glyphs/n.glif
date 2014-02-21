@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n" format="1">
-  <advance width="1275"/>
+  <advance width="1303"/>
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="160" y="0" type="line"/>
-      <point x="346" y="0" type="line"/>
-      <point x="346" y="871.282" type="line"/>
-      <point x="429.385" y="954.734"/>
-      <point x="546.348" y="1042"/>
-      <point x="716" y="1042" type="curve" smooth="yes"/>
-      <point x="907" y="1042"/>
-      <point x="939" y="880"/>
-      <point x="939" y="723" type="curve" smooth="yes"/>
-      <point x="939" y="-1.77002e-06" type="line"/>
-      <point x="1125" y="-1.77002e-06" type="line"/>
-      <point x="1125" y="723" type="line" smooth="yes"/>
-      <point x="1125" y="982"/>
-      <point x="1028" y="1186"/>
-      <point x="728" y="1186" type="curve" smooth="yes"/>
-      <point x="548.077" y="1186"/>
-      <point x="417.719" y="1096.09"/>
-      <point x="325.988" y="1002.91" type="curve"/>
-      <point x="300" y="1169" type="line"/>
-      <point x="160" y="1169" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="871" type="line"/>
+      <point x="443" y="955"/>
+      <point x="560" y="1042"/>
+      <point x="730" y="1042" type="curve" smooth="yes"/>
+      <point x="921" y="1042"/>
+      <point x="953" y="880"/>
+      <point x="953" y="723" type="curve" smooth="yes"/>
+      <point x="953" y="0" type="line"/>
+      <point x="1139" y="0" type="line"/>
+      <point x="1139" y="723" type="line" smooth="yes"/>
+      <point x="1139" y="982"/>
+      <point x="1042" y="1186"/>
+      <point x="742" y="1186" type="curve" smooth="yes"/>
+      <point x="562" y="1186"/>
+      <point x="432" y="1096"/>
+      <point x="340" y="1003" type="curve"/>
+      <point x="314" y="1168" type="line"/>
+      <point x="174" y="1168" type="line"/>
     </contour>
     <contour>
-      <point x="680" y="1168" type="move" name="top"/>
+      <point x="694" y="1168" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="678" y="0" type="move" name="bot"/>
+      <point x="692" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>

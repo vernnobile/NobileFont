@@ -7,13 +7,13 @@
       <point x="110" y="0" type="line"/>
       <point x="888" y="0" type="line"/>
       <point x="888" y="145" type="line"/>
-      <point x="286" y="145" type="line"/>
-      <point x="888" y="1004" type="line"/>
-      <point x="888" y="1169" type="line"/>
-      <point x="140" y="1169" type="line"/>
-      <point x="140" y="1029" type="line"/>
-      <point x="724" y="1029" type="line"/>
-      <point x="110" y="166" type="line"/>
+      <point x="310" y="145" type="line"/>
+      <point x="900" y="1043" type="line"/>
+      <point x="900" y="1168" type="line"/>
+      <point x="140" y="1168" type="line"/>
+      <point x="140" y="1028" type="line"/>
+      <point x="711" y="1028" type="line"/>
+      <point x="110" y="136" type="line"/>
     </contour>
     <contour>
       <point x="533" y="1168" type="move" name="top"/>
