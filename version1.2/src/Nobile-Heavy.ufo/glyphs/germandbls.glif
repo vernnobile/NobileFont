@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="1">
+  <advance width="1573"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="650" y="-211" type="line"/>
+      <point x="1110" y="-211"/>
+      <point x="1511" y="-21"/>
+      <point x="1511" y="321" type="curve" smooth="yes"/>
+      <point x="1511" y="585"/>
+      <point x="1352" y="722"/>
+      <point x="1020" y="765" type="curve"/>
+      <point x="1276" y="797"/>
+      <point x="1369" y="935"/>
+      <point x="1369" y="1087" type="curve" smooth="yes"/>
+      <point x="1369" y="1190"/>
+      <point x="1338" y="1488"/>
+      <point x="789" y="1492" type="curve" smooth="yes"/>
+      <point x="345" y="1492"/>
+      <point x="142" y="1289"/>
+      <point x="142" y="902" type="curve" smooth="yes"/>
+      <point x="142" y="2" type="line"/>
+      <point x="557" y="-6" type="line"/>
+      <point x="557" y="912" type="line" smooth="yes"/>
+      <point x="557" y="1171"/>
+      <point x="628" y="1223"/>
+      <point x="789" y="1223" type="curve" smooth="yes"/>
+      <point x="1042" y="1223"/>
+      <point x="1008" y="1068"/>
+      <point x="1008" y="1049" type="curve" smooth="yes"/>
+      <point x="1008" y="931"/>
+      <point x="933" y="861"/>
+      <point x="757" y="858" type="curve"/>
+      <point x="698" y="858" type="line"/>
+      <point x="699" y="668"/>
+      <point x="698" y="623"/>
+      <point x="698" y="620" type="curve"/>
+      <point x="1027" y="620"/>
+      <point x="1098" y="483"/>
+      <point x="1098" y="319" type="curve" smooth="yes"/>
+      <point x="1098" y="251"/>
+      <point x="1060" y="140"/>
+      <point x="648" y="100" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>germandbls</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>1039</integer>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>1163</integer>
+    </dict>
+  </lib>
+</glyph>

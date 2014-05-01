@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+  <advance width="1364"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="1092" y="340" type="line"/>
+      <point x="1165" y="451" type="line"/>
+      <point x="479" y="811" type="line"/>
+      <point x="1165" y="1171" type="line"/>
+      <point x="1092" y="1282" type="line"/>
+      <point x="198" y="811" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="0" type="line"/>
+      <point x="1148" y="0" type="line"/>
+      <point x="1148" y="132" type="line"/>
+      <point x="295" y="132" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="1">
+  <advance width="945"/>
+  <unicode hex="006D"/>
+  <outline>
+    <contour>
+      <point x="500" y="535" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="87" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="411" type="line"/>
+      <point x="190" y="477"/>
+      <point x="255" y="509"/>
+      <point x="326" y="509" type="curve" smooth="yes"/>
+      <point x="448" y="509"/>
+      <point x="453" y="426"/>
+      <point x="453" y="327" type="curve" smooth="yes"/>
+      <point x="453" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="497" y="331" type="line" smooth="yes"/>
+      <point x="497" y="356"/>
+      <point x="496" y="382"/>
+      <point x="493" y="406" type="curve"/>
+      <point x="558" y="484"/>
+      <point x="623" y="509"/>
+      <point x="693" y="509" type="curve" smooth="yes"/>
+      <point x="815" y="509"/>
+      <point x="821" y="426"/>
+      <point x="821" y="327" type="curve" smooth="yes"/>
+      <point x="821" y="0" type="line"/>
+      <point x="865" y="0" type="line"/>
+      <point x="865" y="331" type="line" smooth="yes"/>
+      <point x="865" y="436"/>
+      <point x="848" y="545"/>
+      <point x="697" y="545" type="curve" smooth="yes"/>
+      <point x="616" y="545"/>
+      <point x="545" y="517"/>
+      <point x="485" y="442" type="curve"/>
+      <point x="467" y="501"/>
+      <point x="425" y="545"/>
+      <point x="329" y="545" type="curve" smooth="yes"/>
+      <point x="247" y="545"/>
+      <point x="184" y="515"/>
+      <point x="127" y="447" type="curve"/>
+      <point x="119" y="536" type="line"/>
+      <point x="87" y="536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>segmentType</key>
+      <string>curve</string>
+    <key>name</key>
+      <string>m</string>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>m</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1989</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>baseGlyph</key>
+      <string>lc_main_stem</string>
+    <key>width</key>
+      <integer>1901</integer>
+    <key>points</key>
+      <array>
+      </array>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>position</key>
+      <integer>1677</integer>
+    <key>y</key>
+      <integer>856</integer>
+    <key>x</key>
+      <integer>206</integer>
+    <key>transformation</key>
+      <array>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

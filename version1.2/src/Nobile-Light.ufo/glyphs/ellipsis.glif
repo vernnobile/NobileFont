@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="1467"/>
+  <unicode hex="2026"/>
+  <outline>
+    <component base="period" xOffset="611"/>
+    <component base="period" xOffset="489"/>
+    <component base="period" xOffset="368"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

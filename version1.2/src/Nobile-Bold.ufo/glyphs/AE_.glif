@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1914"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="1255" y="1489" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-5" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="495" y="322" type="line"/>
+      <point x="927" y="322" type="line"/>
+      <point x="927" y="0" type="line"/>
+      <point x="1837" y="0" type="line"/>
+      <point x="1837" y="233" type="line"/>
+      <point x="1236" y="233" type="line"/>
+      <point x="1236" y="671" type="line"/>
+      <point x="1747" y="671" type="line"/>
+      <point x="1747" y="870" type="line"/>
+      <point x="1236" y="870" type="line"/>
+      <point x="1236" y="1257" type="line"/>
+      <point x="1831" y="1257" type="line"/>
+      <point x="1831" y="1489" type="line"/>
+      <point x="711" y="1489" type="line"/>
+    </contour>
+    <contour>
+      <point x="572" y="520" type="line"/>
+      <point x="927" y="1285" type="line"/>
+      <point x="927" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>981</integer>
+      <key>width</key>
+      <integer>63</integer>
+    </dict>
+  </lib>
+</glyph>

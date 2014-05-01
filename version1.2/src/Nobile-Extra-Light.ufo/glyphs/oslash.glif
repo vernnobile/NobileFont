@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="497"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="242" y="539" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="133" y="-97" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="192" y="-7"/>
+      <point x="217" y="-10"/>
+      <point x="240" y="-10" type="curve" smooth="yes"/>
+      <point x="404" y="-10"/>
+      <point x="474" y="125"/>
+      <point x="474" y="266" type="curve" smooth="yes"/>
+      <point x="474" y="355"/>
+      <point x="446" y="466"/>
+      <point x="347" y="521" type="curve"/>
+      <point x="379" y="615" type="line"/>
+      <point x="348" y="627" type="line"/>
+      <point x="315" y="534" type="line"/>
+      <point x="291" y="542"/>
+      <point x="264" y="545"/>
+      <point x="240" y="545" type="curve" smooth="yes"/>
+      <point x="76" y="545"/>
+      <point x="8" y="404"/>
+      <point x="8" y="266" type="curve" smooth="yes"/>
+      <point x="8" y="179"/>
+      <point x="33" y="67"/>
+      <point x="133" y="14" type="curve"/>
+      <point x="97" y="-85" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="47" type="line"/>
+      <point x="68" y="91"/>
+      <point x="50" y="187"/>
+      <point x="50" y="266" type="curve" smooth="yes"/>
+      <point x="50" y="364"/>
+      <point x="87" y="505"/>
+      <point x="240" y="505" type="curve" smooth="yes"/>
+      <point x="260" y="505"/>
+      <point x="281" y="504"/>
+      <point x="301" y="497" type="curve"/>
+    </contour>
+    <contour>
+      <point x="240" y="29" type="curve" smooth="yes"/>
+      <point x="221" y="29"/>
+      <point x="201" y="30"/>
+      <point x="181" y="36" type="curve"/>
+      <point x="334" y="487" type="line"/>
+      <point x="415" y="438"/>
+      <point x="430" y="336"/>
+      <point x="430" y="266" type="curve" smooth="yes"/>
+      <point x="430" y="167"/>
+      <point x="394" y="29"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>position</key>
+      <integer>942</integer>
+    <key>width</key>
+      <integer>95</integer>
+    </dict>
+  </lib>
+</glyph>

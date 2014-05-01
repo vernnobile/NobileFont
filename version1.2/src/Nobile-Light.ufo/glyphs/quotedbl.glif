@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="1">
+  <advance width="483"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="87" y="1048" type="line"/>
+      <point x="157" y="1048" type="line"/>
+      <point x="180" y="1426" type="line"/>
+      <point x="181" y="1435"/>
+      <point x="180" y="1491"/>
+      <point x="180" y="1501" type="curve"/>
+      <point x="55" y="1501" type="line"/>
+      <point x="55" y="1491"/>
+      <point x="54" y="1434"/>
+      <point x="55" y="1425" type="curve"/>
+    </contour>
+    <contour>
+      <point x="338" y="1048" type="line"/>
+      <point x="408" y="1048" type="line"/>
+      <point x="436" y="1426" type="line"/>
+      <point x="437" y="1435"/>
+      <point x="436" y="1491"/>
+      <point x="436" y="1501" type="curve"/>
+      <point x="316" y="1501" type="line"/>
+      <point x="316" y="1491"/>
+      <point x="315" y="1434"/>
+      <point x="316" y="1425" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>6</integer>
+      <key>width</key>
+      <integer>157</integer>
+    </dict>
+  </lib>
+</glyph>

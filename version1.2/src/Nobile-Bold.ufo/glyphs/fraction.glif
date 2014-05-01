@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="1">
+  <advance width="1052"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="235" y="-17" type="line"/>
+      <point x="1052" y="1506" type="line"/>
+      <point x="813" y="1506" type="line"/>
+      <point x="0" y="-17" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G" format="1">
+  <advance width="1478"/>
+  <unicode hex="0047"/>
+  <outline>
+    <contour>
+      <point x="770" y="-2" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="734" y="-20" type="curve" smooth="yes"/>
+      <point x="908" y="-20"/>
+      <point x="1105" y="38"/>
+      <point x="1148" y="185" type="curve"/>
+      <point x="1196" y="0" type="line"/>
+      <point x="1312" y="0" type="line"/>
+      <point x="1312" y="781" type="line"/>
+      <point x="765" y="781" type="line"/>
+      <point x="765" y="638" type="line"/>
+      <point x="1110" y="638" type="line"/>
+      <point x="1110" y="357" type="line"/>
+      <point x="1095" y="208"/>
+      <point x="939" y="150"/>
+      <point x="784" y="150" type="curve" smooth="yes"/>
+      <point x="441" y="150"/>
+      <point x="355" y="413"/>
+      <point x="355" y="733" type="curve" smooth="yes"/>
+      <point x="355" y="1053"/>
+      <point x="453" y="1334"/>
+      <point x="802" y="1334" type="curve" smooth="yes"/>
+      <point x="924" y="1334"/>
+      <point x="1060" y="1296"/>
+      <point x="1152" y="1236" type="curve"/>
+      <point x="1223" y="1386" type="line"/>
+      <point x="1093" y="1456"/>
+      <point x="958" y="1505"/>
+      <point x="798" y="1505" type="curve" smooth="yes"/>
+      <point x="346" y="1505"/>
+      <point x="128" y="1194"/>
+      <point x="128" y="736" type="curve" smooth="yes"/>
+      <point x="128" y="334"/>
+      <point x="313" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>hhints</key>
+      <dict>
+      </dict>
+      <key>name</key>
+      <string>G</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>points</key>
+      <array>
+      </array>
+      <key>position</key>
+      <integer>1303</integer>
+      <key>segmentType</key>
+      <string>line</string>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>vhints</key>
+      <dict>
+      </dict>
+      <key>width</key>
+      <integer>1411</integer>
+    </dict>
+  </lib>
+</glyph>

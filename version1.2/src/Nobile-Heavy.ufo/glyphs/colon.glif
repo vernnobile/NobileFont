@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="1">
+  <advance width="801"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="189" y="0" type="line"/>
+      <point x="613" y="0" type="line"/>
+      <point x="613" y="463" type="line"/>
+      <point x="189" y="463" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="751" type="line"/>
+      <point x="613" y="751" type="line"/>
+      <point x="613" y="1210" type="line"/>
+      <point x="189" y="1210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>colon</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>102</integer>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>404</integer>
+    </dict>
+  </lib>
+</glyph>

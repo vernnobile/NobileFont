@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="1553"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="791" y="1485" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="172" y="0" type="line"/>
+      <point x="491" y="0" type="line"/>
+      <point x="491" y="669" type="line"/>
+      <point x="1062" y="669" type="line"/>
+      <point x="1062" y="0" type="line"/>
+      <point x="1381" y="0" type="line"/>
+      <point x="1381" y="1485" type="line"/>
+      <point x="1062" y="1485" type="line"/>
+      <point x="1062" y="874" type="line"/>
+      <point x="491" y="874" type="line"/>
+      <point x="491" y="1485" type="line"/>
+      <point x="172" y="1485" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>H</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1497</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>hhints</key>
+      <dict>
+      </dict>
+      <key>name</key>
+      <string>H</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>points</key>
+      <array>
+      </array>
+      <key>position</key>
+      <integer>1218</integer>
+      <key>segmentType</key>
+      <string>line</string>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>vhints</key>
+      <dict>
+      </dict>
+      <key>width</key>
+      <integer>1459</integer>
+      <key>x</key>
+      <integer>260</integer>
+      <key>y</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

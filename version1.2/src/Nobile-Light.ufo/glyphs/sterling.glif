@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling" format="1">
+  <advance width="991"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="136" y="0" type="line"/>
+      <point x="873" y="0" type="line"/>
+      <point x="873" y="94" type="line"/>
+      <point x="265" y="94" type="line"/>
+      <point x="373" y="192"/>
+      <point x="430" y="307"/>
+      <point x="430" y="420" type="curve" smooth="yes"/>
+      <point x="430" y="472"/>
+      <point x="418" y="524"/>
+      <point x="393" y="574" type="curve"/>
+      <point x="796" y="574" type="line"/>
+      <point x="796" y="648" type="line"/>
+      <point x="365" y="648" type="line"/>
+      <point x="301" y="743"/>
+      <point x="269" y="841"/>
+      <point x="269" y="916" type="curve" smooth="yes"/>
+      <point x="269" y="1090"/>
+      <point x="418" y="1140"/>
+      <point x="546" y="1140" type="curve" smooth="yes"/>
+      <point x="646" y="1140"/>
+      <point x="750" y="1113"/>
+      <point x="845" y="1059" type="curve"/>
+      <point x="882" y="1146" type="line"/>
+      <point x="782" y="1209"/>
+      <point x="656" y="1242"/>
+      <point x="534" y="1242" type="curve" smooth="yes"/>
+      <point x="354" y="1242"/>
+      <point x="149" y="1162"/>
+      <point x="149" y="923" type="curve" smooth="yes"/>
+      <point x="149" y="837"/>
+      <point x="183" y="740"/>
+      <point x="249" y="648" type="curve"/>
+      <point x="85" y="648" type="line"/>
+      <point x="85" y="574" type="line"/>
+      <point x="286" y="574" type="line"/>
+      <point x="309" y="525"/>
+      <point x="320" y="476"/>
+      <point x="320" y="428" type="curve" smooth="yes"/>
+      <point x="320" y="306"/>
+      <point x="248" y="186"/>
+      <point x="136" y="87" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>218</integer>
+      <key>width</key>
+      <integer>92</integer>
+    </dict>
+  </lib>
+</glyph>

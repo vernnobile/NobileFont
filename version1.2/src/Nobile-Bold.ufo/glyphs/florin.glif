@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="1">
+  <advance width="1230"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="395" y="0" type="line"/>
+      <point x="695" y="0" type="line"/>
+      <point x="806" y="949" type="line"/>
+      <point x="1081" y="949" type="line"/>
+      <point x="1096" y="1091" type="line"/>
+      <point x="822" y="1091" type="line"/>
+      <point x="845" y="1288"/>
+      <point x="911" y="1325"/>
+      <point x="985" y="1325" type="curve" smooth="yes"/>
+      <point x="1032" y="1325"/>
+      <point x="1079" y="1324"/>
+      <point x="1131" y="1309" type="curve"/>
+      <point x="1152" y="1530" type="line"/>
+      <point x="1071" y="1547"/>
+      <point x="1001" y="1554"/>
+      <point x="931" y="1554" type="curve" smooth="yes"/>
+      <point x="708" y="1554"/>
+      <point x="554" y="1424"/>
+      <point x="517" y="1091" type="curve"/>
+      <point x="338" y="1091" type="line"/>
+      <point x="323" y="949" type="line"/>
+      <point x="502" y="949" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>1577</integer>
+      <key>width</key>
+      <integer>80</integer>
+    </dict>
+  </lib>
+</glyph>

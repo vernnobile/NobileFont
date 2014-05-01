@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni020B" format="1">
+  <advance width="535"/>
+  <unicode hex="020B"/>
+  <outline>
+    <component base="uni0311"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>width</key>
+      <integer>30</integer>
+    <key>position</key>
+      <integer>277</integer>
+    </dict>
+  </lib>
+</glyph>

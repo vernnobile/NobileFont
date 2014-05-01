@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="578"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <component base="C"/>
+    <contour>
+      <point x="-52" y="286" type="line"/>
+      <point x="347" y="286" type="line"/>
+      <point x="347" y="316" type="line"/>
+      <point x="83" y="316" type="line"/>
+      <point x="83" y="430" type="line"/>
+      <point x="347" y="430" type="line"/>
+      <point x="347" y="460" type="line"/>
+      <point x="-52" y="460" type="line"/>
+      <point x="-52" y="430" type="line"/>
+      <point x="62" y="430" type="line"/>
+      <point x="62" y="316" type="line"/>
+      <point x="-52" y="316" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>position</key>
+      <integer>142</integer>
+    <key>width</key>
+      <integer>78</integer>
+    </dict>
+  </lib>
+</glyph>

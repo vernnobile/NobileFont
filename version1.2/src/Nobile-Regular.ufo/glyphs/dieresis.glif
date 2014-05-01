@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="942"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="483" y="1098" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="243" y="1243" type="curve" smooth="yes"/>
+      <point x="303" y="1243"/>
+      <point x="343" y="1292"/>
+      <point x="343" y="1350" type="curve" smooth="yes"/>
+      <point x="343" y="1407"/>
+      <point x="303" y="1456"/>
+      <point x="243" y="1456" type="curve" smooth="yes"/>
+      <point x="184" y="1456"/>
+      <point x="140" y="1407"/>
+      <point x="140" y="1350" type="curve" smooth="yes"/>
+      <point x="140" y="1291"/>
+      <point x="183" y="1243"/>
+    </contour>
+    <contour>
+      <point x="700" y="1243" type="curve" smooth="yes"/>
+      <point x="760" y="1243"/>
+      <point x="800" y="1292"/>
+      <point x="800" y="1350" type="curve" smooth="yes"/>
+      <point x="800" y="1407"/>
+      <point x="760" y="1456"/>
+      <point x="700" y="1456" type="curve" smooth="yes"/>
+      <point x="642" y="1456"/>
+      <point x="597" y="1407"/>
+      <point x="597" y="1350" type="curve" smooth="yes"/>
+      <point x="597" y="1291"/>
+      <point x="641" y="1243"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>width</key>
+      <integer>129</integer>
+    <key>position</key>
+      <integer>435</integer>
+    </dict>
+  </lib>
+</glyph>

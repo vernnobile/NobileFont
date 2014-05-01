@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="954"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="376" y="735" type="curve"/>
+      <point x="400" y="777"/>
+      <point x="372" y="725"/>
+      <point x="501" y="950" type="curve"/>
+      <point x="625" y="732" type="line"/>
+      <point x="807" y="844" type="line"/>
+      <point x="677" y="1074" type="line"/>
+      <point x="921" y="1074" type="line"/>
+      <point x="921" y="1249" type="line"/>
+      <point x="672" y="1249" type="line"/>
+      <point x="810" y="1487" type="line"/>
+      <point x="736" y="1530"/>
+      <point x="704" y="1549"/>
+      <point x="629" y="1593" type="curve"/>
+      <point x="591" y="1531"/>
+      <point x="606" y="1564"/>
+      <point x="496" y="1374" type="curve"/>
+      <point x="367" y="1592" type="line"/>
+      <point x="191" y="1493" type="line"/>
+      <point x="327" y="1249" type="line"/>
+      <point x="55" y="1249" type="line"/>
+      <point x="55" y="1074" type="line"/>
+      <point x="327" y="1074" type="line"/>
+      <point x="195" y="844" type="line"/>
+      <point x="269" y="801"/>
+      <point x="301" y="780"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1019</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>asterisk</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>1148</integer>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>56</integer>
+    </dict>
+  </lib>
+</glyph>

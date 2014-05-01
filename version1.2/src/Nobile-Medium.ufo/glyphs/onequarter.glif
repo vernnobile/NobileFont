@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="1865"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="1643" y="-17" type="line"/>
+      <point x="1643" y="229" type="line"/>
+      <point x="1782" y="229" type="line"/>
+      <point x="1782" y="353" type="line"/>
+      <point x="1643" y="353" type="line"/>
+      <point x="1643" y="1019" type="line"/>
+      <point x="1498" y="1054" type="line"/>
+      <point x="996" y="345" type="line"/>
+      <point x="1019" y="229" type="line"/>
+      <point x="1486" y="229" type="line"/>
+      <point x="1486" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="328" y="620" type="line"/>
+      <point x="502" y="620" type="line"/>
+      <point x="502" y="1497" type="line"/>
+      <point x="368" y="1525" type="line"/>
+      <point x="123" y="1422" type="line"/>
+      <point x="165" y="1314" type="line"/>
+      <point x="328" y="1386" type="line"/>
+    </contour>
+    <contour>
+      <point x="489" y="-41" type="line"/>
+      <point x="1459" y="1512" type="line"/>
+      <point x="1336" y="1582" type="line"/>
+      <point x="366" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="1162" y="352" type="line"/>
+      <point x="1486" y="822" type="line"/>
+      <point x="1486" y="352" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>1002</integer>
+      <key>width</key>
+      <integer>92</integer>
+    </dict>
+  </lib>
+</glyph>

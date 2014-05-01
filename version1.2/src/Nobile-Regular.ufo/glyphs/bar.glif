@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="1">
+  <advance width="658"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="247" y="-103" type="line"/>
+      <point x="412" y="-103" type="line"/>
+      <point x="412" y="1595" type="line"/>
+      <point x="247" y="1595" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>width</key>
+      <integer>108</integer>
+    <key>position</key>
+      <integer>63</integer>
+    </dict>
+  </lib>
+</glyph>

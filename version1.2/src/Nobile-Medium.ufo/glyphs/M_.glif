@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="1831"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="921" y="1485" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="178" y="0" type="line"/>
+      <point x="374" y="0" type="line"/>
+      <point x="374" y="1193" type="line"/>
+      <point x="829" y="85" type="line"/>
+      <point x="999" y="85" type="line"/>
+      <point x="1458" y="1193" type="line"/>
+      <point x="1458" y="0" type="line"/>
+      <point x="1654" y="0" type="line"/>
+      <point x="1654" y="1485" type="line"/>
+      <point x="1381" y="1485" type="line"/>
+      <point x="914" y="338" type="line"/>
+      <point x="450" y="1485" type="line"/>
+      <point x="178" y="1485" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>M</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1775</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>M</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>points</key>
+      <array>
+      </array>
+      <key>position</key>
+      <integer>1497</integer>
+      <key>segmentType</key>
+      <string>line</string>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>1739</integer>
+      <key>x</key>
+      <integer>263</integer>
+      <key>y</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

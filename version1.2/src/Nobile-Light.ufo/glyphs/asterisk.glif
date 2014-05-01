@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="912"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="298" y="771" type="line"/>
+      <point x="450" y="1042" type="line"/>
+      <point x="601" y="771" type="line"/>
+      <point x="677" y="812" type="line"/>
+      <point x="506" y="1075" type="line"/>
+      <point x="801" y="1070" type="line"/>
+      <point x="801" y="1148" type="line"/>
+      <point x="505" y="1141" type="line"/>
+      <point x="668" y="1406" type="line"/>
+      <point x="594" y="1445" type="line"/>
+      <point x="450" y="1169" type="line"/>
+      <point x="305" y="1445" type="line"/>
+      <point x="231" y="1406" type="line"/>
+      <point x="393" y="1141" type="line"/>
+      <point x="98" y="1148" type="line"/>
+      <point x="98" y="1070" type="line"/>
+      <point x="392" y="1075" type="line"/>
+      <point x="223" y="812" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1019</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>asterisk</string>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>1148</integer>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>56</integer>
+    </dict>
+  </lib>
+</glyph>

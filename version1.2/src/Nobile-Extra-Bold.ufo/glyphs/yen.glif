@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="1311"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="1306" y="1485" type="line"/>
+      <point x="947" y="1485" type="line"/>
+      <point x="656" y="879" type="line"/>
+      <point x="368" y="1485" type="line"/>
+      <point x="4" y="1485" type="line"/>
+      <point x="374" y="737" type="line"/>
+      <point x="165" y="737" type="line"/>
+      <point x="165" y="622" type="line"/>
+      <point x="421" y="622" type="line"/>
+      <point x="471" y="480" type="line"/>
+      <point x="165" y="480" type="line"/>
+      <point x="165" y="365" type="line"/>
+      <point x="471" y="365" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="828" y="0" type="line"/>
+      <point x="828" y="365" type="line"/>
+      <point x="1127" y="365" type="line"/>
+      <point x="1127" y="480" type="line"/>
+      <point x="828" y="480" type="line"/>
+      <point x="875" y="622" type="line"/>
+      <point x="1127" y="622" type="line"/>
+      <point x="1127" y="737" type="line"/>
+      <point x="922" y="737" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+      <key>position</key>
+      <integer>427</integer>
+      <key>width</key>
+      <integer>105</integer>
+    </dict>
+  </lib>
+</glyph>

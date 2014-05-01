@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="1">
+  <advance width="1248"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="776" y="-3" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="791" y="1488" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="779" y="-20" type="curve" smooth="yes"/>
+      <point x="937" y="-20"/>
+      <point x="1071" y="31"/>
+      <point x="1186" y="100" type="curve"/>
+      <point x="1128" y="222" type="line"/>
+      <point x="1034" y="167"/>
+      <point x="912" y="120"/>
+      <point x="787" y="120" type="curve" smooth="yes"/>
+      <point x="413" y="120"/>
+      <point x="317" y="426"/>
+      <point x="317" y="737" type="curve" smooth="yes"/>
+      <point x="317" y="1051"/>
+      <point x="423" y="1364"/>
+      <point x="794" y="1364" type="curve" smooth="yes"/>
+      <point x="918" y="1364"/>
+      <point x="1035" y="1317"/>
+      <point x="1103" y="1278" type="curve"/>
+      <point x="1158" y="1398" type="line"/>
+      <point x="1080" y="1447"/>
+      <point x="956" y="1505"/>
+      <point x="794" y="1505" type="curve" smooth="yes"/>
+      <point x="327" y="1505"/>
+      <point x="137" y="1176"/>
+      <point x="137" y="741" type="curve" smooth="yes"/>
+      <point x="137" y="329"/>
+      <point x="304" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>hhints</key>
+      <dict>
+      </dict>
+    <key>name</key>
+      <string>C</string>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>vhints</key>
+      <dict>
+      </dict>
+    <key>width</key>
+      <integer>1270</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>position</key>
+      <integer>120</integer>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>
